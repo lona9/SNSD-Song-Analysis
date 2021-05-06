@@ -1,0 +1,812 @@
+<!doctype html><html
+lang="en-US"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="https://gmpg.org/xfn/11"><title>Girls’ Generation (少女时代) - Gee (Japanese Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL</title><meta
+name="description" content="Girls’ Generation (少女时代) - Gee (Japanese Ver.) Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link
+rel="canonical" href="https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Girls’ Generation (少女时代) - Gee (Japanese Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL" /><meta
+property="og:description" content="Girls’ Generation (少女时代) - Gee (Japanese Ver.) Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+property="og:url" content="https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics" /><meta
+property="og:site_name" content="Color Coded Lyrics" /><meta
+property="article:publisher" content="https://www.facebook.com/ColorCodedLyrics/" /><meta
+property="article:published_time" content="2010-10-13T00:48:06+00:00" /><meta
+property="article:modified_time" content="2020-04-30T06:12:19+00:00" /><meta
+property="og:image" content="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2012/06/SNSD-gee-japanese.jpg?fit=500%2C500&#038;ssl=1" /><meta
+property="og:image:width" content="500" /><meta
+property="og:image:height" content="500" /><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:creator" content="@CodedLyrics" /><meta
+name="twitter:site" content="@CodedLyrics" /><meta
+name="twitter:label1" content="Written by"><meta
+name="twitter:data1" content="Kat-Admin"><meta
+name="twitter:label2" content="Est. reading time"><meta
+name="twitter:data2" content="5 minutes"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","contentUrl":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#primaryimage","inLanguage":"en-US","url":"https://colorcodedlyrics.com/wp-content/uploads/2012/06/SNSD-gee-japanese.jpg","contentUrl":"https://colorcodedlyrics.com/wp-content/uploads/2012/06/SNSD-gee-japanese.jpg","width":"500","height":"500"},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#webpage","url":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics","name":"Girls\u2019 Generation (\u5c11\u5973\u65f6\u4ee3) - Gee (Japanese Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#primaryimage"},"datePublished":"2010-10-13T00:48:06+00:00","dateModified":"2020-04-30T06:12:19+00:00","description":"Girls\u2019 Generation (\u5c11\u5973\u65f6\u4ee3) - Gee (Japanese Ver.) Lyrics Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn","url":"https://colorcodedlyrics.com/category/krn","name":"KOREAN"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","url":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)"}},{"@type":"ListItem","position":4,"item":{"@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#webpage"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/f098ad1fd48749a01c030bddc95fa48d"},"headline":"Girls\u2019 Generation (\u5c11\u5973\u65f6\u4ee3) &#8211; Gee (Japanese Ver.)","datePublished":"2010-10-13T00:48:06+00:00","dateModified":"2020-04-30T06:12:19+00:00","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#webpage"},"commentCount":0,"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#primaryimage"},"keywords":["color coded lyrics","gee","Genie","Girl's Generation","Hyoyeon","japanese","japanese version","Jessica (\uc81c\uc2dc\uce74)","lyrics","Run Devil Run","Seohyun","SNSD","SNSD gee japanese","Sooyoung","Sunny","Taeyeon (\ud0dc\uc5f0)","Tell me your wish","Tiffany (\ud2f0\ud30c\ub2c8)","Yoona","Yuri","\u5c11\u5973\u65f6\u4ee3"],"articleSection":["Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)","KOREAN"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics#respond"]}]},{"@type":"Person","@id":"https://colorcodedlyrics.com/#/schema/person/f098ad1fd48749a01c030bddc95fa48d","name":"Kat-Admin","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/89789fcd864c7f3cef8df1f244e42bf4?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/89789fcd864c7f3cef8df1f244e42bf4?s=96&d=mm&r=pg","caption":"Kat-Admin"}}]}</script> <link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Feed" href="https://colorcodedlyrics.com/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Comments Feed" href="https://colorcodedlyrics.com/comments/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Girls’ Generation (少女时代)  &#8211; Gee (Japanese Ver.) Comments Feed" href="https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics/feed" /><link
+rel='stylesheet' id='wpo_min-header-0-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-20094ea2.min.css' media='all' /> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-84e60a2d.min.js' id='wpo_min-header-0-js'></script> <link
+rel="https://api.w.org/" href="https://colorcodedlyrics.com/wp-json/" /><link
+rel="alternate" type="application/json" href="https://colorcodedlyrics.com/wp-json/wp/v2/posts/1027" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://colorcodedlyrics.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://colorcodedlyrics.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 5.6.3" /><link
+rel='shortlink' href='https://colorcodedlyrics.com/?p=1027' /><link
+rel="alternate" type="application/json+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F10%2Fsnsd-gee-jap-ver-color-coded-lyrics" /><link
+rel="alternate" type="text/xml+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F10%2Fsnsd-gee-jap-ver-color-coded-lyrics&#038;format=xml" /> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-29367300-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());gtag('config','UA-29367300-1')</script> <link
+rel="pingback" href="https://colorcodedlyrics.com/xmlrpc.php"><style type="text/css" id="custom-theme-css">.custom-logo{height:120px;width:auto}body.custom-background .bg-similar-posts{background-color:#EDF2F7}</style><style id="uagb-style-conditional-extension">@media (min-width:1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width:768px) and (max-width:1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width:767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-32x32.jpg" sizes="32x32" /><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-192x192.jpg" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-180x180.jpg" /><meta
+name="msapplication-TileImage" content="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-270x270.jpg" /><style id="wp-custom-css">@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);.single-post-card .card-body{padding:2rem 0rem;max-width:1140px;margin:auto;font-size:.8rem;font-family:'Lato',sans-serif}.entry-content{background-color:#000;padding:2rem;color:#828282}.entry-content h2{font-size:2em;font-family:"DM Serif Display",serif}.single-post-card .entry-header{padding:0rem 2rem}.single-post-card .cat-links{padding:0rem 2rem}.wp-block-group{color:#828282}.TrendingDiv h1,h4{font-family:"DM Serif Display",serif;font-weight:400}.site-title{font-family:"DM Serif Display",serif}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,thead,tbody,th,td,tr{display:block}thead tr{position:absolute;top:-9999px;left:-9999px}tr{border:0}td{margin-bottom:20px}@media only screen and (min-device-width :320px) and (max-device-width :480px){body{padding:0;margin:0;min-width:320px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){body{min-width:495px}}}</style> <script data-ad-client="ca-pub-9127294175918477" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head><body data-rsssl=1
+class="post-template-default single single-post postid-1027 single-format-standard wp-custom-logo wp-embed-responsive no-sidebar no-sidebar-single"><div
+id="page" class="site">
+<a
+class="skip-link screen-reader-text" href="#primary">Skip to content</a><header
+id="masthead" class="site-header"><div
+class="container"><div
+class="d-flex justify-content-between align-items-center"><div
+class=""><div
+class="site-branding">
+<a
+href="https://colorcodedlyrics.com/" class="custom-logo-link" rel="home"><img
+width="1499" height="1138" src="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png" class="custom-logo" alt="Color Coded Lyrics" srcset="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png 1499w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-395x300.png 395w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-785x596.png 785w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-768x583.png 768w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-800x607.png 800w" sizes="(max-width: 1499px) 100vw, 1499px" /></a><p
+class="site-title"><a
+href="https://colorcodedlyrics.com/" rel="home">Color Coded Lyrics</a></p></div></div><div
+class="flex-grow-1"><nav
+id="site-navigation" class="main-navigation">
+<button
+class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<svg
+width="1.5em" height="1.5em" viewBox="0 0 16 16" class="bi bi-list" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>
+</button><div
+class="menu-header-container"><ul
+id="primary-menu" class="menu"><li
+id="menu-item-143898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-143898"><a
+href="https://colorcodedlyrics.com">Home</a></li><li
+id="menu-item-143899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143899"><a
+href="https://colorcodedlyrics.com/index">Index</a></li><li
+id="menu-item-143900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143900"><a
+href="https://colorcodedlyrics.com/join-ccl">Join CCL</a></li><li
+id="menu-item-143901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143901"><a
+href="https://colorcodedlyrics.com/f-a-q-c-important">F.A.Q.</a></li><li
+id="menu-item-152925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-152925"><a
+href="https://colorcodedlyrics.com">Submit</a><ul
+class="sub-menu"><li
+id="menu-item-152924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152924"><a
+href="https://colorcodedlyrics.com/translations">Translations</a></li><li
+id="menu-item-143902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143902"><a
+href="https://colorcodedlyrics.com/requests">Requests</a></li></ul></li><li
+id="menu-item-144259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144259"><a
+href="https://colorcodedlyrics.com/wp-login.php">Log In</a></li><li
+id="menu-item-145427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145427"><a
+href="https://colorcodedlyrics.com/tip-our-authors">Tip our Authors</a></li></ul></div></nav></div></div></div><div
+style="padding-left: 5%"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<ins
+class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-9127294175918477"
+data-ad-slot="4553898897"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({})</script> </div></header><div
+id="content" class="site-content"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><main
+id="primary" class="site-main"><article
+id="post-1027" class="single-post-card post-1027 post type-post status-publish format-standard has-post-thumbnail hentry category-snsd-sonyeosidae category-krn tag-color-coded-lyrics tag-gee tag-genie tag-girls-generation tag-hyoyeon tag-japanese tag-japanese-version tag-jessica tag-lyrics tag-run-devil-run tag-seohyun tag-snsd tag-snsd-gee-japanese tag-sooyoung tag-sunny tag-taeyeon-taeyeon tag-tell-me-your-wish tag-tiffany-tipani tag-yoona tag-yuri tag-2066"><div
+class="card-body"><span
+class="cat-links"><a
+href="https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae" rel="category tag">Girls' Generation (소녀시대/少女時代)</a>&nbsp;<a
+href="https://colorcodedlyrics.com/category/krn" rel="category tag">KOREAN</a></span><header
+class="entry-header"><h1 class="entry-title">Girls’ Generation (少女时代)  &#8211; Gee (Japanese Ver.)</h1><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2010/10/snsd-gee-jap-ver-color-coded-lyrics" rel="bookmark"><time
+class="entry-date published" datetime="2010-10-12T17:48:06-07:00">October 12, 2010</time><time
+class="updated" datetime="2020-04-29T23:12:19-07:00">April 29, 2020</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/kat">Kat-Admin</a></span>
+</span></div></header><div
+class="entry-content"><table><tbody><tr><td><h2 style="text-align: center">Gee</h2><p
+style="text-align: center"><span
+style="text-decoration: underline">Gee</span><br
+/>
+2010.10.20</p></td><td
+style="text-align: right"><img
+loading="lazy" class="alignright" title="SNSD - Gee" src="https://colorcodedlyrics.com/wp-content/uploads/2012/06/SNSD-gee-japanese.jpg" alt="" width="200" height="200" /></td></tr><tr><td
+style="text-align: center"> <span
+style="color: #ff6600">Taeyeon</span>, <span
+style="color: #3366ff">Jessica</span>, <span
+style="color: #800080">Sunny</span>,<br
+/>
+<span
+style="color: #ff00ff">Tiffany</span>, <span
+style="color: #008000">Hyoyeon</span>, <span
+style="color: #ff0000">Yuri</span>,<br
+/>
+<span
+style="color: #00ccff">Sooyoung</span>, <span
+style="color: #ffff00">Yoona</span>, <span
+style="color: #008080">Seohyun</span></td><td
+style="text-align: right"><strong>Lyrics/作詞</strong>: ???<br
+/>
+<strong>Composer/作曲</strong>: ???<br
+/>
+<strong>Arranger/編曲</strong>: ???</td></tr></tbody></table><p><span
+style="color: #ff00ff"><span
+id="more-1027"></span></span></p><p
+style="text-align: center">[youtube https://www.youtube.com/watch?v=mpoKx48WmEM&amp;w=560&amp;h=315]</p><table
+border="0"><tbody><tr><th>Romanization</th><th>Japanese</th><th>Translation</th></tr><tr><td><span
+style="color: #ff00ff">Aha, listen boy<br
+/>
+My first love story</span><br
+/>
+<span
+style="color: #3366ff">My angel and my girls<br
+/>
+My sunshine, uh uh let&#8217;s go</span></p><p><span
+style="color: #008080">yamechae isso iya na koto nante<br
+/>
+zensokuryoku kaihi seyo</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee baby baby baby</span><br
+/>
+<span
+style="color: #ff00ff">Oh pasuteru neiru nachuraru meiku<br
+/>
+yurufuwa kaaru koi hassei yo</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee ba-ba-ba-ba-ba-ba</span></p><p><span
+style="color: #800080">(hitorigoto)</span><br
+/>
+<span
+style="color: #ffff00">onnagokoro</span><br
+/>
+<span
+style="color: #800080">(zure zurei)</span><br
+/>
+<span
+style="color: #ffff00"> hinshuku da wa</span><br
+/>
+<span
+style="color: #800080">(chikutaku chikutaku)</span><br
+/>
+<span
+style="color: #ffff00">taimurain ga</span><br
+/>
+[<span
+style="color: #800080">Sun</span>/<span
+style="color: #ffff00">Yoon</span>] kimochi wo shizumeteku</p><p><span
+style="color: #3366ff">mou oborechai sou yo<br
+/>
+mou teokure kamo yo uso<br
+/>
+chanto tsuredashite</span></p><p><span
+style="color: #ffffff">yaba jinjja jinjja honto wa<br
+/>
+No no no no no<br
+/>
+yappa meccha meccha ki ni naru<br
+/>
+Oh oh oh oh oh<br
+/>
+hora joa joa kono mama<br
+/>
+Gee Gee Gee Gee Gee<br
+/>
+koi shitai no Oh yeah<br
+/>
+ai shitai no Oh yeah yeah yeah</span></p><p><span
+style="color: #800080">Oh shougekiteki tenkai deeto<br
+/>
+renraku machi outou seyo</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee baby baby baby</span><br
+/>
+<span
+style="color: #00ccff">machigai naissho ren&#8217;ai no junjo<br
+/>
+tsunagete kyuukyo baibureeshon</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee ba-ba-ba-ba-ba-ba</span></p><p><span
+style="color: #008080">(messeeji)</span><br
+/>
+<span
+style="color: #008000">dairekuto ni</span><br
+/>
+<span
+style="color: #008080">(meikaku de)</span><br
+/>
+<span
+style="color: #008000">kyoushuku da wa</span><br
+/>
+<span
+style="color: #008080">(chikutaku chikutaku)</span><br
+/>
+<span
+style="color: #008000">raifurain ga</span><br
+/>
+[<span
+style="color: #008000">Hyo</span>/<span
+style="color: #008080">Seo</span>] sorosoro pinchi kamo</p><p><span
+style="color: #ff6600">iki dekinai kurai<br
+/>
+dokidoki suru nante uso<br
+/>
+itsu mo soutei gai</span></p><p><span
+style="color: #ffffff">yaba jinjja jinjja honto wa<br
+/>
+No no no no no<br
+/>
+yappa meccha meccha ki ni naru<br
+/>
+Oh oh oh oh oh<br
+/>
+hora joa joa kono mama<br
+/>
+Gee Gee Gee Gee Gee<br
+/>
+koi shitai no Oh yeah<br
+/>
+ai shitai no Oh yeah yeah yeah</span></p><p><span
+style="color: #ff0000">sekai juu no kiseki wo atsumetara</span><br
+/>
+<span
+style="color: #ff6600">saisho de saigo no kimi ni deaeta yo</span><br
+/>
+[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #3366ff">Jess</span>] kakushinteki dakara hanarenai desho</p><p><span
+style="color: #ffffff">yaba jinjja jinjja honki de</span> <span
+style="color: #3366ff">(Oh)</span><br
+/>
+<span
+style="color: #ffffff">No no no no no</span> <span
+style="color: #3366ff">(Ha)</span><br
+/>
+<span
+style="color: #ffffff">yappa meccha meccha toriko yo<br
+/>
+Oh oh oh oh oh</span> <span
+style="color: #3366ff">(Oh woa oh yeah)</span><br
+/>
+<span
+style="color: #ffffff">hora joa joa mitsumete</span> <span
+style="color: #3366ff">(mitsumete)</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee Gee</span><br
+/>
+[<span
+style="color: #3366ff">Jess</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">koi shiten no</span> Oh yeah<br
+/>
+<span
+style="color: #ffffff">ai shitai no Oh yeah</span> <span
+style="color: #3366ff">(Oh yeah)</span></p><p><span
+style="color: #ffffff">yaba jinjja jinjja akumade</span> <span
+style="color: #ff6600">(yaba jinjja)</span><br
+/>
+<span
+style="color: #ff6600">(No no no)</span> <span
+style="color: #ffffff">No no no no no</span><br
+/>
+[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">mata</span> meccha meccha giwaku de<br
+/>
+<span
+style="color: #ffffff">Oh oh oh oh oh</span> <span
+style="color: #ff6600">(Oh oh oh)</span><br
+/>
+<span
+style="color: #ffffff">hora joa joa oshiete</span> <span
+style="color: #ff6600">(oshiete)</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee Gee</span><br
+/>
+[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">koi shiten no</span> Oh yeah<br
+/>
+[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">ai shitai no</span> Oh yeah yeah yeah</td><td><span
+style="color: #ff00ff">Aha, listen boy<br
+/>
+My first love story</span><br
+/>
+<span
+style="color: #3366ff">My angel and my girls<br
+/>
+My sunshine, uh uh let&#8217;s go</span></p><p><span
+style="color: #008080">やめちゃえいっそ嫌な事なんて<br
+/>
+全速力 回避せよ</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee baby baby baby</span><br
+/>
+<span
+style="color: #ff00ff">Oh パステルネイル ナチュラルメイク<br
+/>
+ゆるふわカール恋発生よ</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee ba-ba-ba-ba-ba-ba</span></p><p><span
+style="color: #800080">(独り言)</span><br
+/>
+<span
+style="color: #ffff00">おんなごころ</span><br
+/>
+<span
+style="color: #800080">(ずれずれい)</span><br
+/>
+<span
+style="color: #ffff00">ひんしゅくだわ</span><br
+/>
+<span
+style="color: #800080">(チクタクチクタク)</span><br
+/>
+<span
+style="color: #ffff00">タイムラインが</span><br
+/>
+[<span
+style="color: #800080">サ</span>/<span
+style="color: #ffff00">ユ</span>] 気持ちを静めてく</p><p><span
+style="color: #3366ff">もう溺れちゃいそうよ<br
+/>
+もう手遅れかもよ うそ<br
+/>
+ちゃんと連れ出して</span></p><p><span
+style="color: #ffffff">やば 진짜 진짜 ホントは<br
+/>
+No no no no no<br
+/>
+やっぱ めっちゃめっちゃ気になる<br
+/>
+Oh oh oh oh oh<br
+/>
+ほら 좋아 좋아 このまま<br
+/>
+Gee Gee Gee Gee Gee<br
+/>
+恋したいの Oh yeah<br
+/>
+爱したいの Oh yeah yeah yeah</span></p><p><span
+style="color: #800080">Oh 衝撃的展開デート<br
+/>
+連絡待ち応答せよ</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee baby baby baby</span><br
+/>
+<span
+style="color: #00ccff">間違いないっしょ恋爱の順序<br
+/>
+つなげて急遽バイブレーション</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee ba-ba-ba-ba-ba-ba</span></p><p><span
+style="color: #008080">(メッセージ)</span><br
+/>
+<span
+style="color: #008000">ダイレクトに</span><br
+/>
+<span
+style="color: #008080">(明確で)</span><br
+/>
+<span
+style="color: #008000">きょうしゅくだわ</span><br
+/>
+<span
+style="color: #008080">(チクタクチクタク)</span><br
+/>
+<span
+style="color: #008000">ライフラインが</span><br
+/>
+[<span
+style="color: #008000">ヒョ</span>/<span
+style="color: #008080">ソ</span>] そろそろピンチかも</p><p><span
+style="color: #ff6600">息できないくらい<br
+/>
+ドキドキするなんて うそ<br
+/>
+いつも 想定外</span></p><p><span
+style="color: #ffffff">やば 진짜 진짜 ホントは<br
+/>
+No no no no no<br
+/>
+やっぱ めっちゃめっちゃ気になる<br
+/>
+Oh oh oh oh oh<br
+/>
+ほら 좋아 좋아 このまま<br
+/>
+Gee Gee Gee Gee Gee<br
+/>
+恋したいの Oh yeah<br
+/>
+爱したいの Oh yeah yeah yeah</span></p><p><span
+style="color: #ff0000">世界中の奇跡を集めたら</span><br
+/>
+<span
+style="color: #ff6600">最初で最後の君に出会えたよ</span><br
+/>
+[<span
+style="color: #ff6600">テ</span>/<span
+style="color: #3366ff">ジェ</span>] 確信的だから離れないでしょ</p><p><span
+style="color: #ffffff">やば 진짜 진짜 本気で</span> <span
+style="color: #3366ff">(Oh)</span><br
+/>
+<span
+style="color: #ffffff">No no no no no</span> <span
+style="color: #3366ff">(Ha)</span><br
+/>
+<span
+style="color: #ffffff">やっぱ めっちゃめっちゃ虜よ<br
+/>
+Oh oh oh oh oh</span> <span
+style="color: #3366ff">(Oh woa oh yeah)</span><br
+/>
+<span
+style="color: #ffffff">ほら 좋아 좋아 見つめて</span> <span
+style="color: #3366ff">(見つめて)</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee Gee</span><br
+/>
+[<span
+style="color: #3366ff">ジェ</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">恋してんの</span> Oh yeah<br
+/>
+<span
+style="color: #ffffff">爱したいの Oh yeah</span> <span
+style="color: #3366ff">(Oh yeah)</span></p><p><span
+style="color: #ffffff">やば 진짜 진짜 あくまで</span> <span
+style="color: #ff6600">(やば 진짜)</span><br
+/>
+<span
+style="color: #ff6600">(No no no)</span> <span
+style="color: #ffffff">No no no no no</span><br
+/>
+[<span
+style="color: #ff6600">テ</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">また</span>めっちゃめっちゃ疑惑で<br
+/>
+<span
+style="color: #ffffff">Oh oh oh oh oh</span> <span
+style="color: #ff6600">(Oh oh oh)</span><br
+/>
+<span
+style="color: #ffffff">ほら 좋아 좋아 教えて</span> <span
+style="color: #ff6600">(教えて)</span><br
+/>
+<span
+style="color: #ffffff">Gee Gee Gee Gee Gee</span><br
+/>
+[<span
+style="color: #ff6600">テ</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">恋してんの</span> Oh yeah<br
+/>
+[<span
+style="color: #ff6600">テ</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">爱したいの</span> Oh yeah yeah yeah</td><td>Aha, listen boy<br
+/>
+My first love story<br
+/>
+My angel and my girls<br
+/>
+My sunshine, uh uh let’s go</p><p>Might as well stop being stubborn<br
+/>
+Steer clear and go full speed<br
+/>
+Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee baby baby baby<br
+/>
+Oh with my pastel nails, natural makeup<br
+/>
+And fluffy curls, let’s fall in love<br
+/>
+Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee ba-ba-ba-ba-ba-ba</p><p>(Talking to myself)<br
+/>
+A girl’s heart<br
+/>
+(It&#8217;s tedious)<br
+/>
+People don’t understand<br
+/>
+(Tick tock tick tock)<br
+/>
+The timeline<br
+/>
+Is sinking our feelings</p><p>It really seems like I’m about to drown<br
+/>
+Maybe it’s already too late, liar<br
+/>
+Just take me out</p><p>Oh no, really, really, truly<br
+/>
+No no no no no<br
+/>
+As expected, I&#8217;m worrying, so much, so much<br
+/>
+Oh oh oh oh oh<br
+/>
+Look, I like you, like you, like this<br
+/>
+Gee Gee Gee Gee Gee<br
+/>
+Do you want to fall in love? Oh yeah<br
+/>
+Do you want to love? Oh yeah yeah yeah</p><p>Oh our shocking date is coming up<br
+/>
+I’m waiting to hear from you, so answer me<br
+/>
+Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee baby baby baby<br
+/>
+I’m not wrong, right? About love’s procedures<br
+/>
+Hurry up and call, vibration<br
+/>
+Gee Gee Gee Gee baby baby baby<br
+/>
+Gee Gee Gee Gee ba-ba-ba-ba-ba-ba</p><p>(Text message)<br
+/>
+Directly<br
+/>
+(Clearly)<br
+/>
+Sorry to bother you<br
+/>
+(Tick tock tick tock)<br
+/>
+My lifeline<br
+/>
+Might be in crisis soon</p><p>I’m so nervous<br
+/>
+That I can’t breathe, liar<br
+/>
+It’s always more than I expect</p><p>Oh no, really, really, truly<br
+/>
+No no no no no<br
+/>
+As expected, I&#8217;m worrying, so much, so much<br
+/>
+Oh oh oh oh oh<br
+/>
+Look, I like you, like you, like this<br
+/>
+Gee Gee Gee Gee Gee<br
+/>
+Do you want to fall in love? Oh yeah<br
+/>
+Do you want to love? Oh yeah yeah yeah</p><p>If you gathered up all the miracles in the world<br
+/>
+You’re the beginning and the end and we still met<br
+/>
+So I’m certain we’ll never be separated, right?</p><p>Oh no, really, really, seriously<br
+/>
+No no no no no<br
+/>
+As expected, I&#8217;m definitely, definitely, prisoner<br
+/>
+Oh oh oh oh oh<br
+/>
+Look, I like you, like you, look at me<br
+/>
+Gee Gee Gee Gee Gee<br
+/>
+Will you fall in love? Oh yeah<br
+/>
+Do you want to love? Oh yeah</p><p>Oh no, really, really, totally<br
+/>
+No no no no no<br
+/>
+I&#8217;m still doubting, so much, so much<br
+/>
+Oh oh oh oh oh<br
+/>
+Look, I like you, like you, tell me<br
+/>
+Gee Gee Gee Gee Gee<br
+/>
+Will you fall in love? Oh yeah<br
+/>
+Do you want to love? Oh yeah yeah yeah</td></tr></tbody></table><p>Japanese: Hikaru @CCL<br
+/>
+Rom: Hikaru @CCL<br
+/>
+Eng: soshified, Hikaru @CCL</p></div><div
+class="clearfix"></div><div
+class="bg-similar-posts"><h4>Similar Posts</h4><div
+class="row row-cols-1 row-cols-sm-2 bg-posts-row"><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2017/02/taeyeon-taeyeon-lonely-night" aria-hidden="true" tabindex="-1">
+<img
+width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2017/02/10040265_org.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="Taeyeon (태연) &#8211; Lonely Night" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2017/02/10040265_org.jpg 600w, https://colorcodedlyrics.com/wp-content/uploads/2017/02/10040265_org-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2017/02/10040265_org-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2017/02/10040265_org-32x32.jpg 32w, https://colorcodedlyrics.com/wp-content/uploads/2017/02/10040265_org-50x50.jpg 50w, https://colorcodedlyrics.com/wp-content/uploads/2017/02/10040265_org-64x64.jpg 64w, https://colorcodedlyrics.com/wp-content/uploads/2017/02/10040265_org-96x96.jpg 96w, https://colorcodedlyrics.com/wp-content/uploads/2017/02/10040265_org-128x128.jpg 128w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2017/02/taeyeon-taeyeon-lonely-night" rel="bookmark">Taeyeon (태연) &#8211; Lonely Night</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2017/02/taeyeon-taeyeon-lonely-night" rel="bookmark"><time
+class="entry-date published" datetime="2017-02-27T21:40:48-08:00">February 27, 2017</time><time
+class="updated" datetime="2017-03-02T20:50:02-08:00">March 2, 2017</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/xmhhjx">Sandy</a></span>
+</span></div></header></div></article></div><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2016/12/apink-miss-u" aria-hidden="true" tabindex="-1">
+<img
+width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2016/12/66c2ca1ea320a07849308eb06507234a.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="Apink &#8211; Miss U" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2016/12/66c2ca1ea320a07849308eb06507234a.jpg 600w, https://colorcodedlyrics.com/wp-content/uploads/2016/12/66c2ca1ea320a07849308eb06507234a-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2016/12/66c2ca1ea320a07849308eb06507234a-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2016/12/66c2ca1ea320a07849308eb06507234a-32x32.jpg 32w, https://colorcodedlyrics.com/wp-content/uploads/2016/12/66c2ca1ea320a07849308eb06507234a-50x50.jpg 50w, https://colorcodedlyrics.com/wp-content/uploads/2016/12/66c2ca1ea320a07849308eb06507234a-64x64.jpg 64w, https://colorcodedlyrics.com/wp-content/uploads/2016/12/66c2ca1ea320a07849308eb06507234a-96x96.jpg 96w, https://colorcodedlyrics.com/wp-content/uploads/2016/12/66c2ca1ea320a07849308eb06507234a-128x128.jpg 128w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2016/12/apink-miss-u" rel="bookmark">Apink &#8211; Miss U</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2016/12/apink-miss-u" rel="bookmark"><time
+class="entry-date published" datetime="2016-12-21T12:32:55-08:00">December 21, 2016</time><time
+class="updated" datetime="2017-01-30T18:23:46-08:00">January 30, 2017</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/xmhhjx">Sandy</a></span>
+</span></div></header></div></article></div></div></div><div
+class="clearfix"></div></div></article><nav
+class="navigation post-navigation" role="navigation" aria-label="Posts"><h2 class="screen-reader-text">Post navigation</h2><div
+class="nav-links"><div
+class="nav-previous"><a
+href="https://colorcodedlyrics.com/2010/10/u-kiss-shut-up-color-coded-lyrics" rel="prev"><span
+class="nav-subtitle"><svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-left" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M5.854 4.646a.5.5 0 0 1 0 .708L3.207 8l2.647 2.646a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 0 1 .708 0z"/>
+<path
+fill-rule="evenodd" d="M2.5 8a.5.5 0 0 1 .5-.5h10.5a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>Previous</span> <span
+class="nav-title">U-KISS &#8211; Shut Up! (color coded lyrics)</span></a></div><div
+class="nav-next"><a
+href="https://colorcodedlyrics.com/2010/10/2pm-i-know-color-coded-lyrics" rel="next"><span
+class="nav-subtitle">Next<svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M10.146 4.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L12.793 8l-2.647-2.646a.5.5 0 0 1 0-.708z"/>
+<path
+fill-rule="evenodd" d="M2 8a.5.5 0 0 1 .5-.5H13a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 8z"/>
+</svg></span> <span
+class="nav-title">2PM &#8211; I Know</span></a></div></div></nav><div
+id="comments" class="comments-area"><div
+class="comments-area-body"><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/2010/10/snsd-gee-jap-ver-color-coded-lyrics#respond" style="display:none;">Cancel reply</a></small></h3><p
+class="must-log-in">You must be <a
+href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F10%2Fsnsd-gee-jap-ver-color-coded-lyrics">logged in</a> to post a comment.</p></div><p
+class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a
+href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p></div></div></main></div></div></div></div><footer
+id="colophon" class="site-footer"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><div
+class="site-info">
+WordPress Theme: 						<a
+href="https://wp-points.com/themes/bloggrid/">BlogGrid</a>
+by TwoPoints.</div></div></div></div><div
+id="bg-to-top" title="Go to Top">
+<svg
+width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-arrow-up-square-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 8.354a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 6.207V11a.5.5 0 0 1-1 0V6.207L5.354 8.354z"/>
+</svg></div></footer></div> <script id='wpo_min-footer-0-js-extra'>var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"1027"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-footer-801f1e37.min.js' id='wpo_min-footer-0-js'></script> </body></html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Thu, 06 May 2021 02:11:30 GMT -->

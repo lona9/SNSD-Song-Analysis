@@ -1,0 +1,862 @@
+<!doctype html><html
+lang="en-US"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="https://gmpg.org/xfn/11"><title>Girls&#039; Generation (소녀시대) - Goodbye</title><meta
+name="description" content="Girls&#039; Generation (소녀시대) - Goodbye Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link
+rel="canonical" href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Girls&#039; Generation (소녀시대) - Goodbye" /><meta
+property="og:description" content="Girls&#039; Generation (소녀시대) - Goodbye Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+property="og:url" content="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye" /><meta
+property="og:site_name" content="Color Coded Lyrics" /><meta
+property="article:publisher" content="https://www.facebook.com/ColorCodedLyrics/" /><meta
+property="article:published_time" content="2014-02-24T08:39:36+00:00" /><meta
+property="article:modified_time" content="2018-12-29T10:53:12+00:00" /><meta
+property="og:image" content="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2014/02/SNSD-Mr.-Mr..jpg?fit=1535%2C1535&#038;ssl=1" /><meta
+property="og:image:width" content="1535" /><meta
+property="og:image:height" content="1535" /><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:creator" content="@CodedLyrics" /><meta
+name="twitter:site" content="@CodedLyrics" /><meta
+name="twitter:label1" content="Written by"><meta
+name="twitter:data1" content="FSBolthof"><meta
+name="twitter:label2" content="Est. reading time"><meta
+name="twitter:data2" content="3 minutes"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","contentUrl":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#primaryimage","inLanguage":"en-US","url":"https://colorcodedlyrics.com/wp-content/uploads/2014/02/SNSD-Mr.-Mr..jpg","contentUrl":"https://colorcodedlyrics.com/wp-content/uploads/2014/02/SNSD-Mr.-Mr..jpg","width":1535,"height":1535},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#webpage","url":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Goodbye","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#primaryimage"},"datePublished":"2014-02-24T08:39:36+00:00","dateModified":"2018-12-29T10:53:12+00:00","description":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Goodbye Lyrics Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn","url":"https://colorcodedlyrics.com/category/krn","name":"KOREAN"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","url":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)"}},{"@type":"ListItem","position":4,"item":{"@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#webpage"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/1ca497c8aabf2c753b445355938888b8"},"headline":"Girls&#8217; Generation (\uc18c\ub140\uc2dc\ub300) &#8211; Goodbye","datePublished":"2014-02-24T08:39:36+00:00","dateModified":"2018-12-29T10:53:12+00:00","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#webpage"},"commentCount":17,"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#primaryimage"},"keywords":["colorcodedlyrics","Generation","girls","goodbye","Hyoyeon","Jessica (\uc81c\uc2dc\uce74)","lyrics","Seohyun","SNSD","Sooyoung","Sunny","Taeyeon","Tiffany","Yoona","Yuri"],"articleSection":["Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)","KOREAN"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#respond"]}]},{"@type":"Person","@id":"https://colorcodedlyrics.com/#/schema/person/1ca497c8aabf2c753b445355938888b8","name":"FSBolthof","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=96&d=mm&r=pg","caption":"FSBolthof"}}]}</script> <link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Feed" href="https://colorcodedlyrics.com/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Comments Feed" href="https://colorcodedlyrics.com/comments/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Girls&#8217; Generation (소녀시대) &#8211; Goodbye Comments Feed" href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye/feed" /><link
+rel='stylesheet' id='wpo_min-header-0-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-20094ea2.min.css' media='all' /> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-84e60a2d.min.js' id='wpo_min-header-0-js'></script> <link
+rel="https://api.w.org/" href="https://colorcodedlyrics.com/wp-json/" /><link
+rel="alternate" type="application/json" href="https://colorcodedlyrics.com/wp-json/wp/v2/posts/60671" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://colorcodedlyrics.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://colorcodedlyrics.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 5.6.3" /><link
+rel='shortlink' href='https://colorcodedlyrics.com/?p=60671' /><link
+rel="alternate" type="application/json+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye" /><link
+rel="alternate" type="text/xml+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye&#038;format=xml" /> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-29367300-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());gtag('config','UA-29367300-1')</script> <style type="text/css" id="custom-theme-css">.custom-logo{height:120px;width:auto}body.custom-background .bg-similar-posts{background-color:#EDF2F7}</style><style id="uagb-style-conditional-extension">@media (min-width:1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width:768px) and (max-width:1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width:767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-32x32.jpg" sizes="32x32" /><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-192x192.jpg" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-180x180.jpg" /><meta
+name="msapplication-TileImage" content="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-270x270.jpg" /><style id="wp-custom-css">@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);.single-post-card .card-body{padding:2rem 0rem;max-width:1140px;margin:auto;font-size:.8rem;font-family:'Lato',sans-serif}.entry-content{background-color:#000;padding:2rem;color:#828282}.entry-content h2{font-size:2em;font-family:"DM Serif Display",serif}.single-post-card .entry-header{padding:0rem 2rem}.single-post-card .cat-links{padding:0rem 2rem}.wp-block-group{color:#828282}.TrendingDiv h1,h4{font-family:"DM Serif Display",serif;font-weight:400}.site-title{font-family:"DM Serif Display",serif}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,thead,tbody,th,td,tr{display:block}thead tr{position:absolute;top:-9999px;left:-9999px}tr{border:0}td{margin-bottom:20px}@media only screen and (min-device-width :320px) and (max-device-width :480px){body{padding:0;margin:0;min-width:320px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){body{min-width:495px}}}</style> <script data-ad-client="ca-pub-9127294175918477" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head><body data-rsssl=1
+class="post-template-default single single-post postid-60671 single-format-standard wp-custom-logo wp-embed-responsive no-sidebar no-sidebar-single"><div
+id="page" class="site">
+<a
+class="skip-link screen-reader-text" href="#primary">Skip to content</a><header
+id="masthead" class="site-header"><div
+class="container"><div
+class="d-flex justify-content-between align-items-center"><div
+class=""><div
+class="site-branding">
+<a
+href="https://colorcodedlyrics.com/" class="custom-logo-link" rel="home"><img
+width="1499" height="1138" src="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png" class="custom-logo" alt="Color Coded Lyrics" srcset="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png 1499w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-395x300.png 395w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-785x596.png 785w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-768x583.png 768w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-800x607.png 800w" sizes="(max-width: 1499px) 100vw, 1499px" /></a><p
+class="site-title"><a
+href="https://colorcodedlyrics.com/" rel="home">Color Coded Lyrics</a></p></div></div><div
+class="flex-grow-1"><nav
+id="site-navigation" class="main-navigation">
+<button
+class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<svg
+width="1.5em" height="1.5em" viewBox="0 0 16 16" class="bi bi-list" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>
+</button><div
+class="menu-header-container"><ul
+id="primary-menu" class="menu"><li
+id="menu-item-143898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-143898"><a
+href="https://colorcodedlyrics.com">Home</a></li><li
+id="menu-item-143899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143899"><a
+href="https://colorcodedlyrics.com/index">Index</a></li><li
+id="menu-item-143900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143900"><a
+href="https://colorcodedlyrics.com/join-ccl">Join CCL</a></li><li
+id="menu-item-143901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143901"><a
+href="https://colorcodedlyrics.com/f-a-q-c-important">F.A.Q.</a></li><li
+id="menu-item-152925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-152925"><a
+href="https://colorcodedlyrics.com">Submit</a><ul
+class="sub-menu"><li
+id="menu-item-152924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152924"><a
+href="https://colorcodedlyrics.com/translations">Translations</a></li><li
+id="menu-item-143902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143902"><a
+href="https://colorcodedlyrics.com/requests">Requests</a></li></ul></li><li
+id="menu-item-144259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144259"><a
+href="https://colorcodedlyrics.com/wp-login.php">Log In</a></li><li
+id="menu-item-145427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145427"><a
+href="https://colorcodedlyrics.com/tip-our-authors">Tip our Authors</a></li></ul></div></nav></div></div></div><div
+style="padding-left: 5%"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<ins
+class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-9127294175918477"
+data-ad-slot="4553898897"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({})</script> </div></header><div
+id="content" class="site-content"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><main
+id="primary" class="site-main"><article
+id="post-60671" class="single-post-card post-60671 post type-post status-publish format-standard has-post-thumbnail hentry category-snsd-sonyeosidae category-krn tag-colorcodedlyrics tag-generation tag-girls tag-goodbye tag-hyoyeon tag-jessica tag-lyrics tag-seohyun tag-snsd tag-sooyoung tag-sunny tag-taeyeon tag-tiffany tag-yoona tag-yuri"><div
+class="card-body"><span
+class="cat-links"><a
+href="https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae" rel="category tag">Girls' Generation (소녀시대/少女時代)</a>&nbsp;<a
+href="https://colorcodedlyrics.com/category/krn" rel="category tag">KOREAN</a></span><header
+class="entry-header"><h1 class="entry-title">Girls&#8217; Generation (소녀시대) &#8211; Goodbye</h1><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye" rel="bookmark"><time
+class="entry-date published" datetime="2014-02-24T00:39:36-08:00">February 24, 2014</time><time
+class="updated" datetime="2018-12-29T02:53:12-08:00">December 29, 2018</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/fsbolthof">FSBolthof</a></span>
+</span></div></header><div
+class="entry-content"><table><tbody><tr><td><h2 style="text-align: center">Goodbye</h2><p
+style="text-align: center"><span
+style="text-decoration: underline">[EP] Mr. Mr.</span><br
+/>
+2014.02.24</p></td><td
+style="text-align: right"><img
+loading="lazy" class="alignright" title="Album art" src="https://colorcodedlyrics.com/wp-content/uploads/2014/02/SNSD-Mr.-Mr..jpg" alt="" width="200" height="200" /></td></tr><tr><td
+style="text-align: center"><span
+style="color: #ff6600">Taeyeon</span>, <span
+style="color: #3366ff">Jessica</span>, <span
+style="color: #800080">Sunny</span>,<br
+/>
+<span
+style="color: #ff00ff">Tiffany</span>, <span
+style="color: #008000">Hyoyeon</span>, <span
+style="color: #ff0000">Yuri</span>,<br
+/>
+<span
+style="color: #00ccff">Sooyoung</span>, <span
+style="color: #ffff00">Yoona</span>, <span
+style="color: #008080">Seohyun</span></td><td
+style="text-align: right"><strong>Lyrics/작사</strong>: 황현<br
+/>
+<strong>Composer/작곡</strong>: Brent Paschke, Jenna Andrews, Lindy Robbins<br
+/>
+<strong>Arranger/편곡</strong>: Brent Paschke, Jenna Andrews, Lindy Robbins</td></tr></tbody></table><p
+style="text-align: center">[youtube https://www.youtube.com/watch?v=uGKfSn8OnX4&amp;w=560&amp;h=315]</p><p><span
+style="color: #ff00ff"><span
+id="more-60671"></span></span></p><table
+border="0"><tbody><tr><th>Romanization</th><th>Korean</th><th>Translation</th></tr><tr><td><span
+style="color: #ff00ff">dwie museun daesareul haljji </span><br
+/>
+<span
+style="color: #ff00ff">aneun geujeo geureon Drama-cheoreom</span><br
+/>
+<span
+style="color: #008080">oneul niga naege eotteon </span><br
+/>
+<span
+style="color: #008080">mareul haljjido neomu algesseo</span><br
+/>
+<span
+style="color: #00ccff">chungbunhi yesangdwen jinbuhan Story-ya</span></p><p><span
+style="color: #ff6600">Oh bamsae nanun yaegiwa jeojeun geu nunppit</span><br
+/>
+<span
+style="color: #ff6600"> seotuldeon neoye gobaekdo ijen </span><br
+/>
+<span
+style="color: #ff6600">bukkeureoun ilgicheoreom sumgyeojigo</span><br
+/>
+<span
+style="color: #ff6600"> maeil dulmane baegya sok nege mutteon </span><br
+/>
+<span
+style="color: #ff6600">buranhan miraekkaji jeonbu</span><br
+/>
+<span
+style="color: #ff6600"> annyeong Really really good goodbye</span></p><p><span
+style="color: #800080">hanttaeneun naega neo eopshin </span><br
+/>
+<span
+style="color: #800080">sum shwigido himdeun jul arasseo</span><br
+/>
+<span
+style="color: #008000">geuttaeneun niga nareul jonjaehage</span><br
+/>
+<span
+style="color: #008000">mandeun shinin jul arasseo</span><br
+/>
+<span
+style="color: #ffff00">jogeum ashwipjiman minmanghan iyagi</span></p><p><span
+style="color: #3366ff">Oh bamsae nanun yaegiwa jeojeun geu nunppit</span><br
+/>
+<span
+style="color: #3366ff"> seotuldeon neoye gobaekdo ijen </span><br
+/>
+<span
+style="color: #3366ff">bukkeureoun ilgicheoreom sumgyeojigo</span><br
+/>
+<span
+style="color: #3366ff"> maeil dulmane baegya sok nege mutteon </span><br
+/>
+<span
+style="color: #3366ff">buranhan miraekkaji jeonbu</span><br
+/>
+<span
+style="color: #3366ff"> annyeong Really really good goodbye</span></p><p><span
+style="color: #ff0000">manyak naega maedallyeo<br
+/>
+ni mameul dollyeodo</span><br
+/>
+<span
+style="color: #ff6600">geu daeume geu daeumen<br
+/>
+banbokdwel ppunijanni Oh yeah</span></p><p><span
+style="color: #ffffff">sueopshi ipsul kkaemulmyeo beotyeotteon maeumi<br
+/>
+ijen jichin geolkka anim naega<br
+/>
+neomu keun gidael haetteon geolkka moreugesseo<br
+/>
+<span
+style="color: #ff00ff">(gidaehaenneunjido molla na)</span><br
+/>
+waenji naeireun biga ol kkeonman gata<br
+/>
+memareun naege ppuryeo jweoyo<br
+/>
+annyeong Really really good goodbye</span></p><p><span
+style="color: #008080">Yeah oh yeah</span><br
+/>
+<span
+style="color: #ffffff">eoryeotteon shigan Really really good goodbye <span
+style="color: #ff6600">(Goodbye)</span><br
+/>
+eojeye naneun</span> <span
+style="color: #3366ff">Really really good goodbye, ooh</span><br
+/>
+[<span
+style="color: #3366ff">Jess</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">ijeneun annyeong</span> Really really good goodbye</p><p><span
+style="color: #800080">Oh yeah</span> <span
+style="color: #ff00ff">oh yeah</span><br
+/>
+<span
+style="color: #ffffff">Good good really really good goodbye</span><br
+/>
+<span
+style="color: #ff6600">Hmm hmm hmm</span></td><td><span
+style="color: #ff00ff">뒤에 무슨 대사를 할지 </span><br
+/>
+<span
+style="color: #ff00ff">아는 그저 그런 Drama처럼</span><br
+/>
+<span
+style="color: #008080">오늘 니가 내게 어떤 </span><br
+/>
+<span
+style="color: #008080">말을 할지도 너무 알겠어</span><br
+/>
+<span
+style="color: #00ccff">충분히 예상된 진부한 Story야</span></p><p><span
+style="color: #ff6600">Oh 밤새 나눈 얘기와 젖은 그 눈빛</span><br
+/>
+<span
+style="color: #ff6600"> 서툴던 너의 고백도 이젠 </span><br
+/>
+<span
+style="color: #ff6600">부끄러운 일기처럼 숨겨지고</span><br
+/>
+<span
+style="color: #ff6600"> 매일 둘만의 백야 속 네게 묻던 </span><br
+/>
+<span
+style="color: #ff6600">불안한 미래까지 전부</span><br
+/>
+<span
+style="color: #ff6600"> 안녕 Really really good goodbye</span></p><p><span
+style="color: #800080">한때는 내가 너 없인 </span><br
+/>
+<span
+style="color: #800080">숨 쉬기도 힘든 줄 알았어</span><br
+/>
+<span
+style="color: #008000">그때는 니가 나를 존재하게 </span><br
+/>
+<span
+style="color: #008000">만든 신인 줄 알았어</span><br
+/>
+<span
+style="color: #ffff00">조금 아쉽지만 민망한 이야기</span></p><p><span
+style="color: #3366ff">Oh 밤새 나눈 얘기와 젖은 그 눈빛</span><br
+/>
+<span
+style="color: #3366ff"> 서툴던 너의 고백도 이젠 </span><br
+/>
+<span
+style="color: #3366ff">부끄러운 일기처럼 숨겨지고</span><br
+/>
+<span
+style="color: #3366ff"> 매일 둘만의 백야 속 네게 묻던 </span><br
+/>
+<span
+style="color: #3366ff">불안한 미래까지 전부</span><br
+/>
+<span
+style="color: #3366ff"> 안녕 Really really good goodbye</span></p><p><span
+style="color: #ff0000">만약 내가 매달려<br
+/>
+니 맘을 돌려도</span><br
+/>
+<span
+style="color: #ff6600">그 다음에 그 다음엔<br
+/>
+반복될 뿐이잖니 Oh yeah</span></p><p><span
+style="color: #ffffff">수없이 입술 깨물며 버텼던 마음이<br
+/>
+이젠 지친 걸까 아님 내가<br
+/>
+너무 큰 기댈 했던 걸까 모르겠어<br
+/>
+<span
+style="color: #ff00ff">(기대했는지도 몰라 나)</span><br
+/>
+왠지 내일은 비가 올 것만 같아<br
+/>
+메마른 내게 뿌려 줘요<br
+/>
+안녕 Really really good goodbye</span></p><p><span
+style="color: #008080">Yeah oh yeah</span><br
+/>
+<span
+style="color: #ffffff">어렸던 시간 Really really good goodbye <span
+style="color: #ff6600">(Goodbye)</span><br
+/>
+어제의 나는</span> <span
+style="color: #3366ff">Really really good goodbye, ooh</span><br
+/>
+[<span
+style="color: #3366ff">제</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">이제는 안녕</span> Really really good goodbye</p><p><span
+style="color: #800080">Oh yeah</span> <span
+style="color: #ff00ff">oh yeah</span><br
+/>
+<span
+style="color: #ffffff">Good good really really good goodbye</span><br
+/>
+<span
+style="color: #ff6600">Hmm hmm hmm</span></td><td>Just like a mediocre drama<br
+/>
+That you know what lines are coming<br
+/>
+I know what you’re going<br
+/>
+To say to me today<br
+/>
+It’s a predictable and typical story</p><p>The talks we had all nights, watery eyes<br
+/>
+Even your clumsy confession<br
+/>
+They all hide like a shy diary entry<br
+/>
+In our own land of the midnight sun<br
+/>
+All of the anxious futures with you<br
+/>
+Goodbye, really really good goodbye</p><p>At one point, I thought it would be<br
+/>
+Hard to even breathe without you<br
+/>
+Back then, I thought you were<br
+/>
+Like a god who made me exist<br
+/>
+It’s a little sad but an embarrassing story</p><p>The talks we had all nights, watery eyes<br
+/>
+Even your clumsy confession<br
+/>
+They all hide like a shy diary entry<br
+/>
+In our own land of the midnight sun<br
+/>
+All of the anxious futures with you<br
+/>
+Goodbye, really really good goodbye</p><p>Even if I hold onto you<br
+/>
+And turn your heart around<br
+/>
+After that, after that<br
+/>
+This will just repeat, oh yeah</p><p>Have I gotten tired of endlessly<br
+/>
+Biting my lips and enduring?<br
+/>
+Or did I expect too much? I don’t know<br
+/>
+(I might’ve expected too much)<br
+/>
+It seems like it’ll rain tomorrow<br
+/>
+Rain on me, who has dried up<br
+/>
+Goodbye, really really goodbye</p><p>Yeah oh yeah<br
+/>
+The young times, really really good goodbye<br
+/>
+The me of yesterday, really really good goodbye<br
+/>
+Now goodbye, really really good goodbye</p><p>Oh yeah oh yeah<br
+/>
+Good good really really good goodbye<br
+/>
+Hmm hmm hmm</td></tr></tbody></table><p>Korean: music.daum<br
+/>
+Rom: Hikaru @CCL<br
+/>
+Eng: <a
+href="http://popgasa.com/2014/02/24/girls-generation-goodbye/">pop!gasa</a><br
+/>
+info: music.daum</p></div><div
+class="clearfix"></div><div
+class="bg-similar-posts"><h4>Similar Posts</h4><div
+class="row row-cols-1 row-cols-sm-2 bg-posts-row"><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2013/11/miss-a-like-u" aria-hidden="true" tabindex="-1">
+<img
+width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="miss A &#8211; Like U" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush.jpg 400w, https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush-220x220.jpg 220w, https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush-1x1.jpg 1w, https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush-32x32.jpg 32w, https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush-64x64.jpg 64w, https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush-96x96.jpg 96w, https://colorcodedlyrics.com/wp-content/uploads/2013/11/missA-hush-128x128.jpg 128w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2013/11/miss-a-like-u" rel="bookmark">miss A &#8211; Like U</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2013/11/miss-a-like-u" rel="bookmark"><time
+class="entry-date published updated" datetime="2013-11-12T15:54:38-08:00">November 12, 2013</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/fsbolthof">FSBolthof</a></span>
+</span></div></header></div></article></div><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2017/10/c-e-eiseu-lyrics-index" aria-hidden="true" tabindex="-1">
+<img
+width="400" height="235" src="https://colorcodedlyrics.com/wp-content/uploads/2017/10/A.C.E.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="A.C.E (에이스) Lyrics Index" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2017/10/A.C.E.jpg 668w, https://colorcodedlyrics.com/wp-content/uploads/2017/10/A.C.E-450x265.jpg 450w" sizes="(max-width: 400px) 100vw, 400px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2017/10/c-e-eiseu-lyrics-index" rel="bookmark">A.C.E (에이스) Lyrics Index</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2017/10/c-e-eiseu-lyrics-index" rel="bookmark"><time
+class="entry-date published" datetime="2017-10-19T20:12:55-07:00">October 19, 2017</time><time
+class="updated" datetime="2020-09-05T16:01:42-07:00">September 5, 2020</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/xmhhjx">Sandy</a></span>
+</span></div></header></div></article></div></div></div><div
+class="clearfix"></div></div></article><nav
+class="navigation post-navigation" role="navigation" aria-label="Posts"><h2 class="screen-reader-text">Post navigation</h2><div
+class="nav-links"><div
+class="nav-previous"><a
+href="https://colorcodedlyrics.com/2014/02/cbnlue-like-a-child-aiui-nolae" rel="prev"><span
+class="nav-subtitle"><svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-left" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M5.854 4.646a.5.5 0 0 1 0 .708L3.207 8l2.647 2.646a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 0 1 .708 0z"/>
+<path
+fill-rule="evenodd" d="M2.5 8a.5.5 0 0 1 .5-.5h10.5a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>Previous</span> <span
+class="nav-title">CBNLUE &#8211; Like a Child (아이의 노래)</span></a></div><div
+class="nav-next"><a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-wait-a-minute" rel="next"><span
+class="nav-subtitle">Next<svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M10.146 4.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L12.793 8l-2.647-2.646a.5.5 0 0 1 0-.708z"/>
+<path
+fill-rule="evenodd" d="M2 8a.5.5 0 0 1 .5-.5H13a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 8z"/>
+</svg></span> <span
+class="nav-title">Girls&#8217; Generation (소녀시대) &#8211; Wait a Minute</span></a></div></div></nav><div
+id="comments" class="comments-area"><div
+class="comments-area-body"><h2 class="comments-title">
+17 thoughts on &ldquo;<span>Girls&#8217; Generation (소녀시대) &#8211; Goodbye</span>&rdquo;</h2><ol
+class="comment-list"><li
+id="comment-9443" class="comment byuser comment-author-jl_9252 even thread-even depth-1 parent"><article
+id="div-comment-9443" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/aebdae43a7688152ffecab586ee77fb2?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/aebdae43a7688152ffecab586ee77fb2?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">JL_9252</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9443"><time
+datetime="2014-02-24T01:14:31-08:00">February 24, 2014 at 1:14 am</time></a></div></footer><div
+class="comment-content"><p>(gidaehaenneunjido molla na)<br
+/>
+sure it&#8217;s tiffany??? I thought is hyo&#8230;.correct me if I&#8217;m wrong&#8230;</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-9444" class="comment byuser comment-author-fsbolthof bypostauthor odd alt depth-2 parent"><article
+id="div-comment-9444" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">FSBolthof</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9444"><time
+datetime="2014-02-24T01:46:44-08:00">February 24, 2014 at 1:46 am</time></a></div></footer><div
+class="comment-content"><p>Yes very sure :). I would like it be Hyoyeon, but you can hear Tiffany&#8217;s voice and Hyoyeon would never do adlibs :P</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-9447" class="comment byuser comment-author-jl_9252 even depth-3"><article
+id="div-comment-9447" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/aebdae43a7688152ffecab586ee77fb2?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/aebdae43a7688152ffecab586ee77fb2?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">JL_9252</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9447"><time
+datetime="2014-02-24T02:40:54-08:00">February 24, 2014 at 2:40 am</time></a></div></footer><div
+class="comment-content"><p>Yeah&#8230;.true..The voice is deep and mono&#8230;<br
+/>
+But true if Hyo gets the part, it seems like it&#8217;s unequal because some songs she have already surpassed all the dancers in playtime for this album.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li></ol></li></ol></li><li
+id="comment-9445" class="comment byuser comment-author-sone odd alt thread-odd thread-alt depth-1"><article
+id="div-comment-9445" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/d46f1993e4a6d3c59b9d20d83bc0a508?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d46f1993e4a6d3c59b9d20d83bc0a508?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">sone</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9445"><time
+datetime="2014-02-24T01:56:40-08:00">February 24, 2014 at 1:56 am</time></a></div></footer><div
+class="comment-content"><p>Wt about the other songs?</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li><li
+id="comment-9454" class="comment byuser comment-author-prettyangel92 even thread-even depth-1 parent"><article
+id="div-comment-9454" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/30162e26d9f98a306974c9f12baa1a3b?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/30162e26d9f98a306974c9f12baa1a3b?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">prettyangel92</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9454"><time
+datetime="2014-02-24T03:46:00-08:00">February 24, 2014 at 3:46 am</time></a></div></footer><div
+class="comment-content"><p>no mistakes =)</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-9499" class="comment byuser comment-author-yellow17 odd alt depth-2"><article
+id="div-comment-9499" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/802cc2ec8ce01d20b0dca53cad42be08?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/802cc2ec8ce01d20b0dca53cad42be08?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">yellow17</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9499"><time
+datetime="2014-02-25T19:40:17-08:00">February 25, 2014 at 7:40 pm</time></a></div></footer><div
+class="comment-content"><p>I agree! No mistakes :)</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li></ol></li><li
+id="comment-9457" class="comment byuser comment-author-viettien81212 even thread-odd thread-alt depth-1"><article
+id="div-comment-9457" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/69694d69da7c069184638702b5046871?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/69694d69da7c069184638702b5046871?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">Viettien81212</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9457"><time
+datetime="2014-02-24T05:46:19-08:00">February 24, 2014 at 5:46 am</time></a></div></footer><div
+class="comment-content"><p>sueobsi ipsul kkaemulmyeo beotyeotdeon maeumi<br
+/>
+ijen jichin geolkka<br
+/>
+anim naega neomu keun gidael haetdeon geolkka<br
+/>
+moreugesseo<br
+/>
+waenji naeireun biga ol geotman gata<br
+/>
+memareun naege ppuryeojwoyo<br
+/>
+annyeong, Really really good goodbye<br
+/>
+Last chorus sounds like Seohyun leading</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li><li
+id="comment-9488" class="comment byuser comment-author-sheedhenryali odd alt thread-even depth-1 parent"><article
+id="div-comment-9488" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/29c26fa27d1c13dfa415a99674a190a7?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/29c26fa27d1c13dfa415a99674a190a7?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">SheedHenryAli</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9488"><time
+datetime="2014-02-25T13:28:42-08:00">February 25, 2014 at 1:28 pm</time></a></div></footer><div
+class="comment-content"><p>[Seohyun/All] sueobsi ipsul kkaemulmyeo beotyeotdeon maeumi<br
+/>
+ijen jichin geolkka<br
+/>
+anim naega neomu keun gidael haetdeon geolkka<br
+/>
+moreugesseo<br
+/>
+waenji naeireun biga ol geotman gata<br
+/>
+memareun naege ppuryeojwoyo<br
+/>
+annyeong, Really really good goodbye</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-9609" class="comment byuser comment-author-daniel even depth-2 parent"><article
+id="div-comment-9609" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/4700aefc6f4c9d665ad7cf2cf31b3b5e?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4700aefc6f4c9d665ad7cf2cf31b3b5e?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">daniel</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9609"><time
+datetime="2014-03-08T05:25:42-08:00">March 8, 2014 at 5:25 am</time></a></div></footer><div
+class="comment-content"><p>Seohyun didn&#8217;t lead that part, you can hear other main vocalists, I heard Sunny.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-9622" class="comment byuser comment-author-sheedhenryali odd alt depth-3"><article
+id="div-comment-9622" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/29c26fa27d1c13dfa415a99674a190a7?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/29c26fa27d1c13dfa415a99674a190a7?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">SheedHenryAli</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9622"><time
+datetime="2014-03-09T08:47:18-07:00">March 9, 2014 at 8:47 am</time></a></div></footer><div
+class="comment-content"><p>You can clearly hear Seohyun more during that chorus while during the adlibs you can hear Sunny more</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li></ol></li></ol></li><li
+id="comment-9530" class="comment byuser comment-author-shonen93 even thread-odd thread-alt depth-1"><article
+id="div-comment-9530" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/fd48e7c08bbaa7c079b50f16f6cf2d67?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/fd48e7c08bbaa7c079b50f16f6cf2d67?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">Shonen93</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9530"><time
+datetime="2014-02-26T18:05:00-08:00">February 26, 2014 at 6:05 pm</time></a></div></footer><div
+class="comment-content"><p>Love Hyoyeon&#8217;s line!!! &lt;3</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li><li
+id="comment-9640" class="comment byuser comment-author-marimo974 odd alt thread-even depth-1 parent"><article
+id="div-comment-9640" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/19384c944ea0a6600afce1020f2ece66?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/19384c944ea0a6600afce1020f2ece66?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">Marimo974</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9640"><time
+datetime="2014-03-14T06:58:23-07:00">March 14, 2014 at 6:58 am</time></a></div></footer><div
+class="comment-content"><p>&#8220;chungbunhi yesangdoen jinbuhan seutoriya&#8221; it&#8217;s Yuri</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-9641" class="comment byuser comment-author-violet935 even depth-2"><article
+id="div-comment-9641" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/d6dd2fb972486c6c024665f15469b8b6?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d6dd2fb972486c6c024665f15469b8b6?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">violet935</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9641"><time
+datetime="2014-03-14T12:36:03-07:00">March 14, 2014 at 12:36 pm</time></a></div></footer><div
+class="comment-content"><p>No id you watch the live its Yuri</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li><li
+id="comment-9642" class="comment byuser comment-author-violet935 odd alt depth-2"><article
+id="div-comment-9642" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/d6dd2fb972486c6c024665f15469b8b6?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d6dd2fb972486c6c024665f15469b8b6?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">violet935</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-9642"><time
+datetime="2014-03-14T12:37:43-07:00">March 14, 2014 at 12:37 pm</time></a></div></footer><div
+class="comment-content"><p>I mean Sooyoung sorry</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li></ol></li><li
+id="comment-11016" class="comment byuser comment-author-jacobryan even thread-odd thread-alt depth-1"><article
+id="div-comment-11016" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/4de3811f5eb834275027d63e34b748e7?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4de3811f5eb834275027d63e34b748e7?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">jacobryan</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-11016"><time
+datetime="2014-08-25T23:49:40-07:00">August 25, 2014 at 11:49 pm</time></a></div></footer><div
+class="comment-content"><p>should be updated w/ trans!</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li><li
+id="comment-12213" class="comment byuser comment-author-byuntaeng09 odd alt thread-even depth-1"><article
+id="div-comment-12213" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/3f872b84bbf7e3a0611522d9fc1d048a?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/3f872b84bbf7e3a0611522d9fc1d048a?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">byuntaeng09</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-12213"><time
+datetime="2015-04-29T20:11:22-07:00">April 29, 2015 at 8:11 pm</time></a></div></footer><div
+class="comment-content"><p>shouldn&#8217;t the first two line be tiffany?</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li><li
+id="comment-23929" class="comment byuser comment-author-gorjesssunshine even thread-odd thread-alt depth-1"><article
+id="div-comment-23929" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/73340f27288ad4d4899e4b79ecc7349d?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/73340f27288ad4d4899e4b79ecc7349d?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">GorjessSunshine</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2014/02/girls-generation-sonyeosidae-goodbye#comment-23929"><time
+datetime="2020-04-23T23:03:24-07:00">April 23, 2020 at 11:03 pm</time></a></div></footer><div
+class="comment-content"><p>Someone made a filtered version of the last chorus @1:24, it&#8217;s Seohyun leading the part. ttps://www.youtube.com/watch?v=YyyPHStv35s</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">Log in to Reply</a></div></article></li></ol><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/2014/02/girls-generation-sonyeosidae-goodbye#respond" style="display:none;">Cancel reply</a></small></h3><p
+class="must-log-in">You must be <a
+href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2014%2F02%2Fgirls-generation-sonyeosidae-goodbye">logged in</a> to post a comment.</p></div><p
+class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a
+href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p></div></div></main></div></div></div></div><footer
+id="colophon" class="site-footer"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><div
+class="site-info">
+WordPress Theme: 						<a
+href="https://wp-points.com/themes/bloggrid/">BlogGrid</a>
+by TwoPoints.</div></div></div></div><div
+id="bg-to-top" title="Go to Top">
+<svg
+width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-arrow-up-square-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 8.354a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 6.207V11a.5.5 0 0 1-1 0V6.207L5.354 8.354z"/>
+</svg></div></footer></div> <script id='wpo_min-footer-0-js-extra'>var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"60671"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-footer-801f1e37.min.js' id='wpo_min-footer-0-js'></script> </body></html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Thu, 06 May 2021 08:04:00 GMT -->

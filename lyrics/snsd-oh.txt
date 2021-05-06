@@ -1,0 +1,877 @@
+<!doctype html><html
+lang="en-US"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="https://gmpg.org/xfn/11"><title>Girls’ Generation (소녀시대) - Oh! Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL</title><meta
+name="description" content="Girls’ Generation (소녀시대) - Oh! Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link
+rel="canonical" href="https://colorcodedlyrics.com/2010/04/snsd-oh" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Girls’ Generation (소녀시대) - Oh! Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL" /><meta
+property="og:description" content="Girls’ Generation (소녀시대) - Oh! Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+property="og:url" content="https://colorcodedlyrics.com/2010/04/snsd-oh" /><meta
+property="og:site_name" content="Color Coded Lyrics" /><meta
+property="article:publisher" content="https://www.facebook.com/ColorCodedLyrics/" /><meta
+property="article:published_time" content="2010-04-26T02:56:18+00:00" /><meta
+property="article:modified_time" content="2019-11-21T19:35:48+00:00" /><meta
+property="og:image" content="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2010/04/snsd-oh.jpg?fit=500%2C500&#038;ssl=1" /><meta
+property="og:image:width" content="500" /><meta
+property="og:image:height" content="500" /><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:creator" content="@CodedLyrics" /><meta
+name="twitter:site" content="@CodedLyrics" /><meta
+name="twitter:label1" content="Written by"><meta
+name="twitter:data1" content="Kat-Admin"><meta
+name="twitter:label2" content="Est. reading time"><meta
+name="twitter:data2" content="5 minutes"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","contentUrl":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#primaryimage","inLanguage":"en-US","url":"https://colorcodedlyrics.com/wp-content/uploads/2010/04/snsd-oh.jpg","contentUrl":"https://colorcodedlyrics.com/wp-content/uploads/2010/04/snsd-oh.jpg","width":500,"height":500},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#webpage","url":"https://colorcodedlyrics.com/2010/04/snsd-oh","name":"Girls\u2019 Generation (\uc18c\ub140\uc2dc\ub300) - Oh! Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#primaryimage"},"datePublished":"2010-04-26T02:56:18+00:00","dateModified":"2019-11-21T19:35:48+00:00","description":"Girls\u2019 Generation (\uc18c\ub140\uc2dc\ub300) - Oh! Lyrics Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2010/04/snsd-oh"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn","url":"https://colorcodedlyrics.com/category/krn","name":"KOREAN"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","url":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)"}},{"@type":"ListItem","position":4,"item":{"@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#webpage"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/f098ad1fd48749a01c030bddc95fa48d"},"headline":"Girls\u2019 Generation (\uc18c\ub140\uc2dc\ub300) &#8211; Oh!","datePublished":"2010-04-26T02:56:18+00:00","dateModified":"2019-11-21T19:35:48+00:00","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#webpage"},"commentCount":8,"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2010/04/snsd-oh#primaryimage"},"keywords":["Girls Generation","Girls' Generation - Oh!","Girls' Generation (\uc18c\ub140\uc2dc\ub300)","Hyoyeon","Jessica (\uc81c\uc2dc\uce74)","Korean","Oh!","Oh! lyrics","Oh! mini album","Seohyun","SNSD","SNSD - Oh","Sooyoung","Sunny","Taeyeon","Tiffany","Yoona","Yuri","\uc11c\uc5f0","\uc218\uc601","\uc368\ub2c8","\uc720\ub9ac","\uc724\uc544","\uc81c\uc2dc\uce74","\ud2f0\ud30c\ub2c8"],"articleSection":["Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)","KOREAN"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://colorcodedlyrics.com/2010/04/snsd-oh#respond"]}]},{"@type":"Person","@id":"https://colorcodedlyrics.com/#/schema/person/f098ad1fd48749a01c030bddc95fa48d","name":"Kat-Admin","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/89789fcd864c7f3cef8df1f244e42bf4?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/89789fcd864c7f3cef8df1f244e42bf4?s=96&d=mm&r=pg","caption":"Kat-Admin"}}]}</script> <link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Feed" href="https://colorcodedlyrics.com/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Comments Feed" href="https://colorcodedlyrics.com/comments/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Girls’ Generation (소녀시대) &#8211; Oh! Comments Feed" href="https://colorcodedlyrics.com/2010/04/snsd-oh/feed" /><link
+rel='stylesheet' id='wpo_min-header-0-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-20094ea2.min.css' media='all' /> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-84e60a2d.min.js' id='wpo_min-header-0-js'></script> <link
+rel="https://api.w.org/" href="https://colorcodedlyrics.com/wp-json/" /><link
+rel="alternate" type="application/json" href="https://colorcodedlyrics.com/wp-json/wp/v2/posts/55" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://colorcodedlyrics.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://colorcodedlyrics.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 5.6.3" /><link
+rel='shortlink' href='https://colorcodedlyrics.com/?p=55' /><link
+rel="alternate" type="application/json+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh" /><link
+rel="alternate" type="text/xml+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh&#038;format=xml" /> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-29367300-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());gtag('config','UA-29367300-1')</script> <link
+rel="pingback" href="https://colorcodedlyrics.com/xmlrpc.php"><style type="text/css" id="custom-theme-css">.custom-logo{height:120px;width:auto}body.custom-background .bg-similar-posts{background-color:#EDF2F7}</style><style id="uagb-style-conditional-extension">@media (min-width:1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width:768px) and (max-width:1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width:767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-32x32.jpg" sizes="32x32" /><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-192x192.jpg" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-180x180.jpg" /><meta
+name="msapplication-TileImage" content="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-270x270.jpg" /><style id="wp-custom-css">@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);.single-post-card .card-body{padding:2rem 0rem;max-width:1140px;margin:auto;font-size:.8rem;font-family:'Lato',sans-serif}.entry-content{background-color:#000;padding:2rem;color:#828282}.entry-content h2{font-size:2em;font-family:"DM Serif Display",serif}.single-post-card .entry-header{padding:0rem 2rem}.single-post-card .cat-links{padding:0rem 2rem}.wp-block-group{color:#828282}.TrendingDiv h1,h4{font-family:"DM Serif Display",serif;font-weight:400}.site-title{font-family:"DM Serif Display",serif}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,thead,tbody,th,td,tr{display:block}thead tr{position:absolute;top:-9999px;left:-9999px}tr{border:0}td{margin-bottom:20px}@media only screen and (min-device-width :320px) and (max-device-width :480px){body{padding:0;margin:0;min-width:320px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){body{min-width:495px}}}</style> <script data-ad-client="ca-pub-9127294175918477" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head><body data-rsssl=1
+class="post-template-default single single-post postid-55 single-format-standard wp-custom-logo wp-embed-responsive no-sidebar no-sidebar-single"><div
+id="page" class="site">
+<a
+class="skip-link screen-reader-text" href="#primary">Skip to content</a><header
+id="masthead" class="site-header"><div
+class="container"><div
+class="d-flex justify-content-between align-items-center"><div
+class=""><div
+class="site-branding">
+<a
+href="https://colorcodedlyrics.com/" class="custom-logo-link" rel="home"><img
+width="1499" height="1138" src="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png" class="custom-logo" alt="Color Coded Lyrics" srcset="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png 1499w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-395x300.png 395w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-785x596.png 785w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-768x583.png 768w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-800x607.png 800w" sizes="(max-width: 1499px) 100vw, 1499px" /></a><p
+class="site-title"><a
+href="https://colorcodedlyrics.com/" rel="home">Color Coded Lyrics</a></p></div></div><div
+class="flex-grow-1"><nav
+id="site-navigation" class="main-navigation">
+<button
+class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<svg
+width="1.5em" height="1.5em" viewBox="0 0 16 16" class="bi bi-list" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>
+</button><div
+class="menu-header-container"><ul
+id="primary-menu" class="menu"><li
+id="menu-item-143898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-143898"><a
+href="https://colorcodedlyrics.com">Home</a></li><li
+id="menu-item-143899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143899"><a
+href="https://colorcodedlyrics.com/index">Index</a></li><li
+id="menu-item-143900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143900"><a
+href="https://colorcodedlyrics.com/join-ccl">Join CCL</a></li><li
+id="menu-item-143901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143901"><a
+href="https://colorcodedlyrics.com/f-a-q-c-important">F.A.Q.</a></li><li
+id="menu-item-152925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-152925"><a
+href="https://colorcodedlyrics.com">Submit</a><ul
+class="sub-menu"><li
+id="menu-item-152924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152924"><a
+href="https://colorcodedlyrics.com/translations">Translations</a></li><li
+id="menu-item-143902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143902"><a
+href="https://colorcodedlyrics.com/requests">Requests</a></li></ul></li><li
+id="menu-item-144259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144259"><a
+href="https://colorcodedlyrics.com/wp-login.php">Log In</a></li><li
+id="menu-item-145427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145427"><a
+href="https://colorcodedlyrics.com/tip-our-authors">Tip our Authors</a></li></ul></div></nav></div></div></div><div
+style="padding-left: 5%"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<ins
+class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-9127294175918477"
+data-ad-slot="4553898897"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({})</script> </div></header><div
+id="content" class="site-content"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><main
+id="primary" class="site-main"><article
+id="post-55" class="single-post-card post-55 post type-post status-publish format-standard has-post-thumbnail hentry category-snsd-sonyeosidae category-krn tag-girls_generation tag-girls_generation_-_oh tag-girls_generation_sonyeosidae tag-hyoyeon tag-jessica tag-korean tag-oh tag-oh-lyrics tag-oh_mini_album tag-seohyun tag-snsd tag-snsd_-_oh tag-sooyoung tag-sunny tag-taeyeon tag-tiffany tag-yoona tag-yuri tag-seoyeon tag-suyeong tag-sseoni tag-yuli tag-yuna tag-jesika tag-985"><div
+class="card-body"><span
+class="cat-links"><a
+href="https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae" rel="category tag">Girls' Generation (소녀시대/少女時代)</a>&nbsp;<a
+href="https://colorcodedlyrics.com/category/krn" rel="category tag">KOREAN</a></span><header
+class="entry-header"><h1 class="entry-title">Girls’ Generation (소녀시대) &#8211; Oh!</h1><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2010/04/snsd-oh" rel="bookmark"><time
+class="entry-date published" datetime="2010-04-25T19:56:18-07:00">April 25, 2010</time><time
+class="updated" datetime="2019-11-21T11:35:48-08:00">November 21, 2019</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/kat">Kat-Admin</a></span>
+</span></div></header><div
+class="entry-content"><table><tbody><tr><td><h2 style="text-align: center">Oh!</h2><p
+style="text-align: center"><span
+style="text-decoration: underline">Oh!</span><br
+/>
+2010.01.25</p></td><td
+style="text-align: right"><img
+loading="lazy" class="alignright" title="SNSD - Oh!" src="https://colorcodedlyrics.com/wp-content/uploads/2010/04/snsd-oh.jpg" alt="" width="200" height="200" /></td></tr><tr><td
+style="text-align: center"><span
+style="color: #ff6600">Taeyeon</span>, <span
+style="color: #3366ff">Jessica</span>, <span
+style="color: #800080">Sunny</span>, <br
+/>
+<span
+style="color: #ff00ff">Tiffany</span>, <span
+style="color: #008000">Hyoyeon</span>, <span
+style="color: #ff0000">Yuri</span>,<br
+/>
+<span
+style="color: #00ccff">Sooyoung</span>, <span
+style="color: #ffff00">Yoona</span>, <span
+style="color: #008080">Seohyun</span></td><td
+style="text-align: right"><strong>Lyrics/작사</strong>: 김영후, 김정배<br
+/>
+<strong>Composer/작곡</strong>: 켄지<br
+/>
+<strong>Arranger/편곡</strong>: 켄지</td></tr></tbody></table><p
+style="text-align: center">[youtube https://www.youtube.com/watch?v=TGbwL8kSpEk]</p><p><span
+style="color: #ff00ff"><span
+id="more-55"></span></span></p><table
+border="0"><tbody><tr><th>Romanization</th><th>Korean</th><th>Translation</th></tr><tr><td><span
+style="color: #ffffff">jeone aldeon naega anya Brand new sound</span><br
+/>
+<span
+style="color: #ff00ff">(I like the way you smile)</span><br
+/>
+<span
+style="color: #ffffff">saeroweojin nawa hamkke One more round</span><br
+/>
+<span
+style="color: #ff00ff">(Like the way you talk)</span><br
+/>
+<span
+style="color: #ffffff">Dance dance dance till we run this town</span><br
+/>
+<span
+style="color: #ff00ff">(Whenever you’re ready)</span><br
+/>
+<span
+style="color: #ffffff">oppa oppa I’ll be I’ll be down down down down</span><br
+/>
+<span
+style="color: #ff00ff">(Wanna be&#8230; something new, oh!)</span></p><p><span
+style="color: #008080">Hey oppa na jom bwa nareul jom barabwa</span><br
+/>
+<span
+style="color: #ff00ff">cheoeumiya ireon nae maltu Ha</span><br
+/>
+<span
+style="color: #ff0000">meorido hago hwajangdo haenneunde</span><br
+/>
+<span
+style="color: #3366ff">wae neoman neoman moreuni</span></p><p><span
+style="color: #ff6600">dugeundugeun gaseumi tteollyeo wayo<br
+/>
+jakkujakku sangsangman haneungeolyo</span><br
+/>
+<span
+style="color: #00ccff">eotteoke hana kottae nopdeon naega</span><br
+/>
+<span
+style="color: #ffff00">malhago shipeo</span></p><p><span
+style="color: #ffffff">Oh! Oh! Oh! oppareul saranghae<br
+/>
+Ah! Ah! Ah! Ah! mani mani hae</span><br
+/>
+<span
+style="color: #800080">sujubeuni jebal utji mayo</span><br
+/>
+<span
+style="color: #ff6600">jinshimini nollijido marayo</span><br
+/>
+[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #ffffff">All</span>] tto babo gateun malppunya <span
+style="color: #ffffff">(Oh)</span></p><p><span
+style="color: #ffffff">jeone aldeon naega anya Brand new sound<br
+/>
+saeroweojin nawa hamkke One more round<br
+/>
+Dance dance dance till we run this town<br
+/>
+oppa oppa I’ll be I’ll be down down down down</span></p><p><span
+style="color: #3366ff">oppa jamkkanman jamkkanman deureo bwa</span><br
+/>
+<span
+style="color: #800080">jakku ttan yaegineun malgo</span><br
+/>
+<span
+style="color: #00ccff">dongsaengeuroman saenggakajin mara</span><br
+/>
+<span
+style="color: #008000">il nyeon dwimyeon huhwehalkkeol</span></p><p><span
+style="color: #ff00ff">molla molla nae mameul jeonhyeo molla<br
+/>
+nunchi eopge jangnanman chineungeolyo</span><br
+/>
+<span
+style="color: #008000">eotteoke hana i cheoreomneun sarama</span><br
+/>
+<span
+style="color: #008080">deureo bwa jeongmal</span></p><p><span
+style="color: #ffffff">Oh! Oh! Oh! oppareul saranghae<br
+/>
+Ah! Ah! Ah! Ah! mani mani hae</span><br
+/>
+<span
+style="color: #ff0000">sujubeuni jebal utji mayo</span><br
+/>
+<span
+style="color: #ffff00">jinshimini nollijido marayo</span><br
+/>
+[<span
+style="color: #800080">Sun</span>/<span
+style="color: #ffffff">All</span>] tto geureomyeon na uljjido molla <span
+style="color: #ffffff">(Oh)</span></p><p><span
+style="color: #ffffff">jeone aldeon naega anya Brand new sound<br
+/>
+mweonga dareun oneulmaneun tteugeoun maeum<br
+/>
+daeum daeum miruji ma hwaman na<br
+/>
+oppa oppa idaeroneun No! No! No! No!</span></p><p><span
+style="color: #3366ff">Tell me, boy, boy<br
+/>
+Love it? It, it, it, it, it, it, ah!</span></p><p><span
+style="color: #ffffff">Oh! Oh! Oh! oppareul saranghae<br
+/>
+Ah! Ah! Ah! Ah! mani mani hae<br
+/>
+Oh! Oh! Oh! Oh! Oh! Oh! Oh!<br
+/>
+oppareul saranghae<br
+/>
+Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!<br
+/>
+mani mani</span></p><p>[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #ffffff">All</span>] tto babo gateun malppunya <span
+style="color: #ffffff">(Oh)</span></p><p><span
+style="color: #ffffff">Oh! Oh! Oh! Oh! Ah! Ah! Ah! Ah!<br
+/>
+Oh! Oh! Oh! Oh! Oh! Oh! Oh!<br
+/>
+oppareul saranghae<br
+/>
+Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!<br
+/>
+mani mani hae<br
+/>
+Oh! Oh! Oh! Oh! Oh! Oh! Oh!<br
+/>
+oppareul saranghae<br
+/>
+Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!<br
+/>
+mani mani Oh!</span></td><td><span
+style="color: #ffffff">전에 알던 내가 아냐 Brand new sound</span><br
+/>
+<span
+style="color: #ff00ff">(I like the way you smile)</span><br
+/>
+<span
+style="color: #ffffff">새로워진 나와 함께 One more round</span><br
+/>
+<span
+style="color: #ff00ff">(Like the way you talk)</span><br
+/>
+<span
+style="color: #ffffff">Dance dance dance till we run this town</span><br
+/>
+<span
+style="color: #ff00ff">(Whenever you’re ready)</span><br
+/>
+<span
+style="color: #ffffff">오빠 오빠 I’ll be I’ll be down down down down</span><br
+/>
+<span
+style="color: #ff00ff">(Wanna be&#8230; something new, oh!)</span></p><p><span
+style="color: #008080">Hey 오빠 나 좀 봐 나를 좀 바라봐</span><br
+/>
+<span
+style="color: #ff00ff">처음이야 이런 내 말투 Ha</span><br
+/>
+<span
+style="color: #ff0000">머리도 하고 화장도 했는데</span><br
+/>
+<span
+style="color: #3366ff">왜 너만 너만 모르니</span></p><p><span
+style="color: #ff6600">두근두근 가슴이 떨려 와요<br
+/>
+자꾸자꾸 상상만 하는걸요</span><br
+/>
+<span
+style="color: #00ccff">어떻게 하나 콧대 높던 내가</span><br
+/>
+<span
+style="color: #ffff00">말하고 싶어</span></p><p><span
+style="color: #ffffff">Oh! Oh! Oh! 오빠를 사랑해<br
+/>
+Ah! Ah! Ah! Ah! 많이 많이 해</span><br
+/>
+<span
+style="color: #800080">수줍으니 제발 웃지 마요</span><br
+/>
+<span
+style="color: #ff6600">진심이니 놀리지도 말아요</span><br
+/>
+[<span
+style="color: #ff6600">태</span>/<span
+style="color: #ffffff">All</span>] 또 바보 같은 말뿐야 <span
+style="color: #ffffff">(Oh)</span></p><p><span
+style="color: #ffffff">전에 알던 내가 아냐 Brand new sound<br
+/>
+새로워진 나와 함께 One more round<br
+/>
+Dance dance dance till we run this town<br
+/>
+오빠 오빠 I’ll be I’ll be down down down down</span></p><p><span
+style="color: #3366ff">오빠 잠깐만 잠깐만 들어 봐</span><br
+/>
+<span
+style="color: #800080">자꾸 딴 얘기는 말고</span><br
+/>
+<span
+style="color: #00ccff">동생으로만 생각하진 마라</span><br
+/>
+<span
+style="color: #008000">일 년 뒤면 후회할걸</span></p><p><span
+style="color: #ff00ff">몰라 몰라 내 맘을 전혀 몰라<br
+/>
+눈치 없게 장난만 치는걸요</span><br
+/>
+<span
+style="color: #008000">어떻게 하나 이 철없는 사람아</span><br
+/>
+<span
+style="color: #008080">들어 봐 정말</span></p><p><span
+style="color: #ffffff">Oh! Oh! Oh! 오빠를 사랑해<br
+/>
+Ah! Ah! Ah! Ah! 많이 많이 해</span><br
+/>
+<span
+style="color: #ff0000">수줍으니 제발 웃지 마요</span><br
+/>
+<span
+style="color: #ffff00">진심이니 놀리지도 말아요</span><br
+/>
+[<span
+style="color: #800080">써</span>/<span
+style="color: #ffffff">All</span>] 또 그러면 나 울지도 몰라 <span
+style="color: #ffffff">(Oh)</span></p><p><span
+style="color: #ffffff">전에 알던 내가 아냐 Brand new sound<br
+/>
+뭔가 다른 오늘만은 뜨거운 마음<br
+/>
+다음 다음 미루지 마 화만 나<br
+/>
+오빠 오빠 이대로는 No! No! No! No!</span></p><p><span
+style="color: #3366ff">Tell me, boy, boy<br
+/>
+Love it? It, it, it, it, it, it, ah!</span></p><p><span
+style="color: #ffffff">Oh! Oh! Oh! 오빠를 사랑해<br
+/>
+Ah! Ah! Ah! Ah! 많이 많이 해<br
+/>
+Oh! Oh! Oh! Oh! Oh! Oh! Oh!<br
+/>
+오빠를 사랑해<br
+/>
+Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!<br
+/>
+많이 많이</span></p><p>[<span
+style="color: #ff6600">태</span>/<span
+style="color: #ffffff">All</span>] 또 바보 같은 말뿐야 <span
+style="color: #ffffff">(Oh)</span></p><p><span
+style="color: #ffffff">Oh! Oh! Oh! Oh! Ah! Ah! Ah! Ah!<br
+/>
+Oh! Oh! Oh! Oh! Oh! Oh! Oh!<br
+/>
+오빠를 사랑해<br
+/>
+Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!<br
+/>
+많이 많이 해<br
+/>
+Oh! Oh! Oh! Oh! Oh! Oh! Oh!<br
+/>
+오빠를 사랑해<br
+/>
+Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!<br
+/>
+많이 많이 Oh!</span></td><td>It’s not the me you knew before, brand new sound<br
+/>
+(I like the way you smile)<br
+/>
+Together with this renewed me, one more round<br
+/>
+(Like the way you talk)<br
+/>
+Dance dance dance till we run this town<br
+/>
+(Whenever you’re ready)<br
+/>
+Oppa, oppa, I’ll be I’ll be down down down down<br
+/>
+(Wanna be… something new, oh!)</p><p>Hey oppa look at me, please stare at me a bit<br
+/>
+For me this style of talking is a first, ha<br
+/>
+I did my hair, and I put on makeup too<br
+/>
+But why are you the only one who doesn’t realize?</p><p>Thump thump my heart is starting to shake<br
+/>
+I keep imagining repeatedly<br
+/>
+What should I do? I used to be conceited<br
+/>
+I want to tell you</p><p>Oh! Oh! Oh! Oppa I love you<br
+/>
+Ah! Ah! Ah! Ah! So much, so much<br
+/>
+I&#8217;m shy so please don&#8217;t laugh<br
+/>
+I&#8217;m sincere so please don&#8217;t tease me<br
+/>
+Again it&#8217;s only foolish words (Oh)</p><p>It’s not the me you knew before, brand new sound<br
+/>
+Together with this renewed me, one more round<br
+/>
+Dance dance dance till we run this town<br
+/>
+Oppa, oppa, I’ll be I’ll be down down down down</p><p>Oppa listen to me just for a minute<br
+/>
+Stop talking about other things<br
+/>
+Don&#8217;t just think of me as a little sister<br
+/>
+You&#8217;ll regret it after a year</p><p>You don&#8217;t know my feelings at all<br
+/>
+You&#8217;re just joking around tactlessly<br
+/>
+What should I do? You immature person<br
+/>
+Listen, really</p><p>Oh! Oh! Oh! Oppa I love you<br
+/>
+Ah! Ah! Ah! Ah! So much, so much<br
+/>
+I&#8217;m shy so please don&#8217;t laugh<br
+/>
+I&#8217;m sincere so please don&#8217;t tease me<br
+/>
+If you do that again I might cry (Oh)</p><p>It’s not the me you knew before, brand new sound<br
+/>
+Heated heart only on this somehow different day<br
+/>
+Don&#8217;t take a rain check on this, I&#8217;ll just get mad<br
+/>
+Oppa, oppa, this way no! No! No! No!</p><p>Tell me, boy, boy<br
+/>
+Love it? It, it, it, it, it, it, ah!</p><p>Oh! Oh! Oh! Oppa I love you<br
+/>
+Ah! Ah! Ah! Ah! So much, so much<br
+/>
+Oh! Oh! Oh! Oh! Oh! Oh! Oh!<br
+/>
+Oppa I love you<br
+/>
+Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!<br
+/>
+So much, so much</p><p>Again it&#8217;s only foolish words (Oh)</p><p>Oh! Oh! Oh! Oh! Ah! Ah! Ah! Ah!<br
+/>
+Oh! Oh! Oh! Oh! Oh! Oh! Oh!<br
+/>
+Oppa I love you<br
+/>
+Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!<br
+/>
+So much, so much<br
+/>
+Oh! Oh! Oh! Oh! Oh! Oh! Oh!<br
+/>
+Oppa I love you<br
+/>
+Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!<br
+/>
+So much, so much, oh!</td></tr></tbody></table><p>Korean: music.daum.net, Hikaru @CCL<br
+/>
+Rom: Hikaru @CCL<br
+/>
+Eng: Tetsuya@mysone, SONEms, Hikaru @CCL<br
+/>
+info: music.daum.net</p></div><div
+class="clearfix"></div><div
+class="bg-similar-posts"><h4>Similar Posts</h4><div
+class="row row-cols-1 row-cols-sm-2 bg-posts-row"><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2020/08/onf-belle-epoque-cheos-kiseuui-beobchig" aria-hidden="true" tabindex="-1">
+<img
+width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2020/08/ONF-SPIN-OFF.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="ONF &#8211; Belle Epoque (첫 키스의 법칙)" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2020/08/ONF-SPIN-OFF.jpg 1000w, https://colorcodedlyrics.com/wp-content/uploads/2020/08/ONF-SPIN-OFF-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2020/08/ONF-SPIN-OFF-785x785.jpg 785w, https://colorcodedlyrics.com/wp-content/uploads/2020/08/ONF-SPIN-OFF-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2020/08/ONF-SPIN-OFF-768x768.jpg 768w, https://colorcodedlyrics.com/wp-content/uploads/2020/08/ONF-SPIN-OFF-795x795.jpg 795w, https://colorcodedlyrics.com/wp-content/uploads/2020/08/ONF-SPIN-OFF-360x360.jpg 360w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2020/08/onf-belle-epoque-cheos-kiseuui-beobchig" rel="bookmark">ONF &#8211; Belle Epoque (첫 키스의 법칙)</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2020/08/onf-belle-epoque-cheos-kiseuui-beobchig" rel="bookmark"><time
+class="entry-date published" datetime="2020-08-10T15:14:34-07:00">August 10, 2020</time><time
+class="updated" datetime="2020-08-10T17:31:05-07:00">August 10, 2020</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/xmhhjx">Sandy</a></span>
+</span></div></header></div></article></div><div
+class="col"><article
+class="archive-post-card"><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2012/03/stellar_seutella_-_rocket_girl_lokesgeol_cc_lyrics" rel="bookmark">Stellar (스텔라) &#8211; Rocket Girl (로켓걸) (CC Lyrics)</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2012/03/stellar_seutella_-_rocket_girl_lokesgeol_cc_lyrics" rel="bookmark"><time
+class="entry-date published" datetime="2012-03-06T16:36:04-08:00">March 6, 2012</time><time
+class="updated" datetime="2012-03-07T23:19:30-08:00">March 7, 2012</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/jade2010">J</a></span>
+</span></div></header></div></article></div></div></div><div
+class="clearfix"></div></div></article><nav
+class="navigation post-navigation" role="navigation" aria-label="Posts"><h2 class="screen-reader-text">Post navigation</h2><div
+class="nav-links"><div
+class="nav-previous"><a
+href="https://colorcodedlyrics.com/2010/04/ss501-love-like-this-color-coded-lyrics" rel="prev"><span
+class="nav-subtitle"><svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-left" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M5.854 4.646a.5.5 0 0 1 0 .708L3.207 8l2.647 2.646a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 0 1 .708 0z"/>
+<path
+fill-rule="evenodd" d="M2.5 8a.5.5 0 0 1 .5-.5h10.5a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>Previous</span> <span
+class="nav-title">SS501 &#8211; Love Like This (네게로)</span></a></div><div
+class="nav-next"><a
+href="https://colorcodedlyrics.com/2010/04/snsd-chocolate-love-color-coded-lyrics" rel="next"><span
+class="nav-subtitle">Next<svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M10.146 4.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L12.793 8l-2.647-2.646a.5.5 0 0 1 0-.708z"/>
+<path
+fill-rule="evenodd" d="M2 8a.5.5 0 0 1 .5-.5H13a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 8z"/>
+</svg></span> <span
+class="nav-title">Girls&#8217; Generation (소녀시대) &#8211; Chocolate Love</span></a></div></div></nav><div
+id="comments" class="comments-area"><div
+class="comments-area-body"><h2 class="comments-title">
+8 thoughts on &ldquo;<span>Girls’ Generation (소녀시대) &#8211; Oh!</span>&rdquo;</h2><ol
+class="comment-list"><li
+id="comment-10025" class="comment byuser comment-author-ikieyz even thread-even depth-1"><article
+id="div-comment-10025" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/4cb6c1fcf8d9c0e1b16a8f5368a94f58?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4cb6c1fcf8d9c0e1b16a8f5368a94f58?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">Ikieyz</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2010/04/snsd-oh#comment-10025"><time
+datetime="2014-05-04T01:22:51-07:00">May 4, 2014 at 1:22 am</time></a></div></footer><div
+class="comment-content"><p>[All] Jeone aldeon naega anya Brand new sound ([Tiffany] I like the way you smile)<br
+/>
+[All] Saerowojin nawa hamkke One more round ([Tiffany] Like the way you talk)<br
+/>
+[All] Dance, dance, dance &#8217;till we run this town ([Tiffany] Whenever you&#8217;re ready)<br
+/>
+[All] Oppa, oppa I&#8217;ll be, I&#8217;ll be down, down, down, down ([Tiffany] Wanna be, something new, Oh!)</p><p>[Seohyun] Hey! oppa najombwa nareul jom barabwa<br
+/>
+[Tiffany] Cheoeumiya ireon nae maltu, hah!<br
+/>
+[Yuri] Meorido hago hwajangdo haetneunde<br
+/>
+[Jessica] Wae neoman neoman moreuni</p><p>[Taeyeon] Dugeun dugeun gaseumi tteollyeowayo<br
+/>
+[Taeyeon] Jakku jakku sangsangman haneungeoryo<br
+/>
+[Sooyoung] Eotteoke hana kotdaenopdeon naega<br
+/>
+[YoonA] Malhagosipeo</p><p>[All] Oh! Oh! Oh! oppareul saranghae<br
+/>
+[All] Ah! Ah! Ah! a mani manihae<br
+/>
+[Sunny] Sujubeuni jebal utjimayo [Taeyeon] Jinsimini nollijido marayo<br
+/>
+[All] Tto babogateun malppunya</p><p>[All] Jeone aldeon naega anya Brand new sound<br
+/>
+[All] Saerowojin nawa hamkke One more round<br
+/>
+[All] Dance, dance, dance &#8217;till we run this town<br
+/>
+[All] Oppa, oppa I&#8217;ll be I&#8217;ll be down, down, down, down</p><p>[Jessica] Oppa jamkkanman jamkkanman deureobwa<br
+/>
+[Sunny] Sujupdan yaegineun malgo<br
+/>
+[Sooyoung] Dongsaengeuroman saenggakhajin mara<br
+/>
+[Hyoyeon] Inyeon dwien huhoehal geol</p><p>[Tiffany] Molla molla naemameul jeonhyeomolla<br
+/>
+[Tiffany] Nunchieopsi jangnanman chineungeoryo<br
+/>
+[Hyoyeon] Etteoke hana i cheoreopneun sarama<br
+/>
+[Seohyun] Deureobwa jeongmal</p><p>[All] Oh! Oh! Oh! oppareul saranghae<br
+/>
+[All] Ah! Ah! Ah! a mani manihae<br
+/>
+[Yuri] Sujubeuni jebal utjimayo, [YoonA] Jinsimini nollijido marayo<br
+/>
+[All] Tto geureomyeon na uljido molla</p><p>[All] Jeone aldeon naega anya Brand you style<br
+/>
+[All] Mwonga dareun oneul maneun tteugeoun nal<br
+/>
+[All] Down, down ireojima hwaman na<br
+/>
+[All] Oppa, oppa idaeroneun No, no, no, no</p><p>[Jessica] Tell me boy, boy<br
+/>
+[Jessica] Love it, it, it, it, it? Ah!</p><p>[All] Oh! Oh! Oh! oppareul saranghae<br
+/>
+[All] Ah! Ah! Ah! a mani manihae<br
+/>
+[All] Oh! Oh! Oh! Oh! Oh! Oh! Oh! oppareul saranghae<br
+/>
+[All] Ah! Ah! Ah! Ah! Ah! Ah! Ah! a mani manihae</p><p>[All/Taeyeon] Tto babogateun malppunya</p><p>[All] Oh! Oh! Oh! o<br
+/>
+[All] Ah! Ah! Ah! a</p><p>[All] Oh! Oh! Oh! Oh! Oh! Oh! Oh! oppareul saranghae<br
+/>
+[All] Ah! Ah! Ah! Ah! Ah! Ah! Ah! a mani manihae<br
+/>
+[All] Oh! Oh! Oh! Oh! Oh! Oh! Oh! oppareul saranghae<br
+/>
+[All] Ah! Ah! Ah! Ah! Ah! Ah! Ah! a mani manihae</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh">Log in to Reply</a></div></article></li><li
+id="comment-10259" class="comment byuser comment-author-thedwexpress odd alt thread-odd thread-alt depth-1 parent"><article
+id="div-comment-10259" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/935167b8e87ad3bdf0334c161ba84d92?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/935167b8e87ad3bdf0334c161ba84d92?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">thedwexpress</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2010/04/snsd-oh#comment-10259"><time
+datetime="2014-06-08T12:28:40-07:00">June 8, 2014 at 12:28 pm</time></a></div></footer><div
+class="comment-content"><p>[Taeyeon/All] ddo babo gateun malbbunya [Sunny] Oh~<br
+/>
+both times and<br
+/>
+[Sunny/All] ddo geureomyeon na uljido molla [Sunny] Oh~</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-10735" class="comment byuser comment-author-james even depth-2 parent"><article
+id="div-comment-10735" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/d74478b201161e71782ec21d9c10380a?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d74478b201161e71782ec21d9c10380a?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">James</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2010/04/snsd-oh#comment-10735"><time
+datetime="2014-07-26T18:37:35-07:00">July 26, 2014 at 6:37 pm</time></a></div></footer><div
+class="comment-content"><p>ddo babo gateun malbbunya<br
+/>
+is Taeyeon<br
+/>
+ddo geureomyeon na uljido molla<br
+/>
+is Sunny,<br
+/>
+but Oh~ is everybody.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-10736" class="comment byuser comment-author-james odd alt depth-3"><article
+id="div-comment-10736" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/d74478b201161e71782ec21d9c10380a?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d74478b201161e71782ec21d9c10380a?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">James</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2010/04/snsd-oh#comment-10736"><time
+datetime="2014-07-26T18:38:32-07:00">July 26, 2014 at 6:38 pm</time></a></div></footer><div
+class="comment-content"><p>Oops! I mean, it is [Tae/All] and [Sun/All].<br
+/>
+Not only Taeyeon or Sunny.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh">Log in to Reply</a></div></article></li></ol></li><li
+id="comment-15640" class="comment byuser comment-author-dldenny even depth-2"><article
+id="div-comment-15640" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/b331288d348cb75dfe28531eefe742b6?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b331288d348cb75dfe28531eefe742b6?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">DLdenny</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2010/04/snsd-oh#comment-15640"><time
+datetime="2016-09-18T12:09:41-07:00">September 18, 2016 at 12:09 pm</time></a></div></footer><div
+class="comment-content"><p>No is Teyeon in the first time! Is Jessica</p><p>First: [Jessica/All] ddo babo gateun malbbunya<br
+/>
+Second: [Sunny/All] ddo babo gateun malbbunya<br
+/>
+Third: [Taeyeon/All] ddo babo gateun malbbunya</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh">Log in to Reply</a></div></article></li></ol></li><li
+id="comment-18719" class="comment byuser comment-author-dcardel odd alt thread-even depth-1 parent"><article
+id="div-comment-18719" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/40fdb9a5844f93368c771638d2cc36c2?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/40fdb9a5844f93368c771638d2cc36c2?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">DCardel</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2010/04/snsd-oh#comment-18719"><time
+datetime="2018-07-24T14:51:28-07:00">July 24, 2018 at 2:51 pm</time></a></div></footer><div
+class="comment-content"><p>[Tae/All] tto babo gateun malppunya</p><p>the first one is actually Soo/All<br
+/>
+you hear it if you listen closely and is show in lives where she stands in the middle and you can hear her leading the chorus better live.<br
+/>
+ex here: <a
+href="https://youtu.be/ckfX2gyH39A" rel="nofollow ugc">https://youtu.be/ckfX2gyH39A</a> its obvious when it gets to the  &#8220;ppunya~&#8221; part.</p><p>So its<br
+/>
+Soo/All<br
+/>
+Sun/All<br
+/>
+then<br
+/>
+Tae/All</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-18744" class="comment byuser comment-author-sooyoungboy even depth-2"><article
+id="div-comment-18744" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">Hikaru</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2010/04/snsd-oh#comment-18744"><time
+datetime="2018-08-02T18:56:47-07:00">August 2, 2018 at 6:56 pm</time></a></div></footer><div
+class="comment-content"><p>I&#8217;m sorry but audio filtration resulted in no difference between both parts&#8230; And Yoona is center by the way, not Sooyoung</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh">Log in to Reply</a></div></article></li></ol></li></ol><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/2010/04/snsd-oh#respond" style="display:none;">Cancel reply</a></small></h3><p
+class="must-log-in">You must be <a
+href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2010%2F04%2Fsnsd-oh">logged in</a> to post a comment.</p></div><p
+class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a
+href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p></div></div></main></div></div></div></div><footer
+id="colophon" class="site-footer"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><div
+class="site-info">
+WordPress Theme: 						<a
+href="https://wp-points.com/themes/bloggrid/">BlogGrid</a>
+by TwoPoints.</div></div></div></div><div
+id="bg-to-top" title="Go to Top">
+<svg
+width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-arrow-up-square-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 8.354a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 6.207V11a.5.5 0 0 1-1 0V6.207L5.354 8.354z"/>
+</svg></div></footer></div> <script id='wpo_min-footer-0-js-extra'>var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"55"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-footer-801f1e37.min.js' id='wpo_min-footer-0-js'></script> </body></html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Thu, 06 May 2021 11:16:08 GMT -->

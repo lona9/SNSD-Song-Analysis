@@ -1,0 +1,594 @@
+<!doctype html><html
+lang="en-US"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="https://gmpg.org/xfn/11"><title>Girls&#039; Generation (소녀시대) - Telepathy (텔레파시) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL</title><meta
+name="description" content="Girls&#039; Generation (소녀시대) - Telepathy (텔레파시) Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link
+rel="canonical" href="https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Girls&#039; Generation (소녀시대) - Telepathy (텔레파시) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL" /><meta
+property="og:description" content="Girls&#039; Generation (소녀시대) - Telepathy (텔레파시) Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+property="og:url" content="https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics" /><meta
+property="og:site_name" content="Color Coded Lyrics" /><meta
+property="article:publisher" content="https://www.facebook.com/ColorCodedLyrics/" /><meta
+property="article:published_time" content="2011-10-23T20:26:32+00:00" /><meta
+property="article:modified_time" content="2019-12-31T10:34:47+00:00" /><meta
+property="og:image" content="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2012/02/SNSD-The-Boys.jpg?fit=220%2C227&#038;ssl=1" /><meta
+property="og:image:width" content="220" /><meta
+property="og:image:height" content="227" /><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:creator" content="@CodedLyrics" /><meta
+name="twitter:site" content="@CodedLyrics" /><meta
+name="twitter:label1" content="Written by"><meta
+name="twitter:data1" content="ttllisten"><meta
+name="twitter:label2" content="Est. reading time"><meta
+name="twitter:data2" content="2 minutes"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","contentUrl":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#primaryimage","inLanguage":"en-US","url":"https://colorcodedlyrics.com/wp-content/uploads/2012/02/SNSD-The-Boys.jpg","contentUrl":"https://colorcodedlyrics.com/wp-content/uploads/2012/02/SNSD-The-Boys.jpg","width":"220","height":"227"},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#webpage","url":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Telepathy (\ud154\ub808\ud30c\uc2dc) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#primaryimage"},"datePublished":"2011-10-23T20:26:32+00:00","dateModified":"2019-12-31T10:34:47+00:00","description":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Telepathy (\ud154\ub808\ud30c\uc2dc) Lyrics Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn","url":"https://colorcodedlyrics.com/category/krn","name":"KOREAN"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","url":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)"}},{"@type":"ListItem","position":4,"item":{"@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#webpage"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/928911544a93cb1a6c5fddcf8af169f6"},"headline":"Girls&#8217; Generation (\uc18c\ub140\uc2dc\ub300) &#8211; Telepathy (\ud154\ub808\ud30c\uc2dc)","datePublished":"2011-10-23T20:26:32+00:00","dateModified":"2019-12-31T10:34:47+00:00","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#webpage"},"commentCount":4,"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#primaryimage"},"keywords":["Girl's Generation","Hyoyeon","Jessica (\uc81c\uc2dc\uce74)","Seohyun","SNSD","Sooyoung","Sunny","Taeyeon","Telepathy","The Boys","Tiffany","Yoona","Yuri","\ud154\ub808\ud30c\uc2dc"],"articleSection":["Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)","KOREAN"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#respond"]}]},{"@type":"Person","@id":"https://colorcodedlyrics.com/#/schema/person/928911544a93cb1a6c5fddcf8af169f6","name":"ttllisten","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/f323ff151e30608453c416ea157f8095?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/f323ff151e30608453c416ea157f8095?s=96&d=mm&r=pg","caption":"ttllisten"}}]}</script> <link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Feed" href="https://colorcodedlyrics.com/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Comments Feed" href="https://colorcodedlyrics.com/comments/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Girls&#8217; Generation (소녀시대) &#8211; Telepathy (텔레파시) Comments Feed" href="https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics/feed" /><link
+rel='stylesheet' id='wpo_min-header-0-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-20094ea2.min.css' media='all' /> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-84e60a2d.min.js' id='wpo_min-header-0-js'></script> <link
+rel="https://api.w.org/" href="https://colorcodedlyrics.com/wp-json/" /><link
+rel="alternate" type="application/json" href="https://colorcodedlyrics.com/wp-json/wp/v2/posts/7180" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://colorcodedlyrics.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://colorcodedlyrics.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 5.6.3" /><link
+rel='shortlink' href='https://colorcodedlyrics.com/?p=7180' /><link
+rel="alternate" type="application/json+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls_generation_-_tellepasi_telepathy_cc_lyrics" /><link
+rel="alternate" type="text/xml+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls_generation_-_tellepasi_telepathy_cc_lyrics&#038;format=xml" /> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-29367300-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());gtag('config','UA-29367300-1')</script> <link
+rel="pingback" href="https://colorcodedlyrics.com/xmlrpc.php"><style type="text/css" id="custom-theme-css">.custom-logo{height:120px;width:auto}body.custom-background .bg-similar-posts{background-color:#EDF2F7}</style><style id="uagb-style-conditional-extension">@media (min-width:1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width:768px) and (max-width:1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width:767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-32x32.jpg" sizes="32x32" /><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-192x192.jpg" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-180x180.jpg" /><meta
+name="msapplication-TileImage" content="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-270x270.jpg" /><style id="wp-custom-css">@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);.single-post-card .card-body{padding:2rem 0rem;max-width:1140px;margin:auto;font-size:.8rem;font-family:'Lato',sans-serif}.entry-content{background-color:#000;padding:2rem;color:#828282}.entry-content h2{font-size:2em;font-family:"DM Serif Display",serif}.single-post-card .entry-header{padding:0rem 2rem}.single-post-card .cat-links{padding:0rem 2rem}.wp-block-group{color:#828282}.TrendingDiv h1,h4{font-family:"DM Serif Display",serif;font-weight:400}.site-title{font-family:"DM Serif Display",serif}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,thead,tbody,th,td,tr{display:block}thead tr{position:absolute;top:-9999px;left:-9999px}tr{border:0}td{margin-bottom:20px}@media only screen and (min-device-width :320px) and (max-device-width :480px){body{padding:0;margin:0;min-width:320px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){body{min-width:495px}}}</style> <script data-ad-client="ca-pub-9127294175918477" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head><body data-rsssl=1
+class="post-template-default single single-post postid-7180 single-format-standard wp-custom-logo wp-embed-responsive no-sidebar no-sidebar-single"><div
+id="page" class="site">
+<a
+class="skip-link screen-reader-text" href="#primary">Skip to content</a><header
+id="masthead" class="site-header"><div
+class="container"><div
+class="d-flex justify-content-between align-items-center"><div
+class=""><div
+class="site-branding">
+<a
+href="https://colorcodedlyrics.com/" class="custom-logo-link" rel="home"><img
+width="1499" height="1138" src="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png" class="custom-logo" alt="Color Coded Lyrics" srcset="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png 1499w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-395x300.png 395w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-785x596.png 785w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-768x583.png 768w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-800x607.png 800w" sizes="(max-width: 1499px) 100vw, 1499px" /></a><p
+class="site-title"><a
+href="https://colorcodedlyrics.com/" rel="home">Color Coded Lyrics</a></p></div></div><div
+class="flex-grow-1"><nav
+id="site-navigation" class="main-navigation">
+<button
+class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<svg
+width="1.5em" height="1.5em" viewBox="0 0 16 16" class="bi bi-list" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>
+</button><div
+class="menu-header-container"><ul
+id="primary-menu" class="menu"><li
+id="menu-item-143898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-143898"><a
+href="https://colorcodedlyrics.com">Home</a></li><li
+id="menu-item-143899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143899"><a
+href="https://colorcodedlyrics.com/index">Index</a></li><li
+id="menu-item-143900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143900"><a
+href="https://colorcodedlyrics.com/join-ccl">Join CCL</a></li><li
+id="menu-item-143901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143901"><a
+href="https://colorcodedlyrics.com/f-a-q-c-important">F.A.Q.</a></li><li
+id="menu-item-152925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-152925"><a
+href="https://colorcodedlyrics.com">Submit</a><ul
+class="sub-menu"><li
+id="menu-item-152924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152924"><a
+href="https://colorcodedlyrics.com/translations">Translations</a></li><li
+id="menu-item-143902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143902"><a
+href="https://colorcodedlyrics.com/requests">Requests</a></li></ul></li><li
+id="menu-item-144259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144259"><a
+href="https://colorcodedlyrics.com/wp-login.php">Log In</a></li><li
+id="menu-item-145427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145427"><a
+href="https://colorcodedlyrics.com/tip-our-authors">Tip our Authors</a></li></ul></div></nav></div></div></div><div
+style="padding-left: 5%"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<ins
+class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-9127294175918477"
+data-ad-slot="4553898897"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({})</script> </div></header><div
+id="content" class="site-content"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><main
+id="primary" class="site-main"><article
+id="post-7180" class="single-post-card post-7180 post type-post status-publish format-standard has-post-thumbnail hentry category-snsd-sonyeosidae category-krn tag-girls-generation tag-hyoyeon tag-jessica tag-seohyun tag-snsd tag-sooyoung tag-sunny tag-taeyeon tag-telepathy tag-the_boys tag-tiffany tag-yoona tag-yuri tag-tellepasi"><div
+class="card-body"><span
+class="cat-links"><a
+href="https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae" rel="category tag">Girls' Generation (소녀시대/少女時代)</a>&nbsp;<a
+href="https://colorcodedlyrics.com/category/krn" rel="category tag">KOREAN</a></span><header
+class="entry-header"><h1 class="entry-title">Girls&#8217; Generation (소녀시대) &#8211; Telepathy (텔레파시)</h1><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics" rel="bookmark"><time
+class="entry-date published" datetime="2011-10-23T12:26:32-07:00">October 23, 2011</time><time
+class="updated" datetime="2019-12-31T02:34:47-08:00">December 31, 2019</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/ttllisten">ttllisten</a></span>
+</span></div></header><div
+class="entry-content"><table><tbody><tr><td><h2 style="text-align: center">텔레파시</h2><p
+style="text-align: center"><em>tellepashi</em><br
+/>
+&#8220;Telepathy&#8221;<br
+/>
+<span
+style="text-decoration: underline">The Boys</span><br
+/>
+2011.10.19</p></td><td
+style="text-align: right"><img
+loading="lazy" class="alignright" src="https://colorcodedlyrics.com/wp-content/uploads/2012/02/SNSD-The-Boys.jpg" alt="" width="200" height="200" /></td></tr><tr><td
+style="text-align: center"><span
+style="color: #ff6600">Taeyeon</span>, <span
+style="color: #3366ff">Jessica</span>, <span
+style="color: #800080">Sunny</span>,<br
+/>
+<span
+style="color: #ff00ff">Tiffany</span>, <span
+style="color: #008000">Hyoyeon</span>, <span
+style="color: #ff0000">Yuri</span>,<br
+/>
+<span
+style="color: #00ccff">Sooyoung</span>, <span
+style="color: #ffff00">Yoona</span>, <span
+style="color: #008080">Seohyun</span></td><td
+style="text-align: right"><strong>Lyrics/작사</strong>: 김부민<br
+/>
+<strong>Composer/작곡</strong>: Hitchhiker<br
+/>
+<strong>Arranger/편곡</strong>: Hitchhiker</td></tr></tbody></table><p
+style="text-align: center">[youtube https://www.youtube.com/watch?v=ZIaFFisByOo&amp;w=420&amp;h=315]</p><p><span
+style="color: #ff00ff"><span
+id="more-7180"></span></span></p><table
+border="0"><tbody><tr><th>Romanization</th><th>Korean</th><th>Translation</th></tr><tr><td><span
+style="color: #ffffff">Oh telepathy doo doo doo</span></p><p><span
+style="color: #ff6600">dugeun tto dugeun Emotion gamchul su eopseo</span><br
+/>
+<span
+style="color: #008080">eodiseonga bon deutan neoye nunppit Déjà vu</span></p><p><span
+style="color: #3366ff">shareureu nae ipsure nogeun jumuni</span><br
+/>
+<span
+style="color: #ffffff">(deullini deullini)</span><br
+/>
+<span
+style="color: #ff00ff">shinbiroun hyanggiga onmomeul gamssa</span><br
+/>
+<span
+style="color: #ffffff">(haneullo naraolla)</span></p><p><span
+style="color: #ffffff">dulmane bimil<br
+/>
+dalkom ssapssareumhan Love seutori<br
+/>
+neoreul hyanghae eottae deullini<br
+/>
+naye Telepathy<br
+/>
+du nuneul gama<br
+/>
+sangsanghae bwa mweodeun neoye seutori<br
+/>
+weonhago tto baraneun daero<br
+/>
+neoye Telepathy</span></p><p><span
+style="color: #ffff00">salgeum tto salgeum nae Motion nollijin mayo</span><br
+/>
+<span
+style="color: #800080">kkumeseodo kkumkkweo on neowa na Oh rangdebyu</span></p><p><span
+style="color: #00ccff">seureureuk ni mame bonaen shinhoga</span><br
+/>
+<span
+style="color: #ffffff">(Doodoodoo doodoodoo)</span><br
+/>
+<span
+style="color: #008000">jjaritan cheot kiseureul tteoollige hae</span><br
+/>
+<span
+style="color: #ffffff">(naegero dagawayo)</span></p><p><span
+style="color: #ffffff">sujubeun gobaek<br
+/>
+haessal gadeuk pumeun naye mellodi<br
+/>
+tteollyeo wayo jigeum i sungan<br
+/>
+naye Telepathy<br
+/>
+nae soneul jaba<br
+/>
+mandeureoyo neowa naye seutori<br
+/>
+eonjena ni gyeote isseulkke<br
+/>
+Oh telepathy doo doo doo</span></p><p><span
+style="color: #ff0000">kongdakkongdakae jakku<br
+/>
+nae shimjangeun keodaran papkon gata</span><br
+/>
+<span
+style="color: #ff6600">jeomjeom deo neol hyanghan sarange teojil tteutae</span></p><p><span
+style="color: #ffffff">dulmane bimil<br
+/>
+dalkom ssapssareumhan Love seutori<br
+/>
+neoreul hyanghae eottae deullini<br
+/>
+naye Telepathy<br
+/>
+du nuneul gama <span
+style="color: #ff6600">(Oh yeah)</span><br
+/>
+sangsanghae bwa mweodeun neoye seutori<br
+/>
+<span
+style="color: #ff6600">(neoye seutori)</span> weonhago tto baraneun daero<br
+/>
+neoye Telepathy doo doo doo <span
+style="color: #008080">(Love story feel it)</span></span></p><p><span
+style="color: #3366ff">deullinayo</span></p><p><span
+style="color: #ff00ff">Never ever stop falling in love</span></td><td><span
+style="color: #ffffff">Oh telepathy doo doo doo</span></p><p><span
+style="color: #ff6600">두근 또 두근 Emotion 감출 수 없어</span><br
+/>
+<span
+style="color: #008080">어디선가 본 듯한 너의 눈빛 Déjà vu</span></p><p><span
+style="color: #3366ff">샤르르 내 입술에 녹은 주문이</span><br
+/>
+<span
+style="color: #ffffff">(들리니 들리니)</span><br
+/>
+<span
+style="color: #ff00ff">신비로운 향기가 온몸을 감싸</span><br
+/>
+<span
+style="color: #ffffff">(하늘로 날아올라)</span></p><p><span
+style="color: #ffffff">둘만의 비밀<br
+/>
+달콤 쌉싸름한 Love 스토리<br
+/>
+너를 향해 어때 들리니<br
+/>
+나의 Telepathy<br
+/>
+두 눈을 감아<br
+/>
+상상해 봐 뭐든 너의 스토리<br
+/>
+원하고 또 바라는 대로<br
+/>
+너의 Telepathy</span></p><p><span
+style="color: #ffff00">살금 또 살금 내 Motion 놀리진 마요</span><br
+/>
+<span
+style="color: #800080">꿈에서도 꿈꿔 온 너와 나 Oh 랑데뷰</span></p><p><span
+style="color: #00ccff">스르륵 니 맘에 보낸 신호가</span><br
+/>
+<span
+style="color: #ffffff">(Doodoodoo doodoodoo)</span><br
+/>
+<span
+style="color: #008000">짜릿한 첫 키스를 떠올리게 해</span><br
+/>
+<span
+style="color: #ffffff">(내게로 다가와요)</span></p><p><span
+style="color: #ffffff">수줍은 고백<br
+/>
+햇살 가득 품은 나의 멜로디<br
+/>
+떨려 와요 지금 이 순간<br
+/>
+나의 Telepathy<br
+/>
+내 손을 잡아<br
+/>
+만들어요 너와 나의 스토리<br
+/>
+언제나 니 곁에 있을게<br
+/>
+Oh telepathy doo doo doo</span></p><p><span
+style="color: #ff0000">콩닥콩닥해 자꾸<br
+/>
+내 심장은 커다란 팝콘 같아</span><br
+/>
+<span
+style="color: #ff6600">점점 더 널 향한 사랑에 터질 듯해</span></p><p><span
+style="color: #ffffff">둘만의 비밀<br
+/>
+달콤 쌉싸름한 Love 스토리<br
+/>
+너를 향해 어때 들리니<br
+/>
+나의 Telepathy<br
+/>
+두 눈을 감아 <span
+style="color: #ff6600">(Oh yeah)</span><br
+/>
+상상해 봐 뭐든 너의 스토리<br
+/>
+<span
+style="color: #ff6600">(너의 스토리)</span> 원하고 또 바라는 대로<br
+/>
+너의 Telepathy doo doo doo <span
+style="color: #008080">(Love story feel it)</span></span></p><p><span
+style="color: #3366ff">들리나요</span></p><p><span
+style="color: #ff00ff">Never ever stop falling in love</span></td><td>Oh telepathy doo doo doo</p><p>Pit-a-pat I can’t hide my emotions<br
+/>
+I’ve seen those eyes somewhere, déjà vu</p><p>The trick that melts down my lips<br
+/>
+(Can you hear it? Can you hear it?)<br
+/>
+A mysterious fragrance embraces my body<br
+/>
+(Fly to the sky)</p><p>Both our secret<br
+/>
+Bittersweet love story<br
+/>
+It goes to you, how&#8217;s it? Can you hear it?<br
+/>
+My telepathy<br
+/>
+Close your two eyes<br
+/>
+Imagine, anything is your story<br
+/>
+Like the way you want and wish<br
+/>
+Your telepathy</p><p>Sneakingly, don&#8217;t mess with my motion<br
+/>
+I&#8217;ve dreamt about you and I, oh rendez-vous</p><p>The signal that I send to your heart<br
+/>
+(Doodoodoo doodoodoo)<br
+/>
+Reminds me of our electrifying first kiss<br
+/>
+(Come to me)</p><p>A shy confession<br
+/>
+My melody filled with sunshine<br
+/>
+I&#8217;m shaking at this moment<br
+/>
+My telepathy<br
+/>
+Hold my hand<br
+/>
+Let&#8217;s make the story of you and me<br
+/>
+I will always be by your side<br
+/>
+Oh telepathy doo doo doo</p><p>My heart keeps beating<br
+/>
+It&#8217;s like a huge popcorn<br
+/>
+My gradual love for you seems like it will burst</p><p>Both our secret<br
+/>
+Bittersweet love story<br
+/>
+It goes to you, how&#8217;s it? Can you hear it?<br
+/>
+My telepathy<br
+/>
+Close your two eyes<br
+/>
+Imagine, anything is your story<br
+/>
+Like the way you want and wish<br
+/>
+Your telepathy doo doo doo</p><p>Can you hear it?</p><p>Never ever stop falling in love</td></tr></tbody></table><p>Korean: kpopquote.wordpress.com, Hikaru @CCL<br
+/>
+Rom: Hikaru @CCL<br
+/>
+Eng: kpopquote.wordpress.com, Hikaru @CCL<br
+/>
+info: music.daum.net</p></div><div
+class="clearfix"></div><div
+class="bg-similar-posts"><h4>Similar Posts</h4><div
+class="row row-cols-1 row-cols-sm-2 bg-posts-row"><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2020/11/nct-u-all-about-you-danjam" aria-hidden="true" tabindex="-1">
+<img
+width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2020/11/NCT-RESONANCE-Pt.-2.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="NCT U &#8211; All About You (단잠)" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2020/11/NCT-RESONANCE-Pt.-2.jpg 1000w, https://colorcodedlyrics.com/wp-content/uploads/2020/11/NCT-RESONANCE-Pt.-2-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2020/11/NCT-RESONANCE-Pt.-2-785x785.jpg 785w, https://colorcodedlyrics.com/wp-content/uploads/2020/11/NCT-RESONANCE-Pt.-2-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2020/11/NCT-RESONANCE-Pt.-2-768x768.jpg 768w, https://colorcodedlyrics.com/wp-content/uploads/2020/11/NCT-RESONANCE-Pt.-2-795x795.jpg 795w, https://colorcodedlyrics.com/wp-content/uploads/2020/11/NCT-RESONANCE-Pt.-2-360x360.jpg 360w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2020/11/nct-u-all-about-you-danjam" rel="bookmark">NCT U &#8211; All About You (단잠)</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2020/11/nct-u-all-about-you-danjam" rel="bookmark"><time
+class="entry-date published" datetime="2020-11-25T20:31:05-08:00">November 25, 2020</time><time
+class="updated" datetime="2021-02-09T12:34:45-08:00">February 9, 2021</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/saraataylorr">seraphina</a></span>
+</span></div></header></div></article></div><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2018/10/gain-gain-carnival-last-day" aria-hidden="true" tabindex="-1">
+<img
+width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2018/10/Gain-End-Again.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="GAIN (가인)  &#8211; Carnival (The Last Day)" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2018/10/Gain-End-Again.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2018/10/Gain-End-Again-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2018/10/Gain-End-Again-32x32.jpg 32w, https://colorcodedlyrics.com/wp-content/uploads/2018/10/Gain-End-Again-50x50.jpg 50w, https://colorcodedlyrics.com/wp-content/uploads/2018/10/Gain-End-Again-64x64.jpg 64w, https://colorcodedlyrics.com/wp-content/uploads/2018/10/Gain-End-Again-96x96.jpg 96w, https://colorcodedlyrics.com/wp-content/uploads/2018/10/Gain-End-Again-128x128.jpg 128w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2018/10/gain-gain-carnival-last-day" rel="bookmark">GAIN (가인)  &#8211; Carnival (The Last Day)</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2018/10/gain-gain-carnival-last-day" rel="bookmark"><time
+class="entry-date published" datetime="2018-10-30T06:11:33-07:00">October 30, 2018</time><time
+class="updated" datetime="2018-10-30T06:16:40-07:00">October 30, 2018</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/eja">eja</a></span>
+</span></div></header></div></article></div></div></div><div
+class="clearfix"></div></div></article><nav
+class="navigation post-navigation" role="navigation" aria-label="Posts"><h2 class="screen-reader-text">Post navigation</h2><div
+class="nav-links"><div
+class="nav-previous"><a
+href="https://colorcodedlyrics.com/2011/10/girls_generation_-_bitamin_vitamin_cc_lyrics" rel="prev"><span
+class="nav-subtitle"><svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-left" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M5.854 4.646a.5.5 0 0 1 0 .708L3.207 8l2.647 2.646a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 0 1 .708 0z"/>
+<path
+fill-rule="evenodd" d="M2.5 8a.5.5 0 0 1 .5-.5h10.5a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>Previous</span> <span
+class="nav-title">Girls&#8217; Generation (소녀시대) &#8211; VITAMIN (비타민)</span></a></div><div
+class="nav-next"><a
+href="https://colorcodedlyrics.com/2011/10/girls_generation_-_mr_taxi_korean_ver_cc_lyrics" rel="next"><span
+class="nav-subtitle">Next<svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M10.146 4.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L12.793 8l-2.647-2.646a.5.5 0 0 1 0-.708z"/>
+<path
+fill-rule="evenodd" d="M2 8a.5.5 0 0 1 .5-.5H13a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 8z"/>
+</svg></span> <span
+class="nav-title">Girls&#8217; Generation (소녀시대) &#8211; Mr. Taxi (Korean Ver.)</span></a></div></div></nav><div
+id="comments" class="comments-area"><div
+class="comments-area-body"><h2 class="comments-title">
+4 thoughts on &ldquo;<span>Girls&#8217; Generation (소녀시대) &#8211; Telepathy (텔레파시)</span>&rdquo;</h2><ol
+class="comment-list"><li
+id="comment-4052" class="comment even thread-even depth-1"><article
+id="div-comment-4052" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">FSBolthof</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#comment-4052"><time
+datetime="2012-05-05T15:35:00-07:00">May 5, 2012 at 3:35 pm</time></a></div></footer><div
+class="comment-content"><p>One slight adjustment. The echos like &#8220;deulini deulini&#8221; are not Yoona.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls_generation_-_tellepasi_telepathy_cc_lyrics">Log in to Reply</a></div></article></li><li
+id="comment-4053" class="comment odd alt thread-odd thread-alt depth-1"><article
+id="div-comment-4053" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">FSBolthof</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#comment-4053"><time
+datetime="2012-05-05T15:37:00-07:00">May 5, 2012 at 3:37 pm</time></a></div></footer><div
+class="comment-content"><p>Btw If you like here is my own colorcoded video.<br
+/>
+<a
+href="http://www.youtube.com/watch?v=sOUFK2BawxU&#038;feature=channel&#038;list=UL" rel="nofollow ugc">http://www.youtube.com/watch?v=sOUFK2BawxU&#038;feature=channel&#038;list=UL</a></p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls_generation_-_tellepasi_telepathy_cc_lyrics">Log in to Reply</a></div></article></li><li
+id="comment-4069" class="comment even thread-even depth-1"><article
+id="div-comment-4069" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">FSBolthof</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#comment-4069"><time
+datetime="2012-05-08T05:23:00-07:00">May 8, 2012 at 5:23 am</time></a></div></footer><div
+class="comment-content"><p>That also means that the other echos are not yoona XD. These are the lines that are also sung by all.<br
+/>
+(doo doo doo, doo doo doo)<br
+/>
+(naegero daga wa yo)</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls_generation_-_tellepasi_telepathy_cc_lyrics">Log in to Reply</a></div></article></li></ol><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/2011/10/girls_generation_-_tellepasi_telepathy_cc_lyrics#respond" style="display:none;">Cancel reply</a></small></h3><p
+class="must-log-in">You must be <a
+href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls_generation_-_tellepasi_telepathy_cc_lyrics">logged in</a> to post a comment.</p></div><p
+class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a
+href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p></div></div></main></div></div></div></div><footer
+id="colophon" class="site-footer"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><div
+class="site-info">
+WordPress Theme: 						<a
+href="https://wp-points.com/themes/bloggrid/">BlogGrid</a>
+by TwoPoints.</div></div></div></div><div
+id="bg-to-top" title="Go to Top">
+<svg
+width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-arrow-up-square-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 8.354a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 6.207V11a.5.5 0 0 1-1 0V6.207L5.354 8.354z"/>
+</svg></div></footer></div> <script id='wpo_min-footer-0-js-extra'>var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"7180"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-footer-801f1e37.min.js' id='wpo_min-footer-0-js'></script> </body></html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Thu, 06 May 2021 18:31:53 GMT -->

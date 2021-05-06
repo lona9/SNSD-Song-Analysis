@@ -1,0 +1,624 @@
+<!doctype html><html
+lang="en-US"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="https://gmpg.org/xfn/11"><title>Girls&#039; Generation (소녀시대) - Promise Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL</title><meta
+name="description" content="Girls&#039; Generation (소녀시대) - Promise Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link
+rel="canonical" href="https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Girls&#039; Generation (소녀시대) - Promise Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL" /><meta
+property="og:description" content="Girls&#039; Generation (소녀시대) - Promise Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+property="og:url" content="https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise" /><meta
+property="og:site_name" content="Color Coded Lyrics" /><meta
+property="article:publisher" content="https://www.facebook.com/ColorCodedLyrics/" /><meta
+property="article:published_time" content="2013-01-01T14:44:41+00:00" /><meta
+property="article:modified_time" content="2020-04-30T07:26:39+00:00" /><meta
+property="og:image" content="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2013/01/SNSD-I-Got-A-Boy-Album-2.jpg?fit=300%2C300&#038;ssl=1" /><meta
+property="og:image:width" content="300" /><meta
+property="og:image:height" content="300" /><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:creator" content="@CodedLyrics" /><meta
+name="twitter:site" content="@CodedLyrics" /><meta
+name="twitter:label1" content="Written by"><meta
+name="twitter:data1" content="blumark21"><meta
+name="twitter:label2" content="Est. reading time"><meta
+name="twitter:data2" content="2 minutes"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","contentUrl":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#primaryimage","inLanguage":"en-US","url":"https://colorcodedlyrics.com/wp-content/uploads/2013/01/SNSD-I-Got-A-Boy-Album-2.jpg","contentUrl":"https://colorcodedlyrics.com/wp-content/uploads/2013/01/SNSD-I-Got-A-Boy-Album-2.jpg","width":300,"height":300},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#webpage","url":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Promise Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#primaryimage"},"datePublished":"2013-01-01T14:44:41+00:00","dateModified":"2020-04-30T07:26:39+00:00","description":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Promise Lyrics Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn","url":"https://colorcodedlyrics.com/category/krn","name":"KOREAN"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","url":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)"}},{"@type":"ListItem","position":4,"item":{"@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#webpage"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/4a03e012e0fc1dddef2191a5947a0c7e"},"headline":"Girls&#8217; Generation (\uc18c\ub140\uc2dc\ub300) &#8211; Promise","datePublished":"2013-01-01T14:44:41+00:00","dateModified":"2020-04-30T07:26:39+00:00","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#webpage"},"commentCount":2,"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#primaryimage"},"keywords":["colorcodedlyrics","Girl's Generation","Hyoyeon","Jessica (\uc81c\uc2dc\uce74)","KPOP","Promise","Seohyun","SNSD","Sooyoung","Sunny","Taeyeon","Tiffany","Yoona","Yuri"],"articleSection":["Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)","KOREAN"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#respond"]}]},{"@type":"Person","@id":"https://colorcodedlyrics.com/#/schema/person/4a03e012e0fc1dddef2191a5947a0c7e","name":"blumark21","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/9f43b03a9782cdcc4e2636996fc6460f?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/9f43b03a9782cdcc4e2636996fc6460f?s=96&d=mm&r=pg","caption":"blumark21"}}]}</script> <link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Feed" href="https://colorcodedlyrics.com/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Comments Feed" href="https://colorcodedlyrics.com/comments/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Girls&#8217; Generation (소녀시대) &#8211; Promise Comments Feed" href="https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise/feed" /><link
+rel='stylesheet' id='wpo_min-header-0-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-20094ea2.min.css' media='all' /> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-84e60a2d.min.js' id='wpo_min-header-0-js'></script> <link
+rel="https://api.w.org/" href="https://colorcodedlyrics.com/wp-json/" /><link
+rel="alternate" type="application/json" href="https://colorcodedlyrics.com/wp-json/wp/v2/posts/32186" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://colorcodedlyrics.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://colorcodedlyrics.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 5.6.3" /><link
+rel='shortlink' href='https://colorcodedlyrics.com/?p=32186' /><link
+rel="alternate" type="application/json+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2013%2F01%2Fgirls-generation-sonyeosidae-promise" /><link
+rel="alternate" type="text/xml+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2013%2F01%2Fgirls-generation-sonyeosidae-promise&#038;format=xml" /> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-29367300-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());gtag('config','UA-29367300-1')</script> <link
+rel="pingback" href="https://colorcodedlyrics.com/xmlrpc.php"><style type="text/css" id="custom-theme-css">.custom-logo{height:120px;width:auto}body.custom-background .bg-similar-posts{background-color:#EDF2F7}</style><style id="uagb-style-conditional-extension">@media (min-width:1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width:768px) and (max-width:1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width:767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-32x32.jpg" sizes="32x32" /><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-192x192.jpg" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-180x180.jpg" /><meta
+name="msapplication-TileImage" content="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-270x270.jpg" /><style id="wp-custom-css">@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);.single-post-card .card-body{padding:2rem 0rem;max-width:1140px;margin:auto;font-size:.8rem;font-family:'Lato',sans-serif}.entry-content{background-color:#000;padding:2rem;color:#828282}.entry-content h2{font-size:2em;font-family:"DM Serif Display",serif}.single-post-card .entry-header{padding:0rem 2rem}.single-post-card .cat-links{padding:0rem 2rem}.wp-block-group{color:#828282}.TrendingDiv h1,h4{font-family:"DM Serif Display",serif;font-weight:400}.site-title{font-family:"DM Serif Display",serif}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,thead,tbody,th,td,tr{display:block}thead tr{position:absolute;top:-9999px;left:-9999px}tr{border:0}td{margin-bottom:20px}@media only screen and (min-device-width :320px) and (max-device-width :480px){body{padding:0;margin:0;min-width:320px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){body{min-width:495px}}}</style> <script data-ad-client="ca-pub-9127294175918477" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head><body data-rsssl=1
+class="post-template-default single single-post postid-32186 single-format-standard wp-custom-logo wp-embed-responsive no-sidebar no-sidebar-single"><div
+id="page" class="site">
+<a
+class="skip-link screen-reader-text" href="#primary">Skip to content</a><header
+id="masthead" class="site-header"><div
+class="container"><div
+class="d-flex justify-content-between align-items-center"><div
+class=""><div
+class="site-branding">
+<a
+href="https://colorcodedlyrics.com/" class="custom-logo-link" rel="home"><img
+width="1499" height="1138" src="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png" class="custom-logo" alt="Color Coded Lyrics" srcset="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png 1499w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-395x300.png 395w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-785x596.png 785w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-768x583.png 768w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-800x607.png 800w" sizes="(max-width: 1499px) 100vw, 1499px" /></a><p
+class="site-title"><a
+href="https://colorcodedlyrics.com/" rel="home">Color Coded Lyrics</a></p></div></div><div
+class="flex-grow-1"><nav
+id="site-navigation" class="main-navigation">
+<button
+class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<svg
+width="1.5em" height="1.5em" viewBox="0 0 16 16" class="bi bi-list" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>
+</button><div
+class="menu-header-container"><ul
+id="primary-menu" class="menu"><li
+id="menu-item-143898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-143898"><a
+href="https://colorcodedlyrics.com">Home</a></li><li
+id="menu-item-143899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143899"><a
+href="https://colorcodedlyrics.com/index">Index</a></li><li
+id="menu-item-143900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143900"><a
+href="https://colorcodedlyrics.com/join-ccl">Join CCL</a></li><li
+id="menu-item-143901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143901"><a
+href="https://colorcodedlyrics.com/f-a-q-c-important">F.A.Q.</a></li><li
+id="menu-item-152925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-152925"><a
+href="https://colorcodedlyrics.com">Submit</a><ul
+class="sub-menu"><li
+id="menu-item-152924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152924"><a
+href="https://colorcodedlyrics.com/translations">Translations</a></li><li
+id="menu-item-143902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143902"><a
+href="https://colorcodedlyrics.com/requests">Requests</a></li></ul></li><li
+id="menu-item-144259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144259"><a
+href="https://colorcodedlyrics.com/wp-login.php">Log In</a></li><li
+id="menu-item-145427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145427"><a
+href="https://colorcodedlyrics.com/tip-our-authors">Tip our Authors</a></li></ul></div></nav></div></div></div><div
+style="padding-left: 5%"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<ins
+class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-9127294175918477"
+data-ad-slot="4553898897"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({})</script> </div></header><div
+id="content" class="site-content"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><main
+id="primary" class="site-main"><article
+id="post-32186" class="single-post-card post-32186 post type-post status-publish format-standard has-post-thumbnail hentry category-snsd-sonyeosidae category-krn tag-colorcodedlyrics tag-girls-generation tag-hyoyeon tag-jessica tag-kpop tag-promise tag-seohyun tag-snsd tag-sooyoung tag-sunny tag-taeyeon tag-tiffany tag-yoona tag-yuri"><div
+class="card-body"><span
+class="cat-links"><a
+href="https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae" rel="category tag">Girls' Generation (소녀시대/少女時代)</a>&nbsp;<a
+href="https://colorcodedlyrics.com/category/krn" rel="category tag">KOREAN</a></span><header
+class="entry-header"><h1 class="entry-title">Girls&#8217; Generation (소녀시대) &#8211; Promise</h1><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise" rel="bookmark"><time
+class="entry-date published" datetime="2013-01-01T06:44:41-08:00">January 1, 2013</time><time
+class="updated" datetime="2020-04-30T00:26:39-07:00">April 30, 2020</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/blumark21">blumark21</a></span>
+</span></div></header><div
+class="entry-content"><table><tbody><tr><td><h2 style="text-align: center">Promise</h2><p
+style="text-align: center"><span
+style="text-decoration: underline">I Got A Boy</span><br
+/>
+2013.01.02</p></td><td
+style="text-align: right"><img
+loading="lazy" class="alignright" title="SNSD - I Got A Boy" src="https://colorcodedlyrics.com/wp-content/uploads/2013/01/SNSD-I-Got-A-Boy-Album-2.jpg" alt="" width="200" height="200" /></td></tr><tr><td
+style="text-align: center"><span
+style="color: #ff6600">Taeyeon</span>, <span
+style="color: #3366ff">Jessica</span>, <span
+style="color: #800080">Sunny</span>,<br
+/>
+<span
+style="color: #ff00ff">Tiffany</span>, <span
+style="color: #008000">Hyoyeon</span>, <span
+style="color: #ff0000">Yuri</span>,<br
+/>
+<span
+style="color: #00ccff">Sooyoung</span>, <span
+style="color: #ffff00">Yoona</span>, <span
+style="color: #008080">Seohyun</span></td><td
+style="text-align: right"><strong>Lyrics/작사</strong>: ???<br
+/>
+<strong>Composer/작곡</strong>: ???<br
+/>
+<strong>Arranger/편곡</strong>: ???</td></tr></tbody></table><p
+style="text-align: center">[youtube https://www.youtube.com/watch?v=9HNNEA0JMs0&amp;w=560&amp;h=315]</p><p><span
+style="color: #ff00ff"><span
+id="more-32186"></span></span></p><table
+border="0"><tbody><tr><th>Romanization</th><th>Korean</th><th>Translation</th></tr><tr><td><span
+style="color: #3366ff">Oh woa wow</span></p><p><span
+style="color: #ff6600">hancham kkumkkweo watteon maeiri</span><br
+/>
+<span
+style="color: #ff6600"> naege chajawado</span><br
+/>
+<span
+style="color: #ff6600"> seolmyeonghal su eomneun apeumi</span><br
+/>
+<span
+style="color: #ff6600"> onmome peojeo</span></p><p><span
+style="color: #800080">gakkeumsshigeun na honja itgo shipgo</span><br
+/>
+<span
+style="color: #800080"> cham maneun shiseoni jom himgyeoweo</span><br
+/>
+<span
+style="color: #00ccff">pyeongbeomhan ilsang soge jamgyeoseo</span><br
+/>
+<span
+style="color: #00ccff"> sumshwigo shipeul ttae</span></p><p><span
+style="color: #ffffff">What about us? What about love?</span><br
+/>
+<span
+style="color: #ffff00">nal ireukyeo juneun i hanmadi</span><br
+/>
+<span
+style="color: #ffffff">geudae pume aneun chaero</span><br
+/>
+<span
+style="color: #ffffff">ttaseuhage gamssa juneyo</span></p><p><span
+style="color: #3366ff">hwaryeohan jomyeongi kkeojimyeon</span><br
+/>
+<span
+style="color: #3366ff"> haruga kkeunnago</span><br
+/>
+<span
+style="color: #3366ff"> cheojin eokkae sok teong bin i mam</span><br
+/>
+<span
+style="color: #3366ff"> eojjeol su eopjo</span></p><p><span
+style="color: #ff00ff">kkok sumgyeodun nae mam dudeurineyo</span><br
+/>
+<span
+style="color: #ff00ff"> kkamkkamhan shigan sok gijeokcheoreom</span><br
+/>
+<span
+style="color: #ff0000">bicheuro nal hwanhi balkyeo jweoyo</span><br
+/>
+<span
+style="color: #ff0000"> geudae ttodashi</span></p><p><span
+style="color: #ffffff">What about us? What about love?</span><br
+/>
+<span
+style="color: #008000">nal ireukyeo juneun i hanmadi</span><br
+/>
+<span
+style="color: #ffffff">geudae pume aneun chaero</span><br
+/>
+<span
+style="color: #ffffff">ttaseuhage gamssa juneyo</span><br
+/>
+<span
+style="color: #008080">han georeumman deo gakkai</span><br
+/>
+<span
+style="color: #008080"> jogeumman deo ttatteutage</span><br
+/>
+<span
+style="color: #ffffff">uri duri hamkkerago</span><br
+/>
+<span
+style="color: #ffffff">sonkkarak geolgo Promise to you</span></p><p><span
+style="color: #3366ff">danji gomapdaneun</span><br
+/>
+<span
+style="color: #3366ff"> mallo dahal sun eopgetjiman</span><br
+/>
+<span
+style="color: #008080">igeonmaneun gieokaeyo</span><br
+/>
+<span
+style="color: #ff00ff">nal utge haneun You&#8217;re my love</span></p><p><span
+style="color: #ffffff">What about us? What about love?</span><br
+/>
+[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #800080">Sun</span>] <span
+style="color: #800080">nal ireukyeo juneun i </span>hanmadi<br
+/>
+[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #ffffff">All</span>] geudae pume <span
+style="color: #ffffff">aneun chaero</span> <span
+style="color: #ff6600">(Yeah yeah)</span><br
+/>
+<span
+style="color: #ffffff">ttaseuhage gamssa juneyo</span> <span
+style="color: #3366ff">(gamssa juneyo)</span><br
+/>
+<span
+style="color: #ff6600">han georeumman deo gakkai <span
+style="color: #3366ff">(deo gakkai)</span></span><br
+/>
+<span
+style="color: #ff6600"> jogeumman deo ttatteutage</span><br
+/>
+<span
+style="color: #ffffff">geudaewa na hamkkerago</span><br
+/>
+<span
+style="color: #ffffff">sonkkarak geolgo Promise to you</span></p><p><span
+style="color: #ffffff">Promise to you ooh</span><br
+/>
+<span
+style="color: #ffffff">Promise to you ooh</span></td><td><span
+style="color: #3366ff">Oh woa wow</span></p><p><span
+style="color: #ff6600">한참 꿈꿔 왔던 매일이<br
+/>
+내게 찾아와도<br
+/>
+설명할 수 없는 아픔이<br
+/>
+온몸에 퍼져</span></p><p><span
+style="color: #800080">가끔씩은 나 혼자 있고 싶고<br
+/>
+참 많은 시선이 좀 힘겨워</span><br
+/>
+<span
+style="color: #00ccff">평범한 일상 속에 잠겨서<br
+/>
+숨 쉬고 싶을 때</span></p><p><span
+style="color: #ffffff">What about us? What about love?</span><br
+/>
+<span
+style="color: #ffff00">날 일으켜 주는 이 한마디</span><br
+/>
+<span
+style="color: #ffffff">그대 품에 안은 채로</span><br
+/>
+<span
+style="color: #ffffff">따스하게 감싸 주네요</span></p><p><span
+style="color: #3366ff">화려한 조명이 꺼지면<br
+/>
+하루가 끝나고<br
+/>
+쳐진 어깨 속 텅 빈 이 맘<br
+/>
+어쩔 수 없죠</span></p><p><span
+style="color: #ff00ff">꼭 숨겨 둔 내 맘 두드리네요<br
+/>
+깜깜한 시간 속 기적처럼</span><br
+/>
+<span
+style="color: #ff0000">빛으로 날 환히 밝혀 줘요<br
+/>
+그대 또다시</span></p><p><span
+style="color: #ffffff">What about us? What about love?</span><br
+/>
+<span
+style="color: #008000">날 일으켜 주는 이 한마디</span><br
+/>
+<span
+style="color: #ffffff">그대 품에 안은 채로</span><br
+/>
+<span
+style="color: #ffffff">따스하게 감싸 주네요</span><br
+/>
+<span
+style="color: #008080">한 걸음만 더 가까이<br
+/>
+조금만 더 따뜻하게</span><br
+/>
+<span
+style="color: #ffffff">우리 둘이 함께라고</span><br
+/>
+<span
+style="color: #ffffff">손가락 걸고 Promise to you</span></p><p><span
+style="color: #3366ff">단지 고맙다는<br
+/>
+말로 다할 순 없겠지만</span><br
+/>
+<span
+style="color: #008080">이것만은 기억해요</span><br
+/>
+<span
+style="color: #ff00ff">날 웃게 하는 You’re my love</span></p><p><span
+style="color: #ffffff">What about us? What about love?</span><br
+/>
+[<span
+style="color: #ff6600">태</span>/<span
+style="color: #800080">써</span>] <span
+style="color: #800080">날 일으켜 주는 이 </span>한마디<br
+/>
+[<span
+style="color: #ff6600">태</span>/<span
+style="color: #ffffff">All</span>] 그대 품에 <span
+style="color: #ffffff">안은 채로</span> <span
+style="color: #ff6600">(Yeah yeah)</span><br
+/>
+<span
+style="color: #ffffff">따스하게 감싸 주네요</span> <span
+style="color: #3366ff">(감싸 주네요)</span><br
+/>
+<span
+style="color: #ff6600">한 걸음만 더 가까이 <span
+style="color: #3366ff">(다 가까이)</span><br
+/>
+조금만 더 따뜻하게</span><br
+/>
+<span
+style="color: #ffffff">그대와 나 함께라고</span><br
+/>
+<span
+style="color: #ffffff">손가락 걸고 Promise to you</span></p><p><span
+style="color: #ffffff">Promise to you ooh</span><br
+/>
+<span
+style="color: #ffffff">Promise to you ooh</span></td><td>Oh woa wow</p><p>Although the days I’ve been<br
+/>
+Dreaming of have found me<br
+/>
+An indescribable pain<br
+/>
+Spreads throughout my body</p><p>Sometimes, I want to be alone<br
+/>
+And all the eyes on me is a bit hard<br
+/>
+Whenever I want to be locked in a<br
+/>
+Normal lifestyle and just rest</p><p>What about us? What about love?<br
+/>
+These words make me stand up again<br
+/>
+You hold me in your arms<br
+/>
+And warmly embrace me</p><p>When the flashy lights turn off<br
+/>
+And a day is over<br
+/>
+Slumped shoulders, this empty feeling<br
+/>
+It can&#8217;t be helped</p><p>You knock on my hidden heart<br
+/>
+Like a miracle in a dark time<br
+/>
+You brightly reveal me with a light<br
+/>
+Once again</p><p>What about us? What about love?<br
+/>
+These words make me stand up again<br
+/>
+You hold me in your arms<br
+/>
+And warmly embrace me<br
+/>
+One step closer<br
+/>
+A bit warmer<br
+/>
+We are together<br
+/>
+I pinky swear, promise to you</p><p>I can’t express everything<br
+/>
+With just the words “Thank you”<br
+/>
+But remember this<br
+/>
+You make me smile, you’re my love</p><p>What about us? What about love?<br
+/>
+These words make me stand up again<br
+/>
+You hold me in your arms<br
+/>
+And warmly embrace me<br
+/>
+One step closer<br
+/>
+A bit warmer<br
+/>
+You and I are together<br
+/>
+I pinky swear, promise to you</p><p>Promise to you ooh<br
+/>
+Promise to you ooh</td></tr></tbody></table><p>Korean: music.daum.net, Hikaru @CCL<br
+/>
+Rom: kreah-craze.com, Hikaru @CCL<br
+/>
+Eng: pop!gasa, Hikaru @CCL<br
+/>
+info: music.daum.net</p></div><div
+class="clearfix"></div><div
+class="bg-similar-posts"><h4>Similar Posts</h4><div
+class="row row-cols-1 row-cols-sm-2 bg-posts-row"><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2017/12/rainz-dilemma" aria-hidden="true" tabindex="-1">
+<img
+width="213" height="212" src="https://colorcodedlyrics.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-12-at-8.21.30-pm.png" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="RAINZ &#8211; Dilemma" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-12-at-8.21.30-pm.png 213w, https://colorcodedlyrics.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-12-at-8.21.30-pm-32x32.png 32w, https://colorcodedlyrics.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-12-at-8.21.30-pm-50x50.png 50w, https://colorcodedlyrics.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-12-at-8.21.30-pm-64x64.png 64w, https://colorcodedlyrics.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-12-at-8.21.30-pm-96x96.png 96w, https://colorcodedlyrics.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-12-at-8.21.30-pm-128x128.png 128w" sizes="(max-width: 213px) 100vw, 213px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2017/12/rainz-dilemma" rel="bookmark">RAINZ &#8211; Dilemma</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2017/12/rainz-dilemma" rel="bookmark"><time
+class="entry-date published" datetime="2017-12-23T17:12:51-08:00">December 23, 2017</time><time
+class="updated" datetime="2017-12-23T17:14:44-08:00">December 23, 2017</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/xmhhjx">Sandy</a></span>
+</span></div></header></div></article></div><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2019/12/kim-jaehwan-gimjaehwan-paradise-paladaiseu-feat-park-woojin-of-ab6ix" aria-hidden="true" tabindex="-1">
+<img
+width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="Kim Jaehwan (김재환) &#8211; Paradise (파라다이스) (Feat. Park Woojin of AB6IX)" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT.jpg 1000w, https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT-768x768.jpg 768w, https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT-785x785.jpg 785w, https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT-800x800.jpg 800w, https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT-24x24.jpg 24w, https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT-48x48.jpg 48w, https://colorcodedlyrics.com/wp-content/uploads/2019/12/Kim-Jaehwan-MOMENT-96x96.jpg 96w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2019/12/kim-jaehwan-gimjaehwan-paradise-paladaiseu-feat-park-woojin-of-ab6ix" rel="bookmark">Kim Jaehwan (김재환) &#8211; Paradise (파라다이스) (Feat. Park Woojin of AB6IX)</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2019/12/kim-jaehwan-gimjaehwan-paradise-paladaiseu-feat-park-woojin-of-ab6ix" rel="bookmark"><time
+class="entry-date published updated" datetime="2019-12-12T15:58:22-08:00">December 12, 2019</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/xmhhjx">Sandy</a></span>
+</span></div></header></div></article></div></div></div><div
+class="clearfix"></div></div></article><nav
+class="navigation post-navigation" role="navigation" aria-label="Posts"><h2 class="screen-reader-text">Post navigation</h2><div
+class="nav-links"><div
+class="nav-previous"><a
+href="https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-romantic-street-nangmangil" rel="prev"><span
+class="nav-subtitle"><svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-left" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M5.854 4.646a.5.5 0 0 1 0 .708L3.207 8l2.647 2.646a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 0 1 .708 0z"/>
+<path
+fill-rule="evenodd" d="M2.5 8a.5.5 0 0 1 .5-.5h10.5a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>Previous</span> <span
+class="nav-title">Girls&#8217; Generation (소녀시대) &#8211; Romantic Street (낭만길 )</span></a></div><div
+class="nav-next"><a
+href="https://colorcodedlyrics.com/2013/01/c-ute-kono-machi" rel="next"><span
+class="nav-subtitle">Next<svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M10.146 4.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L12.793 8l-2.647-2.646a.5.5 0 0 1 0-.708z"/>
+<path
+fill-rule="evenodd" d="M2 8a.5.5 0 0 1 .5-.5H13a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 8z"/>
+</svg></span> <span
+class="nav-title">°C-ute (キュート) &#8211; Kono Machi (この街)</span></a></div></div></nav><div
+id="comments" class="comments-area"><div
+class="comments-area-body"><h2 class="comments-title">
+2 thoughts on &ldquo;<span>Girls&#8217; Generation (소녀시대) &#8211; Promise</span>&rdquo;</h2><ol
+class="comment-list"><li
+id="comment-9163" class="comment byuser comment-author-matthewyu36 even thread-even depth-1"><article
+id="div-comment-9163" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/8b20433f18253a6e7c0ba77ae2dfc822?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8b20433f18253a6e7c0ba77ae2dfc822?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">matthewyu36</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#comment-9163"><time
+datetime="2013-12-28T02:52:51-08:00">December 28, 2013 at 2:52 am</time></a></div></footer><div
+class="comment-content"><p>ttaseuhage gamssa juneyo (Jessica:gamssa juneyo~)<br
+/>
+(Taeyeon)hangeoreumman deo gakkai (Jessica:deo gakkai~)</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2013%2F01%2Fgirls-generation-sonyeosidae-promise">Log in to Reply</a></div></article></li><li
+id="comment-15361" class="comment byuser comment-author-heymrpiano odd alt thread-odd thread-alt depth-1"><article
+id="div-comment-15361" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/738a3c3db8ceddbb77a7d850c7f22b88?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/738a3c3db8ceddbb77a7d850c7f22b88?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">heymrpiano</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2013/01/girls-generation-sonyeosidae-promise#comment-15361"><time
+datetime="2016-07-04T09:43:39-07:00">July 4, 2016 at 9:43 am</time></a></div></footer><div
+class="comment-content"><p>Last chorus:</p><p>[Sun]nal ireukyeojuneun i [Sun/Tae]hanmadi<br
+/>
+[All/Tae]geudae pume [All]aneun chaero</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2013%2F01%2Fgirls-generation-sonyeosidae-promise">Log in to Reply</a></div></article></li></ol><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/2013/01/girls-generation-sonyeosidae-promise#respond" style="display:none;">Cancel reply</a></small></h3><p
+class="must-log-in">You must be <a
+href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2013%2F01%2Fgirls-generation-sonyeosidae-promise">logged in</a> to post a comment.</p></div><p
+class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a
+href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p></div></div></main></div></div></div></div><footer
+id="colophon" class="site-footer"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><div
+class="site-info">
+WordPress Theme: 						<a
+href="https://wp-points.com/themes/bloggrid/">BlogGrid</a>
+by TwoPoints.</div></div></div></div><div
+id="bg-to-top" title="Go to Top">
+<svg
+width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-arrow-up-square-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 8.354a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 6.207V11a.5.5 0 0 1-1 0V6.207L5.354 8.354z"/>
+</svg></div></footer></div> <script id='wpo_min-footer-0-js-extra'>var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"32186"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-footer-801f1e37.min.js' id='wpo_min-footer-0-js'></script> </body></html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Thu, 06 May 2021 09:50:12 GMT -->

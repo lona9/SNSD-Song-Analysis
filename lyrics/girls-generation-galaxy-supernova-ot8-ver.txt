@@ -1,0 +1,793 @@
+<!doctype html><html
+lang="en-US"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="https://gmpg.org/xfn/11"><title>Girls’ Generation (少女時代) - Galaxy Supernova (OT8 Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL</title><meta
+name="description" content="Girls’ Generation (少女時代) - Galaxy Supernova (OT8 Ver.) Lyrics JAPANESE Romanization, Korean, Translation. Color coded Lyrics" /><meta
+name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link
+rel="canonical" href="https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Girls’ Generation (少女時代) - Galaxy Supernova (OT8 Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL" /><meta
+property="og:description" content="Girls’ Generation (少女時代) - Galaxy Supernova (OT8 Ver.) Lyrics JAPANESE Romanization, Korean, Translation. Color coded Lyrics" /><meta
+property="og:url" content="https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver" /><meta
+property="og:site_name" content="Color Coded Lyrics" /><meta
+property="article:publisher" content="https://www.facebook.com/ColorCodedLyrics/" /><meta
+property="article:published_time" content="2016-10-05T16:15:31+00:00" /><meta
+property="article:modified_time" content="2020-05-10T14:52:03+00:00" /><meta
+property="og:image" content="https://colorcodedlyrics.com/wp-content/uploads/2013/09/Screen-Shot-2013-09-16-at-3.00.16-PM.png" /><meta
+property="og:image:width" content="540" /><meta
+property="og:image:height" content="531" /><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:creator" content="@CodedLyrics" /><meta
+name="twitter:site" content="@CodedLyrics" /><meta
+name="twitter:label1" content="Written by"><meta
+name="twitter:data1" content="Hikaru"><meta
+name="twitter:label2" content="Est. reading time"><meta
+name="twitter:data2" content="5 minutes"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","contentUrl":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#primaryimage","inLanguage":"en-US","url":"https://colorcodedlyrics.com/wp-content/uploads/2013/09/Screen-Shot-2013-09-16-at-3.00.16-PM.png","contentUrl":"https://colorcodedlyrics.com/wp-content/uploads/2013/09/Screen-Shot-2013-09-16-at-3.00.16-PM.png","width":540,"height":531},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#webpage","url":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver","name":"Girls\u2019 Generation (\u5c11\u5973\u6642\u4ee3) - Galaxy Supernova (OT8 Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#primaryimage"},"datePublished":"2016-10-05T16:15:31+00:00","dateModified":"2020-05-10T14:52:03+00:00","description":"Girls\u2019 Generation (\u5c11\u5973\u6642\u4ee3) - Galaxy Supernova (OT8 Ver.) Lyrics JAPANESE Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/jpn","url":"https://colorcodedlyrics.com/category/jpn","name":"JAPANESE"}},{"@type":"ListItem","position":3,"item":{"@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#webpage"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/6f1c158185e49391bd04dba66cbaae50"},"headline":"Girls\u2019 Generation (\u5c11\u5973\u6642\u4ee3) &#8211; Galaxy Supernova (OT8 Ver.)","datePublished":"2016-10-05T16:15:31+00:00","dateModified":"2020-05-10T14:52:03+00:00","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#webpage"},"commentCount":0,"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#primaryimage"},"keywords":["color. coded","Galaxy Supernova","Girl's Generation","Hyoyeon","lyrics","ot8","Seohyun","SNSD","Sooyoung","Sunny","Taeyeon","Tiffany","Yoona","Yuri"],"articleSection":["Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)","JAPANESE"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver#respond"]}]},{"@type":"Person","@id":"https://colorcodedlyrics.com/#/schema/person/6f1c158185e49391bd04dba66cbaae50","name":"Hikaru","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=96&d=mm&r=pg","caption":"Hikaru"}}]}</script> <link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Feed" href="https://colorcodedlyrics.com/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Comments Feed" href="https://colorcodedlyrics.com/comments/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Girls’ Generation (少女時代) &#8211; Galaxy Supernova (OT8 Ver.) Comments Feed" href="https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver/feed" /><link
+rel='stylesheet' id='wpo_min-header-0-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-20094ea2.min.css' media='all' /> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-84e60a2d.min.js' id='wpo_min-header-0-js'></script> <link
+rel="https://api.w.org/" href="https://colorcodedlyrics.com/wp-json/" /><link
+rel="alternate" type="application/json" href="https://colorcodedlyrics.com/wp-json/wp/v2/posts/92276" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://colorcodedlyrics.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://colorcodedlyrics.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 5.6.3" /><link
+rel='shortlink' href='https://colorcodedlyrics.com/?p=92276' /><link
+rel="alternate" type="application/json+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2016%2F10%2Fgirls-generation-galaxy-supernova-ot8-ver" /><link
+rel="alternate" type="text/xml+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2016%2F10%2Fgirls-generation-galaxy-supernova-ot8-ver&#038;format=xml" /> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-29367300-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());gtag('config','UA-29367300-1')</script> <style type="text/css" id="custom-theme-css">.custom-logo{height:120px;width:auto}body.custom-background .bg-similar-posts{background-color:#EDF2F7}</style><style id="uagb-style-conditional-extension">@media (min-width:1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width:768px) and (max-width:1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width:767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-32x32.jpg" sizes="32x32" /><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-192x192.jpg" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-180x180.jpg" /><meta
+name="msapplication-TileImage" content="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-270x270.jpg" /><style id="wp-custom-css">@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);.single-post-card .card-body{padding:2rem 0rem;max-width:1140px;margin:auto;font-size:.8rem;font-family:'Lato',sans-serif}.entry-content{background-color:#000;padding:2rem;color:#828282}.entry-content h2{font-size:2em;font-family:"DM Serif Display",serif}.single-post-card .entry-header{padding:0rem 2rem}.single-post-card .cat-links{padding:0rem 2rem}.wp-block-group{color:#828282}.TrendingDiv h1,h4{font-family:"DM Serif Display",serif;font-weight:400}.site-title{font-family:"DM Serif Display",serif}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,thead,tbody,th,td,tr{display:block}thead tr{position:absolute;top:-9999px;left:-9999px}tr{border:0}td{margin-bottom:20px}@media only screen and (min-device-width :320px) and (max-device-width :480px){body{padding:0;margin:0;min-width:320px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){body{min-width:495px}}}</style> <script data-ad-client="ca-pub-9127294175918477" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head><body data-rsssl=1
+class="post-template-default single single-post postid-92276 single-format-standard wp-custom-logo wp-embed-responsive no-sidebar no-sidebar-single"><div
+id="page" class="site">
+<a
+class="skip-link screen-reader-text" href="#primary">Skip to content</a><header
+id="masthead" class="site-header"><div
+class="container"><div
+class="d-flex justify-content-between align-items-center"><div
+class=""><div
+class="site-branding">
+<a
+href="https://colorcodedlyrics.com/" class="custom-logo-link" rel="home"><img
+width="1499" height="1138" src="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png" class="custom-logo" alt="Color Coded Lyrics" srcset="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png 1499w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-395x300.png 395w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-785x596.png 785w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-768x583.png 768w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-800x607.png 800w" sizes="(max-width: 1499px) 100vw, 1499px" /></a><p
+class="site-title"><a
+href="https://colorcodedlyrics.com/" rel="home">Color Coded Lyrics</a></p></div></div><div
+class="flex-grow-1"><nav
+id="site-navigation" class="main-navigation">
+<button
+class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<svg
+width="1.5em" height="1.5em" viewBox="0 0 16 16" class="bi bi-list" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>
+</button><div
+class="menu-header-container"><ul
+id="primary-menu" class="menu"><li
+id="menu-item-143898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-143898"><a
+href="https://colorcodedlyrics.com">Home</a></li><li
+id="menu-item-143899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143899"><a
+href="https://colorcodedlyrics.com/index">Index</a></li><li
+id="menu-item-143900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143900"><a
+href="https://colorcodedlyrics.com/join-ccl">Join CCL</a></li><li
+id="menu-item-143901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143901"><a
+href="https://colorcodedlyrics.com/f-a-q-c-important">F.A.Q.</a></li><li
+id="menu-item-152925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-152925"><a
+href="https://colorcodedlyrics.com">Submit</a><ul
+class="sub-menu"><li
+id="menu-item-152924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152924"><a
+href="https://colorcodedlyrics.com/translations">Translations</a></li><li
+id="menu-item-143902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143902"><a
+href="https://colorcodedlyrics.com/requests">Requests</a></li></ul></li><li
+id="menu-item-144259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144259"><a
+href="https://colorcodedlyrics.com/wp-login.php">Log In</a></li><li
+id="menu-item-145427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145427"><a
+href="https://colorcodedlyrics.com/tip-our-authors">Tip our Authors</a></li></ul></div></nav></div></div></div><div
+style="padding-left: 5%"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<ins
+class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-9127294175918477"
+data-ad-slot="4553898897"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({})</script> </div></header><div
+id="content" class="site-content"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><main
+id="primary" class="site-main"><article
+id="post-92276" class="single-post-card post-92276 post type-post status-publish format-standard has-post-thumbnail hentry category-snsd-sonyeosidae category-jpn tag-color-coded tag-galaxy-supernova tag-girls-generation tag-hyoyeon tag-lyrics tag-ot8 tag-seohyun tag-snsd tag-sooyoung tag-sunny tag-taeyeon tag-tiffany tag-yoona tag-yuri"><div
+class="card-body"><span
+class="cat-links"><a
+href="https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae" rel="category tag">Girls' Generation (소녀시대/少女時代)</a>&nbsp;<a
+href="https://colorcodedlyrics.com/category/jpn" rel="category tag">JAPANESE</a></span><header
+class="entry-header"><h1 class="entry-title">Girls’ Generation (少女時代) &#8211; Galaxy Supernova (OT8 Ver.)</h1><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2016/10/girls-generation-galaxy-supernova-ot8-ver" rel="bookmark"><time
+class="entry-date published" datetime="2016-10-05T09:15:31-07:00">October 5, 2016</time><time
+class="updated" datetime="2020-05-10T07:52:03-07:00">May 10, 2020</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/sooyoungboy">Hikaru</a></span>
+</span></div></header><div
+class="entry-content"><table><tbody><tr><td><h2 style="text-align: center">Galaxy Supernova</h2><p
+style="text-align: center"><span
+style="text-decoration: underline">Galaxy Supernova</span><br
+/>
+2013.09.18</p></td><td
+style="text-align: right"><img
+loading="lazy" class="alignright" title="Girls' Generation Galaxy Supernova" src="https://colorcodedlyrics.com/wp-content/uploads/2013/09/Screen-Shot-2013-09-16-at-3.00.16-PM.png" alt="" width="200" height="200" /></td></tr><tr><td
+style="text-align: center"><span
+style="color: #ff6600">Taeyeon</span>, <span
+style="color: #800080">Sunny</span>, <span
+style="color: #ff00ff">Tiffany</span>, <span
+style="color: #008000">Hyoyeon</span>,<br
+/>
+<span
+style="color: #ff0000">Yuri</span>, <span
+style="color: #00ccff">Sooyoung</span>, <span
+style="color: #ffff00">Yoona</span>, <span
+style="color: #008080">Seohyun</span></p><p>Click <a
+href="https://colorcodedlyrics.com/2013/09/girls-generation-galaxy-supernova">here</a> for the OT9 Version</td><td
+style="text-align: right"><strong>Lyrics/作詞</strong>: KAMIKAORU, FRIDOLIN NORDSOE SCHJORDAN,<br
+/>
+MARTIN HOBERG HEDEGAARD, FREDERIK TAO NORDSOE SCHJOLDAN<br
+/>
+<strong>Composer/作曲</strong>: KAMIKAORU, FRIDOLIN NORDSOE SCHJORDAN,<br
+/>
+MARTIN HOBERG HEDEGAARD, FREDERIK TAO NORDSOE SCHJOLDAN<br
+/>
+<strong>Arranger/編曲</strong>: ???</td></tr></tbody></table><p
+style="text-align: center">[youtube https://www.youtube.com/watch?v=rIqmJUutbLg&amp;w=560&amp;h=315]</p><p><span
+style="color: #ff00ff"><span
+id="more-92276"></span></span></p><table
+border="0"><tbody><tr><th>Romanization</th><th>Japanese</th><th>Translation</th></tr><tr><td><span
+style="color: #ffff00">Are you there?</span></p><p><span
+style="color: #ff6600">Oh my boy, nanika ga</span><br
+/>
+<span
+style="color: #800080">(Na na na na na)</span><br
+/>
+<span
+style="color: #00ccff">hisohiso Someone&#8217;s talking</span><br
+/>
+<span
+style="color: #800080">(Ah ah ah ah ah ah)</span><br
+/>
+<span
+style="color: #ff0000">Oh, nee zutto</span></p><p><span
+style="color: #ff00ff">Looking at you, look-looking at you I<br
+/>
+Looking at you, look-looking at you I</span><br
+/>
+<span
+style="color: #008080">anata miteru wa</span></p><p><span
+style="color: #ff00ff">nee sore wa kiraboshi na Supernova</span><br
+/>
+<span
+style="color: #008000">unmei no Supernova</span><br
+/>
+<span
+style="color: #00ccff">majikaru na Supernova</span></p><p><span
+style="color: #ffffff">gingakei sukeeru kan de No. 1</span><br
+/>
+<span
+style="color: #ffffff">uneru Base line raiku na</span><br
+/>
+<span
+style="color: #ffffff">Shooting stars</span> <span
+style="color: #ff00ff">ga Coming</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Cutest</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Girls in</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) In the galaxy, galaxy oh</span></p><p><span
+style="color: #ffff00">Oh oh oh oh oh oh oh</span><br
+/>
+<span
+style="color: #ff6600">uwasa no mato da wa</span><br
+/>
+<span
+style="color: #008000">Yeah eh eh eh eh eh eh</span><br
+/>
+<span
+style="color: #008080">taito na Hip line wa marude</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Cutest</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Girls in</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) In the galaxy, galaxy oh</span></p><p><span
+style="color: #ffff00">Oh boy, do you believe the situation?</span><br
+/>
+<span
+style="color: #00ccff">Yeah!</span> <span
+style="color: #ffff00">You&#8217;d better keep this a secret</span></p><p><span
+style="color: #008080">makasete mimashou</span><br
+/>
+<span
+style="color: #008080">yobu koe no hou e</span><br
+/>
+<span
+style="color: #ff0000">zettai wa nazo na no</span><br
+/>
+<span
+style="color: #ff0000">houseki no you na me de</span></p><p><span
+style="color: #ff00ff">Looking at you</span> <span
+style="color: #800080">(Oh)</span> <span
+style="color: #ff00ff">look-looking at you I</span> <span
+style="color: #800080">(Oh)</span><br
+/>
+<span
+style="color: #ff00ff">Looking at you</span> <span
+style="color: #800080">(Oh)</span> <span
+style="color: #ff00ff">look-looking at you I</span> <span
+style="color: #800080">(Oh)</span><br
+/>
+<span
+style="color: #00ccff">ima mo miteru wa</span></p><p><span
+style="color: #800080">nee sore wa utagainai Supernova</span><br
+/>
+<span
+style="color: #ffff00">chougenjitsu Supernova</span><br
+/>
+<span
+style="color: #ff6600">anata no Supernova</span></p><p><span
+style="color: #ff00ff">(In the galaxy, in the galaxy yeah)</span><br
+/>
+<span
+style="color: #ffffff">taikiken ourai de sou In and out</span><br
+/>
+<span
+style="color: #ffffff">sekai kaesou na Shock</span><br
+/>
+<span
+style="color: #ffffff">sugata kae</span><span
+style="color: #008080">te tourai</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Perfect</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu)</span> [<span
+style="color: #ff00ff">Tiff</span>/<span
+style="color: #ffffff">All</span>] Girls in<br
+/>
+<span
+style="color: #ffffff">(Tututurututu) In the galaxy, galaxy oh</span></p><p><span
+style="color: #ffff00">Oh oh oh oh oh oh oh</span><br
+/>
+<span
+style="color: #ff6600">chijou de kirameite</span><br
+/>
+<span
+style="color: #008000">Yeah eh eh eh eh eh eh</span><br
+/>
+<span
+style="color: #008080">ukabiagatta shiruetto</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Perfect</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Girls in</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) In the galaxy, galaxy oh</span></p><p><span
+style="color: #ff0000">tsukamaete</span> <span
+style="color: #00ccff">sururito nigerarete</span> <span
+style="color: #ffff00">kieru no</span><br
+/>
+<span
+style="color: #800080">But I&#8217;m still looking at you, yeah</span></p><p><span
+style="color: #ffffff">gingakei</span> <span
+style="color: #ff6600">(Yeah)</span> <span
+style="color: #ffffff">sukeeru kan de No. 1</span> <span
+style="color: #ff6600">(No. 1)</span><br
+/>
+<span
+style="color: #ffffff">uneru Base line raiku na</span><br
+/>
+<span
+style="color: #ffffff">Shooting stars</span> <span
+style="color: #ff00ff">ga Coming</span> <span
+style="color: #ff6600">(Oh coming)</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Cutest</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Girls in</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu)</span> [<span
+style="color: #ff00ff">Tiff</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">In the</span> galaxy, galaxy oh</p><p><span
+style="color: #ffff00">Oh oh oh oh oh oh oh</span><br
+/>
+<span
+style="color: #ff6600">uwasa no mato da wa</span><br
+/>
+<span
+style="color: #008000">Yeah eh eh eh eh eh eh</span><br
+/>
+<span
+style="color: #008080">taito na Hip line wa marude</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Cutest</span> <span
+style="color: #ff00ff">(Yeah)</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu)</span> [<span
+style="color: #ff00ff">Tiff</span>/<span
+style="color: #ffffff">All</span>] Girls in<br
+/>
+<span
+style="color: #ffffff">(Tututurututu)</span> [<span
+style="color: #ff00ff">Tiff</span>/<span
+style="color: #ffffff">All</span>] In the galaxy, galaxy oh</td><td><span
+style="color: #ffff00">Are you there?</span></p><p><span
+style="color: #ff6600">Oh my boy, なにかが</span><br
+/>
+<span
+style="color: #800080">(Na na na na na)</span><br
+/>
+<span
+style="color: #00ccff">ヒソヒソ Someone&#8217;s talking</span><br
+/>
+<span
+style="color: #800080">(Ah ah ah ah ah ah)</span><br
+/>
+<span
+style="color: #ff0000">Oh, ねえずっと</span></p><p><span
+style="color: #ff00ff">Looking at you, look-looking at you I<br
+/>
+Looking at you, look-looking at you I</span><br
+/>
+<span
+style="color: #008080">アナタ見てるわ</span></p><p><span
+style="color: #ff00ff">ねえそれはキラ星な Supernova</span><br
+/>
+<span
+style="color: #008000">運命の Supernova</span><br
+/>
+<span
+style="color: #00ccff">マジカルな Supernova</span></p><p><span
+style="color: #ffffff">銀河糸スケール感で No. 1</span><br
+/>
+<span
+style="color: #ffffff">うねる Base line ライクな</span><br
+/>
+<span
+style="color: #ffffff">Shooting stars</span> <span
+style="color: #ff00ff">が Coming</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Cutest</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Girls in</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) In the galaxy, galaxy oh</span></p><p><span
+style="color: #ffff00">Oh oh oh oh oh oh oh</span><br
+/>
+<span
+style="color: #ff6600">ウワサの的だわ</span><br
+/>
+<span
+style="color: #008000">Yeah eh eh eh eh eh eh</span><br
+/>
+<span
+style="color: #008080">タイトな Hip line はまるで</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Cutest</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Girls in</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) In the galaxy, galaxy oh</span></p><p><span
+style="color: #ffff00">Oh boy, do you believe the situation?</span><br
+/>
+<span
+style="color: #00ccff">Yeah!</span> <span
+style="color: #ffff00">You&#8217;d better keep this a secret</span></p><p><span
+style="color: #008080">まかせてみましょう<br
+/>
+叫ぶ声のほうへ</span><br
+/>
+<span
+style="color: #ff0000">絶対は謎なの<br
+/>
+宝石のような目で</span></p><p><span
+style="color: #ff00ff">Looking at you</span> <span
+style="color: #800080">(Oh)</span> <span
+style="color: #ff00ff">look-looking at you I</span> <span
+style="color: #800080">(Oh)</span><br
+/>
+<span
+style="color: #ff00ff">Looking at you</span> <span
+style="color: #800080">(Oh)</span> <span
+style="color: #ff00ff">look-looking at you I</span> <span
+style="color: #800080">(Oh)</span><br
+/>
+<span
+style="color: #00ccff">今も見てるわ</span></p><p><span
+style="color: #800080">ねえそれ疑いない Supernova</span><br
+/>
+<span
+style="color: #ffff00">超現実 Supernova</span><br
+/>
+<span
+style="color: #ff6600">アナタの Supernova</span></p><p><span
+style="color: #ff00ff">(In the galaxy, in the galaxy yeah)</span><br
+/>
+<span
+style="color: #ffffff">大気圏往来でそう In and out</span><br
+/>
+<span
+style="color: #ffffff">界変えそうな Shock</span><br
+/>
+<span
+style="color: #ffffff">姿変え</span><span
+style="color: #008080">て到来</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Perfect</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu)</span> [<span
+style="color: #ff00ff">ティ</span>/<span
+style="color: #ffffff">All</span>] Girls in<br
+/>
+<span
+style="color: #ffffff">(Tututurututu) In the galaxy, galaxy oh</span></p><p><span
+style="color: #ffff00">Oh oh oh oh oh oh oh</span><br
+/>
+<span
+style="color: #ff6600">地上で煌めいて</span><br
+/>
+<span
+style="color: #008000">Yeah eh eh eh eh eh eh</span><br
+/>
+<span
+style="color: #008080">浮かび上がったシルエット</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Perfect</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Girls in</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) In the galaxy, galaxy oh</span></p><p><span
+style="color: #ff0000">捕まえて</span> <span
+style="color: #00ccff">するりと逃げられて</span> <span
+style="color: #ffff00">消えるの</span><br
+/>
+<span
+style="color: #800080">But I&#8217;m still looking at you, yeah</span></p><p><span
+style="color: #ffffff">銀河系</span> <span
+style="color: #ff6600">(Yeah)</span> <span
+style="color: #ffffff">スケール感で No. 1</span> <span
+style="color: #ff6600">(No. 1)</span><br
+/>
+<span
+style="color: #ffffff">うねる Base line ライクな</span><br
+/>
+<span
+style="color: #ffffff">Shooting stars</span> <span
+style="color: #ff00ff">が Coming</span> <span
+style="color: #ff6600">(Oh coming)</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Cutest</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Girls in</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu)</span> [<span
+style="color: #ff00ff">ティ</span>/<span
+style="color: #ffffff">All</span>] <span
+style="color: #ffffff">In the</span> galaxy, galaxy oh</p><p><span
+style="color: #ffff00">Oh oh oh oh oh oh oh</span><br
+/>
+<span
+style="color: #ff6600">ウワサの的だわ</span><br
+/>
+<span
+style="color: #008000">Yeah eh eh eh eh eh eh</span><br
+/>
+<span
+style="color: #008080">タイトな Hip line はまるで</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu) Cutest</span> <span
+style="color: #ff00ff">(Yeah)</span><br
+/>
+<span
+style="color: #ffffff">(Tututurututu)</span> [<span
+style="color: #ff00ff">ティ</span>/<span
+style="color: #ffffff">All</span>] Girls in<br
+/>
+<span
+style="color: #ffffff">(Tututurututu)</span> [<span
+style="color: #ff00ff">ティ</span>/<span
+style="color: #ffffff">All</span>] In the galaxy, galaxy oh</td><td>Are you there?</p><p>Oh my boy, it&#8217;s like<br
+/>
+(Na na na na na)<br
+/>
+Whispering, someone’s talking<br
+/>
+(Ah ah ah ah ah ah)<br
+/>
+Oh hey, I&#8217;m always</p><p>Looking at you, look-looking at you ay<br
+/>
+Looking at you, look-looking at you ay<br
+/>
+I&#8217;m looking at you</p><p>Hey, that’s a sparkling star-like supernova<br
+/>
+Destiny’s supernova<br
+/>
+A magical supernova</p><p>In the galaxy threaded scale we feel No. 1<br
+/>
+With rolling baselines like<br
+/>
+Shooting stars, coming!<br
+/>
+(Tututurututu) Cutest<br
+/>
+(Tututurututu) Girls in<br
+/>
+(Tututurututu) In the galaxy, galaxy oh</p><p>Oh oh oh oh oh oh oh<br
+/>
+We’re the typical rumors<br
+/>
+Yeah eh eh eh eh eh eh<br
+/>
+With our tight hips we’re like the<br
+/>
+(Tututurututu) Cutest<br
+/>
+(Tututurututu) Girls in<br
+/>
+(Tututurututu) In the galaxy, galaxy oh</p><p>Oh boy, do you believe the situation?<br
+/>
+Yeah! You’d better keep this a secret</p><p>Let’s try to rely on<br
+/>
+Our voices that shout out<br
+/>
+In mysterious ways<br
+/>
+With eyes like jewels, I am</p><p>Looking at you, look-looking at you ay<br
+/>
+Looking at you, look-looking at you ay<br
+/>
+Even now, I’m looking at you</p><p>Hey, that’s an unquestionable supernova<br
+/>
+Hyper-reality supernova<br
+/>
+Your supernova</p><p>(In the galaxy, in the galaxy yeah)<br
+/>
+In and out of the atmosphere, in and out<br
+/>
+Changing out form and arriving<br
+/>
+Like a shock that can change the world<br
+/>
+(Tututurututu) Perfect<br
+/>
+(Tututurututu) Girls in<br
+/>
+(Tututurututu) In the galaxy, galaxy oh</p><p>Oh oh oh oh oh oh oh<br
+/>
+We shine atop the ground<br
+/>
+Yeah eh eh eh eh eh eh<br
+/>
+Silhouettes that rose to the surface<br
+/>
+(Tututurututu) Perfect<br
+/>
+(Tututurututu) Girls in<br
+/>
+(Tututurututu) In the galaxy, galaxy oh</p><p>I grab you, but you escape and disappear<br
+/>
+But I’m still looking at you, yeah</p><p>In the galaxy threaded scale we feel No. 1<br
+/>
+With rolling baselines like<br
+/>
+Shooting stars, coming!<br
+/>
+(Tututurututu) Cutest<br
+/>
+(Tututurututu) Girls in<br
+/>
+(Tututurututu) In the galaxy, galaxy oh</p><p>Oh oh oh oh oh oh oh<br
+/>
+We’re the typical rumors<br
+/>
+Yeah eh eh eh eh eh eh<br
+/>
+With our tight hips we’re like the<br
+/>
+(Tututurututu) Cutest<br
+/>
+(Tututurututu) Girls in<br
+/>
+(Tututurututu) In the galaxy, galaxy oh</td></tr></tbody></table><p>Japanese: <a
+href="http://littleoslo.com">littleoslo.com</a>, Hikaru<br
+/>
+Rom: Hikaru<br
+/>
+Eng: kahigasa, AlphaBunny, Hikaru<br
+/>
+info: <a
+href="http://littleoslo.com">littleoslo.com</a></p></div><div
+class="clearfix"></div><div
+class="bg-similar-posts"><h4>Similar Posts</h4><div
+class="row row-cols-1 row-cols-sm-2 bg-posts-row"><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2016/02/got7-stop-stop-it-japanese-ver" aria-hidden="true" tabindex="-1">
+<img
+width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2016/02/GOT7-Moriagatte.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="GOT7 &#8211; Stop Stop It (Japanese Ver.)" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2016/02/GOT7-Moriagatte.jpg 800w, https://colorcodedlyrics.com/wp-content/uploads/2016/02/GOT7-Moriagatte-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2016/02/GOT7-Moriagatte-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2016/02/GOT7-Moriagatte-785x785.jpg 785w, https://colorcodedlyrics.com/wp-content/uploads/2016/02/GOT7-Moriagatte-32x32.jpg 32w, https://colorcodedlyrics.com/wp-content/uploads/2016/02/GOT7-Moriagatte-64x64.jpg 64w, https://colorcodedlyrics.com/wp-content/uploads/2016/02/GOT7-Moriagatte-96x96.jpg 96w, https://colorcodedlyrics.com/wp-content/uploads/2016/02/GOT7-Moriagatte-128x128.jpg 128w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2016/02/got7-stop-stop-it-japanese-ver" rel="bookmark">GOT7 &#8211; Stop Stop It (Japanese Ver.)</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2016/02/got7-stop-stop-it-japanese-ver" rel="bookmark"><time
+class="entry-date published" datetime="2016-02-15T12:10:18-08:00">February 15, 2016</time><time
+class="updated" datetime="2016-02-16T17:02:05-08:00">February 16, 2016</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/dragonshine">dragonshine</a></span>
+</span></div></header></div></article></div><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2012/10/morning-musume-normal-girl-a" aria-hidden="true" tabindex="-1">
+<img
+width="269" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2013/05/Morning_Musume_-_Wakuteka_Take_a_Chance_B.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="Morning Musume &#8211; Normal Girl A (普通の少女A)" loading="lazy" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2012/10/morning-musume-normal-girl-a" rel="bookmark">Morning Musume &#8211; Normal Girl A (普通の少女A)</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2012/10/morning-musume-normal-girl-a" rel="bookmark"><time
+class="entry-date published" datetime="2012-10-11T14:37:28-07:00">October 11, 2012</time><time
+class="updated" datetime="2014-12-28T17:16:16-08:00">December 28, 2014</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/sjkaarosu">sjkaarosu</a></span>
+</span></div></header></div></article></div></div></div><div
+class="clearfix"></div></div></article><nav
+class="navigation post-navigation" role="navigation" aria-label="Posts"><h2 class="screen-reader-text">Post navigation</h2><div
+class="nav-links"><div
+class="nav-previous"><a
+href="https://colorcodedlyrics.com/2016/10/girls-generation-chain-reaction-ot8-ver" rel="prev"><span
+class="nav-subtitle"><svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-left" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M5.854 4.646a.5.5 0 0 1 0 .708L3.207 8l2.647 2.646a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 0 1 .708 0z"/>
+<path
+fill-rule="evenodd" d="M2.5 8a.5.5 0 0 1 .5-.5h10.5a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>Previous</span> <span
+class="nav-title">Girls&#8217; Generation (少女時代) &#8211; Chain Reaction (OT8 Ver.)</span></a></div><div
+class="nav-next"><a
+href="https://colorcodedlyrics.com/2016/10/ailee-live-die-feat-tak" rel="next"><span
+class="nav-subtitle">Next<svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M10.146 4.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L12.793 8l-2.647-2.646a.5.5 0 0 1 0-.708z"/>
+<path
+fill-rule="evenodd" d="M2 8a.5.5 0 0 1 .5-.5H13a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 8z"/>
+</svg></span> <span
+class="nav-title">Ailee &#8211; Live or Die (Feat. Tak)</span></a></div></div></nav><div
+id="comments" class="comments-area"><div
+class="comments-area-body"><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/2016/10/girls-generation-galaxy-supernova-ot8-ver#respond" style="display:none;">Cancel reply</a></small></h3><p
+class="must-log-in">You must be <a
+href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2016%2F10%2Fgirls-generation-galaxy-supernova-ot8-ver">logged in</a> to post a comment.</p></div><p
+class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a
+href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p></div></div></main></div></div></div></div><footer
+id="colophon" class="site-footer"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><div
+class="site-info">
+WordPress Theme: 						<a
+href="https://wp-points.com/themes/bloggrid/">BlogGrid</a>
+by TwoPoints.</div></div></div></div><div
+id="bg-to-top" title="Go to Top">
+<svg
+width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-arrow-up-square-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 8.354a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 6.207V11a.5.5 0 0 1-1 0V6.207L5.354 8.354z"/>
+</svg></div></footer></div> <script id='wpo_min-footer-0-js-extra'>var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"92276"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-footer-801f1e37.min.js' id='wpo_min-footer-0-js'></script> </body></html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Thu, 06 May 2021 15:40:59 GMT -->

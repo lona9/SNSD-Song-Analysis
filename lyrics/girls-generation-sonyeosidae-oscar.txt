@@ -1,0 +1,994 @@
+<!doctype html><html
+lang="en-US"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="https://gmpg.org/xfn/11"><title>Girls&#039; Generation (소녀시대) - OSCAR Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL</title><meta
+name="description" content="Girls&#039; Generation (소녀시대) - OSCAR Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link
+rel="canonical" href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Girls&#039; Generation (소녀시대) - OSCAR Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL" /><meta
+property="og:description" content="Girls&#039; Generation (소녀시대) - OSCAR Lyrics Romanization, Korean, Translation. Color coded Lyrics" /><meta
+property="og:url" content="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar" /><meta
+property="og:site_name" content="Color Coded Lyrics" /><meta
+property="article:publisher" content="https://www.facebook.com/ColorCodedLyrics/" /><meta
+property="article:published_time" content="2011-10-24T18:30:16+00:00" /><meta
+property="article:modified_time" content="2020-01-01T12:41:06+00:00" /><meta
+property="og:image" content="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2012/02/SNSD-The-Boys.jpg?fit=220%2C227&#038;ssl=1" /><meta
+property="og:image:width" content="220" /><meta
+property="og:image:height" content="227" /><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:creator" content="@CodedLyrics" /><meta
+name="twitter:site" content="@CodedLyrics" /><meta
+name="twitter:label1" content="Written by"><meta
+name="twitter:data1" content="Hikaru"><meta
+name="twitter:label2" content="Est. reading time"><meta
+name="twitter:data2" content="4 minutes"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","contentUrl":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#primaryimage","inLanguage":"en-US","url":"https://colorcodedlyrics.com/wp-content/uploads/2012/02/SNSD-The-Boys.jpg","contentUrl":"https://colorcodedlyrics.com/wp-content/uploads/2012/02/SNSD-The-Boys.jpg","width":"220","height":"227"},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#webpage","url":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - OSCAR Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#primaryimage"},"datePublished":"2011-10-24T18:30:16+00:00","dateModified":"2020-01-01T12:41:06+00:00","description":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - OSCAR Lyrics Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn","url":"https://colorcodedlyrics.com/category/krn","name":"KOREAN"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","url":"https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)"}},{"@type":"ListItem","position":4,"item":{"@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#webpage"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/6f1c158185e49391bd04dba66cbaae50"},"headline":"Girls&#8217; Generation (\uc18c\ub140\uc2dc\ub300) &#8211; OSCAR","datePublished":"2011-10-24T18:30:16+00:00","dateModified":"2020-01-01T12:41:06+00:00","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#webpage"},"commentCount":20,"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#primaryimage"},"keywords":["Girl's Generation","Hyoyeon","Jessica (\uc81c\uc2dc\uce74)","OSCAR","Seohyun","SNSD","Sooyoung","Sunny","Taeyeon","The Boys","Tiffany","Yoona","Yuri"],"articleSection":["Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)","KOREAN"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#respond"]}]},{"@type":"Person","@id":"https://colorcodedlyrics.com/#/schema/person/6f1c158185e49391bd04dba66cbaae50","name":"Hikaru","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=96&d=mm&r=pg","caption":"Hikaru"}}]}</script> <link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Feed" href="https://colorcodedlyrics.com/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Comments Feed" href="https://colorcodedlyrics.com/comments/feed" /><link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Girls&#8217; Generation (소녀시대) &#8211; OSCAR Comments Feed" href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar/feed" /><link
+rel='stylesheet' id='wpo_min-header-0-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-20094ea2.min.css' media='all' /> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-84e60a2d.min.js' id='wpo_min-header-0-js'></script> <link
+rel="https://api.w.org/" href="https://colorcodedlyrics.com/wp-json/" /><link
+rel="alternate" type="application/json" href="https://colorcodedlyrics.com/wp-json/wp/v2/posts/7275" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://colorcodedlyrics.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://colorcodedlyrics.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 5.6.3" /><link
+rel='shortlink' href='https://colorcodedlyrics.com/?p=7275' /><link
+rel="alternate" type="application/json+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar" /><link
+rel="alternate" type="text/xml+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar&#038;format=xml" /> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-29367300-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());gtag('config','UA-29367300-1')</script> <link
+rel="pingback" href="https://colorcodedlyrics.com/xmlrpc.php"><style type="text/css" id="custom-theme-css">.custom-logo{height:120px;width:auto}body.custom-background .bg-similar-posts{background-color:#EDF2F7}</style><style id="uagb-style-conditional-extension">@media (min-width:1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width:768px) and (max-width:1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width:767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-32x32.jpg" sizes="32x32" /><link
+rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-192x192.jpg" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-180x180.jpg" /><meta
+name="msapplication-TileImage" content="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-270x270.jpg" /><style id="wp-custom-css">@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);.single-post-card .card-body{padding:2rem 0rem;max-width:1140px;margin:auto;font-size:.8rem;font-family:'Lato',sans-serif}.entry-content{background-color:#000;padding:2rem;color:#828282}.entry-content h2{font-size:2em;font-family:"DM Serif Display",serif}.single-post-card .entry-header{padding:0rem 2rem}.single-post-card .cat-links{padding:0rem 2rem}.wp-block-group{color:#828282}.TrendingDiv h1,h4{font-family:"DM Serif Display",serif;font-weight:400}.site-title{font-family:"DM Serif Display",serif}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,thead,tbody,th,td,tr{display:block}thead tr{position:absolute;top:-9999px;left:-9999px}tr{border:0}td{margin-bottom:20px}@media only screen and (min-device-width :320px) and (max-device-width :480px){body{padding:0;margin:0;min-width:320px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){body{min-width:495px}}}</style> <script data-ad-client="ca-pub-9127294175918477" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head><body data-rsssl=1
+class="post-template-default single single-post postid-7275 single-format-standard wp-custom-logo wp-embed-responsive no-sidebar no-sidebar-single"><div
+id="page" class="site">
+<a
+class="skip-link screen-reader-text" href="#primary">Skip to content</a><header
+id="masthead" class="site-header"><div
+class="container"><div
+class="d-flex justify-content-between align-items-center"><div
+class=""><div
+class="site-branding">
+<a
+href="https://colorcodedlyrics.com/" class="custom-logo-link" rel="home"><img
+width="1499" height="1138" src="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png" class="custom-logo" alt="Color Coded Lyrics" srcset="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png 1499w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-395x300.png 395w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-785x596.png 785w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-768x583.png 768w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-800x607.png 800w" sizes="(max-width: 1499px) 100vw, 1499px" /></a><p
+class="site-title"><a
+href="https://colorcodedlyrics.com/" rel="home">Color Coded Lyrics</a></p></div></div><div
+class="flex-grow-1"><nav
+id="site-navigation" class="main-navigation">
+<button
+class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<svg
+width="1.5em" height="1.5em" viewBox="0 0 16 16" class="bi bi-list" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>
+</button><div
+class="menu-header-container"><ul
+id="primary-menu" class="menu"><li
+id="menu-item-143898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-143898"><a
+href="https://colorcodedlyrics.com">Home</a></li><li
+id="menu-item-143899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143899"><a
+href="https://colorcodedlyrics.com/index">Index</a></li><li
+id="menu-item-143900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143900"><a
+href="https://colorcodedlyrics.com/join-ccl">Join CCL</a></li><li
+id="menu-item-143901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143901"><a
+href="https://colorcodedlyrics.com/f-a-q-c-important">F.A.Q.</a></li><li
+id="menu-item-152925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-152925"><a
+href="https://colorcodedlyrics.com">Submit</a><ul
+class="sub-menu"><li
+id="menu-item-152924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152924"><a
+href="https://colorcodedlyrics.com/translations">Translations</a></li><li
+id="menu-item-143902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143902"><a
+href="https://colorcodedlyrics.com/requests">Requests</a></li></ul></li><li
+id="menu-item-144259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144259"><a
+href="https://colorcodedlyrics.com/wp-login.php">Log In</a></li><li
+id="menu-item-145427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145427"><a
+href="https://colorcodedlyrics.com/tip-our-authors">Tip our Authors</a></li></ul></div></nav></div></div></div><div
+style="padding-left: 5%"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<ins
+class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-9127294175918477"
+data-ad-slot="4553898897"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({})</script> </div></header><div
+id="content" class="site-content"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><main
+id="primary" class="site-main"><article
+id="post-7275" class="single-post-card post-7275 post type-post status-publish format-standard has-post-thumbnail hentry category-snsd-sonyeosidae category-krn tag-girls-generation tag-hyoyeon tag-jessica tag-oscar tag-seohyun tag-snsd tag-sooyoung tag-sunny tag-taeyeon tag-the_boys tag-tiffany tag-yoona tag-yuri"><div
+class="card-body"><span
+class="cat-links"><a
+href="https://colorcodedlyrics.com/category/krn/snsd-sonyeosidae" rel="category tag">Girls' Generation (소녀시대/少女時代)</a>&nbsp;<a
+href="https://colorcodedlyrics.com/category/krn" rel="category tag">KOREAN</a></span><header
+class="entry-header"><h1 class="entry-title">Girls&#8217; Generation (소녀시대) &#8211; OSCAR</h1><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar" rel="bookmark"><time
+class="entry-date published" datetime="2011-10-24T11:30:16-07:00">October 24, 2011</time><time
+class="updated" datetime="2020-01-01T04:41:06-08:00">January 1, 2020</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/sooyoungboy">Hikaru</a></span>
+</span></div></header><div
+class="entry-content"><table
+width="700" border="0"><tbody><tr><td><h2 style="text-align: center">OSCAR</h2><p
+style="text-align: center">
+<span
+style="text-decoration: underline">The Boys</span><br
+/>
+2011.10.19</p></td><td
+style="text-align: right"><img
+loading="lazy" class="alignright" alt="" src="https://colorcodedlyrics.com/wp-content/uploads/2012/02/SNSD-The-Boys.jpg" width="200" height="200" /></td></tr><tr><td
+style="text-align: center"><span
+style="color: #ff6600">Taeyeon</span>, <span
+style="color: #3366ff">Jessica</span>, <span
+style="color: #800080">Sunny</span>,<br
+/>
+<span
+style="color: #ff00ff">Tiffany</span>, <span
+style="color: #008000">Hyoyeon</span>, <span
+style="color: #ff0000">Yuri</span>,<br
+/>
+<span
+style="color: #00ccff">Sooyoung</span>, <span
+style="color: #ffff00">Yoona</span>, <span
+style="color: #008080">Seohyun</span></td><td
+style="text-align: right"><strong>Lyrics/작사</strong>: 김정배<br
+/>
+<strong>Composer/작곡</strong>: Kenzie<br
+/>
+<strong>Arranger/편곡</strong>: Kenzie</td></tr></tbody></table><p
+style="text-align: center">[youtube https://www.youtube.com/watch?v=3dHWIUttaEA&amp;w=420&amp;h=315]</p><p><span
+style="color: #ff00ff"><span
+id="more-7275"></span></span></p><table
+border="0"><tbody><tr><th>Romanization</th><th>Korean</th><th>Translation</th></tr><tr><td><span
+style="color: #ff00ff">geu kigi shimjangeul mak cha teojeo beorige</span><br
+/>
+<span
+style="color: #ff6600">gwi jjijeul tteutan haihaet nalkarounde</span></p><p><span
+style="color: #3366ff">deultteun Energizer, geurae nan Synchronizer<br
+/>
+Volume deo keuge ollyeo bwa Come on, boy</span></p><p><span
+style="color: #ffffff">It’s twinkle twinkle up in the sky<br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+niga gidaryeo on Super storm</span><br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+<span
+style="color: #008080">da nuni beonjjeok tteuyeotji<br
+/>
+jeongshineopshi jungdokdwaetji</span><br
+/>
+<span
+style="color: #008000">(Hey hey hey)</span><br
+/>
+<span
+style="color: #00ccff">neon imi nae sone Oscar</span></p><p><span
+style="color: #ff0000">geu Bass-ga modul deopcheo da halkwieo beoryeo</span><br
+/>
+<span
+style="color: #800080">han biteu biteu millyeowa at ta beoryeosseo</span></p><p><span
+style="color: #ffff00">deultteun Energizer, geurae nan Synchronizer<br
+/>
+jupasu naege matchweo bwa Come on, boy</span></p><p><span
+style="color: #ffffff">It’s twinkle twinkle up in the sky<br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+niga gidaryeo on Super storm</span><br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+<span
+style="color: #00ccff">neon nuni busheo nal bomyeon<br
+/>
+ganjeolhi weonhae jukdorok</span><br
+/>
+<span
+style="color: #008000">(Hey hey hey)</span><br
+/>
+<span
+style="color: #ff0000">Hey hey hey imi nae sone Oscar</span></p><p><span
+style="color: #ff6600">meomchuji anko gal ppunya<br
+/>
+deo meotjin geon tto taeeonanikka</span></p><p><span
+style="color: #008000">banjjakbanjjak binnaneun geol weonhaesseo? Oscar</span><br
+/>
+<span
+style="color: #ff00ff">nuga nuga challanhi binnani? Oscar</span><br
+/>
+<span
+style="color: #3366ff">It’s twinkling in the sky, in the sky</span></p><p><span
+style="color: #ffff00">deultteun Energizer, geurae nan Synchronizer<br
+/>
+Volume deo keuge ollyeo bwa Come on, boy</span></p><p><span
+style="color: #ffffff">It’s twinkle twinkle up in the sky <span
+style="color: #ff00ff">(Up in, up in)</span><br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+niga gidaryeo on Super storm</span><br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+<span
+style="color: #800080">da nuni beonjjeok tteuyeotji</span> <span
+style="color: #ff6600">(nuni yeotji)</span><br
+/>
+<span
+style="color: #800080">jeongshineopshi jungdokdwaetji</span><br
+/>
+<span
+style="color: #ff6600">(naege jungdokdwaetji)</span><br
+/>
+<span
+style="color: #008000">(Hey hey hey)</span> <span
+style="color: #ff6600">(Eh)</span><br
+/>
+<span
+style="color: #008080">imi nae sone Oscar</span> <span
+style="color: #ff6600">(Uh uh uh uh)</span></p><p>[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #ffffff">All</span>] It’s twinkle twinkle up in the sky<br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+[<span
+style="color: #ff6600">Tae</span>/<span
+style="color: #ffffff">All</span>] niga gidaryeo on Super storm<br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span> <span
+style="color: #008080">(Oh oh oh)</span><br
+/>
+<span
+style="color: #ff00ff">neon nuni busheo nal bomyeon</span> <span
+style="color: #008080">(neon nuni imi)</span><br
+/>
+<span
+style="color: #ff00ff">ganjeolhi weonhae jukdorok</span><br
+/>
+<span
+style="color: #008080">(jukdorok nal weonhae weonhae)</span><br
+/>
+<span
+style="color: #008000">(Hey hey hey)</span> <span
+style="color: #ff6600">(Hey)</span><br
+/>
+<span
+style="color: #3366ff">imi nae sone Oscar</span> <span
+style="color: #ff6600">(Oscar)</span></td><td><span
+style="color: #ff00ff">그 킥이 심장을 막 차 터져 버리게</span><br
+/>
+<span
+style="color: #ff6600">귀 찢을 듯한 하이햇 날카로운데</span></p><p><span
+style="color: #3366ff">들뜬 Energizer, 그래 난 Synchronizer<br
+/>
+Volume 더 크게 올려 봐 Come on, boy</span></p><p><span
+style="color: #ffffff">It’s twinkle twinkle up in the sky<br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+니가 기다려 온 Super storm</span><br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+<span
+style="color: #008080">다 눈이 번쩍 뜨였지<br
+/>
+정신없이 중독됐지</span><br
+/>
+<span
+style="color: #008000">(Hey hey hey)</span><br
+/>
+<span
+style="color: #00ccff">넌 이미 내 손에 Oscar</span></p><p><span
+style="color: #ff0000">그 Bass가 모둘 덮쳐 다 할퀴어 버려</span><br
+/>
+<span
+style="color: #800080">한 비트 비트 밀려와 앗 타 버렸어</span></p><p><span
+style="color: #ffff00">들뜬 Energizer, 그래 난 Synchronizer<br
+/>
+주파수 내게 맞춰 봐 Come on, boy</span></p><p><span
+style="color: #ffffff">It’s twinkle twinkle up in the sky<br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+니가 기다려 온 Super storm</span><br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+<span
+style="color: #00ccff">넌 눈이 부셔 날 보면<br
+/>
+간절히 원해 죽도록</span><br
+/>
+<span
+style="color: #008000">(Hey hey hey)</span><br
+/>
+<span
+style="color: #ff0000">Hey hey hey 이미 내 손에 Oscar</span></p><p><span
+style="color: #ff6600">멈추지 않고 갈 뿐야<br
+/>
+더 멋진 건 또 태어나니까</span></p><p><span
+style="color: #008000">반짝반짝 빛나는 걸 원했어? Oscar</span><br
+/>
+<span
+style="color: #ff00ff">누가 누가 찬란히 빛나니? Oscar</span><br
+/>
+<span
+style="color: #3366ff">It’s twinkling in the sky, in the sky</p><p><span
+style="color: #ffff00">들뜬 Energizer, 그래 난 Synchronizer<br
+/>
+Volume 더 크게 올려 봐 Come on, boy</span></p><p><span
+style="color: #ffffff">It’s twinkle twinkle up in the sky <span
+style="color: #ff00ff">(Up in, up in)</span><br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+니가 기다려 온 Super storm</span><br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+<span
+style="color: #800080">다 눈이 번쩍 뜨였지</span> <span
+style="color: #ff6600">(눈이 였지)</span><br
+/>
+<span
+style="color: #800080">정신없이 중독됐지</span><br
+/>
+<span
+style="color: #ff6600">(내게 중독됐지)</span><br
+/>
+<span
+style="color: #008000">(Hey hey hey)</span> <span
+style="color: #ff6600">(Eh)</span><br
+/>
+<span
+style="color: #008080">이미 내 손에 Oscar</span> <span
+style="color: #ff6600">(Uh uh uh uh)</span></p><p>[<span
+style="color: #ff6600">태</span>/<span
+style="color: #ffffff">All</span>] It’s twinkle twinkle up in the sky<br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span><br
+/>
+[<span
+style="color: #ff6600">태</span>/<span
+style="color: #ffffff">All</span>] 니가 기다려 온 Super storm<br
+/>
+<span
+style="color: #008000">(Like O-S-C-A-R)</span> <span
+style="color: #008080">(Oh oh oh)</span><br
+/>
+<span
+style="color: #ff00ff">넌 눈이 부셔 날 보면</span> <span
+style="color: #008080">(넌 눈이 이미)</span><br
+/>
+<span
+style="color: #ff00ff">간절히 원해 죽도록</span><br
+/>
+<span
+style="color: #008080">(죽도록 날 원해 원해)</span><br
+/>
+<span
+style="color: #008000">(Hey hey hey)</span> <span
+style="color: #ff6600">(Hey)</span><br
+/>
+<span
+style="color: #3366ff">이미 내 손에 Oscar</span> <span
+style="color: #ff6600">(Oscar)</span></td><td>That kick kicks my heart so that it’s about to burst<br
+/>
+You’re like a hi-hat cymbal that rips my ears, so sharp</p><p>Excited energizer, yes I’m a synchronizer<br
+/>
+Turn up the volume louder, come on, boy</p><p>It’s twinkle twinkle up in the sky<br
+/>
+(Like O-S-C-A-R)<br
+/>
+You’ve been waiting for this super storm<br
+/>
+(Like O-S-C-A-R)<br
+/>
+Everyone’s eyes are wide open<br
+/>
+They are mindlessly addicted<br
+/>
+(Hey hey hey)<br
+/>
+You are already in my hands oscar</p><p>That bass covers everyone and scratches &#8217;em up<br
+/>
+Beat by beat, it comes ah, it’s burnt</p><p>Excited energizer, yes I’m a synchronizer<br
+/>
+Turn your audio frequency to me, come on, boy</p><p>It’s twinkle twinkle up in the sky<br
+/>
+(Like O-S-C-A-R)<br
+/>
+You’ve been waiting for this super storm<br
+/>
+(Like O-S-C-A-R)<br
+/>
+Your eyes are blinded when you see me<br
+/>
+You want me to death<br
+/>
+(Hey hey hey)<br
+/>
+Already in my hands oscar</p><p>Don’t stop and just go<br
+/>
+‘Cause greater things will be born again</p><p>You wanted something that twinkles? Oscar<br
+/>
+Who, who shines brightly? Oscar<br
+/>
+It’s twinkling in the sky, in the sky</p><p>Excited energizer, yes I’m a synchronizer<br
+/>
+Turn up the volume louder, come on, boy</p><p>It’s twinkle twinkle up in the sky<br
+/>
+(Like O-S-C-A-R)<br
+/>
+You’ve been waiting for this super storm<br
+/>
+(Like O-S-C-A-R)<br
+/>
+Everyone’s eyes are wide open<br
+/>
+They are mindlessly addicted<br
+/>
+(Addicted to me)<br
+/>
+(Hey hey hey)<br
+/>
+Already in my hands oscar</p><p>It’s twinkle twinkle up in the sky<br
+/>
+(Like O-S-C-A-R)<br
+/>
+You’ve been waiting for this super storm<br
+/>
+(Like O-S-C-A-R)<br
+/>
+Your eyes are blinded when you see me<br
+/>
+You want me to death<br
+/>
+(Want me, want me to death)<br
+/>
+(Hey hey hey)<br
+/>
+Already in my hands oscar</td></tr></tbody></table><p>Korean: Hikaru @CCL<br
+/>
+Rom: Hikaru @CCL<br
+/>
+Eng: pop!gasa<br
+/>
+info: music.daum.net</p></div><div
+class="clearfix"></div><div
+class="bg-similar-posts"><h4>Similar Posts</h4><div
+class="row row-cols-1 row-cols-sm-2 bg-posts-row"><div
+class="col"><article
+class="archive-post-card"><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2012/04/mblaq_embeullaeg_-_100_cc_lyrics" rel="bookmark">MBLAQ (엠블랙) &#8211; 100%</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2012/04/mblaq_embeullaeg_-_100_cc_lyrics" rel="bookmark"><time
+class="entry-date published" datetime="2012-04-15T18:40:31-07:00">April 15, 2012</time><time
+class="updated" datetime="2012-05-16T01:36:04-07:00">May 16, 2012</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/alphabunny">AlphaBunny</a></span>
+</span></div></header></div></article></div><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2015/05/bestie-hush-baby" aria-hidden="true" tabindex="-1">
+<img
+width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2015/05/BESTie-Love-Emotion.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="BESTie &#8211; Hush Baby" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2015/05/BESTie-Love-Emotion.jpg 500w, https://colorcodedlyrics.com/wp-content/uploads/2015/05/BESTie-Love-Emotion-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2015/05/BESTie-Love-Emotion-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2015/05/BESTie-Love-Emotion-32x32.jpg 32w, https://colorcodedlyrics.com/wp-content/uploads/2015/05/BESTie-Love-Emotion-64x64.jpg 64w, https://colorcodedlyrics.com/wp-content/uploads/2015/05/BESTie-Love-Emotion-96x96.jpg 96w, https://colorcodedlyrics.com/wp-content/uploads/2015/05/BESTie-Love-Emotion-128x128.jpg 128w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2015/05/bestie-hush-baby" rel="bookmark">BESTie &#8211; Hush Baby</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2015/05/bestie-hush-baby" rel="bookmark"><time
+class="entry-date published" datetime="2015-05-08T18:05:28-07:00">May 8, 2015</time><time
+class="updated" datetime="2015-05-22T01:42:29-07:00">May 22, 2015</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/jacobryan">jacobryan</a></span>
+</span></div></header></div></article></div></div></div><div
+class="clearfix"></div></div></article><nav
+class="navigation post-navigation" role="navigation" aria-label="Posts"><h2 class="screen-reader-text">Post navigation</h2><div
+class="nav-links"><div
+class="nav-previous"><a
+href="https://colorcodedlyrics.com/2011/10/girls_generation_-_my_j_cc_lyrics" rel="prev"><span
+class="nav-subtitle"><svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-left" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M5.854 4.646a.5.5 0 0 1 0 .708L3.207 8l2.647 2.646a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 0 1 .708 0z"/>
+<path
+fill-rule="evenodd" d="M2.5 8a.5.5 0 0 1 .5-.5h10.5a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+</svg>Previous</span> <span
+class="nav-title">Girls&#8217; Generation (소녀시대) &#8211; My J</span></a></div><div
+class="nav-next"><a
+href="https://colorcodedlyrics.com/2011/10/c-real_ssilieol_-_no_no_no_no_no_cc_lyrics" rel="next"><span
+class="nav-subtitle">Next<svg
+width="1.25em" height="1.25em" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M10.146 4.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L12.793 8l-2.647-2.646a.5.5 0 0 1 0-.708z"/>
+<path
+fill-rule="evenodd" d="M2 8a.5.5 0 0 1 .5-.5H13a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 8z"/>
+</svg></span> <span
+class="nav-title">C-REAL (씨리얼 ) &#8211; No No No No No (CC Lyrics)</span></a></div></div></nav><div
+id="comments" class="comments-area"><div
+class="comments-area-body"><h2 class="comments-title">
+20 thoughts on &ldquo;<span>Girls&#8217; Generation (소녀시대) &#8211; OSCAR</span>&rdquo;</h2><ol
+class="comment-list"><li
+id="comment-5304" class="comment byuser comment-author-alphabunny even thread-even depth-1"><article
+id="div-comment-5304" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/d52e8aee27103a5f403381cedc187732?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d52e8aee27103a5f403381cedc187732?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">AlphaBunny</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-5304"><time
+datetime="2013-02-10T12:33:23-08:00">February 10, 2013 at 12:33 pm</time></a></div></footer><div
+class="comment-content"><p>The song is coded as accurately as possible. The voices of the lines are distributed clearly enough to be coded. We will not be accepting any more corrections. Thank you.<br
+/>
+-CCL Team</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li><li
+id="comment-5712" class="comment byuser comment-author-prettyangel92 odd alt thread-odd thread-alt depth-1 parent"><article
+id="div-comment-5712" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/30162e26d9f98a306974c9f12baa1a3b?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/30162e26d9f98a306974c9f12baa1a3b?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">prettyangel92</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-5712"><time
+datetime="2013-04-09T14:22:42-07:00">April 9, 2013 at 2:22 pm</time></a></div></footer><div
+class="comment-content"><p>i still think Seohyun might have another line and we don&#8217;t know about it. i keep saying that  the first &#8220;bollyum deo keuge ollyeobwa&#8221; is Seohyun, we all know how Seohyun&#8217;s voice sounds like when she does aegyo. it actually sounds like Jessica&#8217;s. you have some japanese songs as an example</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-5713" class="comment byuser comment-author-prettyangel92 even depth-2"><article
+id="div-comment-5713" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/30162e26d9f98a306974c9f12baa1a3b?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/30162e26d9f98a306974c9f12baa1a3b?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">prettyangel92</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-5713"><time
+datetime="2013-04-09T14:28:51-07:00">April 9, 2013 at 2:28 pm</time></a></div></footer><div
+class="comment-content"><p>or maybe..what if she&#8217;s singing with Tiffany at &#8220;nuga nuga chanranhi bitnani? OSCAR&#8221; ? at first it sounds like Tiffany on both voices but when you hear more times, it actually sounds like Seohyun in the background</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li></ol></li><li
+id="comment-6052" class="comment byuser comment-author-fsbolthof odd alt thread-even depth-1 parent"><article
+id="div-comment-6052" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">FSBolthof</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-6052"><time
+datetime="2013-05-16T15:42:21-07:00">May 16, 2013 at 3:42 pm</time></a></div></footer><div
+class="comment-content"><p>For everyone here is the proof that Tiffany raps &#8220;nuga nuga chanranhi bitnani? OSCAR&#8221;<br
+/>
+Sooyoung talks about the part and imitates it.<br
+/>
+<a
+href="http://www.youtube.com/watch?v=LyZGKXvM3ac" rel="nofollow ugc">http://www.youtube.com/watch?v=LyZGKXvM3ac</a></p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-6055" class="comment byuser comment-author-daniel even depth-2 parent"><article
+id="div-comment-6055" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/4700aefc6f4c9d665ad7cf2cf31b3b5e?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4700aefc6f4c9d665ad7cf2cf31b3b5e?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">daniel</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-6055"><time
+datetime="2013-05-17T03:42:42-07:00">May 17, 2013 at 3:42 am</time></a></div></footer><div
+class="comment-content"><p>I&#8217;m sorry that I have to leave this comment.<br
+/>
+but the part she imitates is the screaming voice,<br
+/>
+which is obviosly Tiffany,</p><p>Tiffany says it should have been in the background.<br
+/>
+there are two voices.</p><p>(I still think it&#8217;s Hyoyeon)</p><p>btw, Sooyoung is hilarious</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-6056" class="comment byuser comment-author-fsbolthof odd alt depth-3"><article
+id="div-comment-6056" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b440adfcf0a725de15d50bc08b7da9df?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">FSBolthof</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-6056"><time
+datetime="2013-05-17T06:18:02-07:00">May 17, 2013 at 6:18 am</time></a></div></footer><div
+class="comment-content"><p>I was possibly thinking that to. I was still doubting the softer voice.<br
+/>
+I asked the other authors to take a look. Hopefully they will look soon and know it.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li></ol></li></ol></li><li
+id="comment-9846" class="comment byuser comment-author-shonen93 even thread-odd thread-alt depth-1 parent"><article
+id="div-comment-9846" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/fd48e7c08bbaa7c079b50f16f6cf2d67?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/fd48e7c08bbaa7c079b50f16f6cf2d67?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">Shonen93</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-9846"><time
+datetime="2014-04-08T17:41:59-07:00">April 8, 2014 at 5:41 pm</time></a></div></footer><div
+class="comment-content"><p>[Seo] deultteun eneojaijeo, geurae nan singkeuronaijeo [Seo]<br
+/>
+[Jess] bollyum deo keuge ollyeobwa Come on, boy [Jess]</p><p>It makes more sense to me if this line is divided like this. I think this part is the hardest one to listen to because when the voices of Jessica or Seohyun are pitched up that high and have that much of out of tune, they can sound very similar.</p><p>[Yoo] deultteun eneojaijeo geurae nan singkeuronaijeo [Yoo]<br
+/>
+[Yuri] jupasu naege majchwobwa Come on, boy [Yuri]</p><p>I don&#8217;t think there is any Tiffany here. There is no vocal change. I see why you would think is her, since is an English part, but their voices can sound very similar with the out of tune.</p><p>[Yoo] deultteun eneojaijeo geurae nan singkeuronaijeo [Yoo]<br
+/>
+[Soo] bollyum deo keuge ollyeobwa Come on, boy [Soo]</p><p>The same thing, all Sooyoung, there is no point on diving the lines that way since Tiffany already sings a lot, and Yuri&#8217;s and Soyoung&#8217;s English aren&#8217;t bad.</p><p>Please take this changes in consideration thinking that since Seohyun in the current cc only has one line, this makes sense.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-9847" class="comment byuser comment-author-shonen93 odd alt depth-2 parent"><article
+id="div-comment-9847" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/fd48e7c08bbaa7c079b50f16f6cf2d67?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/fd48e7c08bbaa7c079b50f16f6cf2d67?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">Shonen93</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-9847"><time
+datetime="2014-04-08T17:49:17-07:00">April 8, 2014 at 5:49 pm</time></a></div></footer><div
+class="comment-content"><p>I did not read Alphabunny&#8217;s comment till now, sorry if in anyway my comment is causing you guys trouble, I just have that idea in my head.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-9848" class="comment byuser comment-author-alphabunny even depth-3"><article
+id="div-comment-9848" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/d52e8aee27103a5f403381cedc187732?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d52e8aee27103a5f403381cedc187732?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">AlphaBunny</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-9848"><time
+datetime="2014-04-09T01:28:09-07:00">April 9, 2014 at 1:28 am</time></a></div></footer><div
+class="comment-content"><p>Don&#8217;t worry. I made that comment a long time ago so it&#8217;s not a big deal. Thank you for understanding. -AlphaBunny</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li></ol></li></ol></li><li
+id="comment-9888" class="comment byuser comment-author-dunk3236 odd alt thread-even depth-1"><article
+id="div-comment-9888" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/f17401f995ade82c3643b7c77bf0802d?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/f17401f995ade82c3643b7c77bf0802d?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">dunk3236</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-9888"><time
+datetime="2014-04-13T05:22:35-07:00">April 13, 2014 at 5:22 am</time></a></div></footer><div
+class="comment-content"><p>At last I made an account. :D<br
+/>
+Btw, isn&#8217;t &#8216;neon imi nae sone, oseuka&#8217; Sooyoung? You can hear her falsetto.<br
+/>
+And the rest:</p><p>Sooyoung:<br
+/>
+neon imi nae sone, oseuka</p><p>Yuri:<br
+/>
+imi nae sone, oseuka</p><p>Seohyun:<br
+/>
+imi nae sone, oseuka</p><p>Jessica:<br
+/>
+imi nae sone, oseuka</p><p>And in the last part isn&#8217;t Seohyun doing the adlibs? :)<br
+/>
+Tiff:<br
+/>
+neon nuni busyeo nal bomyeon<br
+/>
+ganjeolhi wonhae jukdorok</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li><li
+id="comment-10193" class="comment byuser comment-author-daniel even thread-odd thread-alt depth-1 parent"><article
+id="div-comment-10193" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/4700aefc6f4c9d665ad7cf2cf31b3b5e?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4700aefc6f4c9d665ad7cf2cf31b3b5e?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">daniel</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-10193"><time
+datetime="2014-05-31T02:23:17-07:00">May 31, 2014 at 2:23 am</time></a></div></footer><div
+class="comment-content"><p>So, I made an audio to show who sings &#8220;imi nae sone, oseuka&#8221;, and it&#8217;s Sunny, Yuri, Sooyoung, and Taeyeon(the adlibs).<br
+/>
+So here it is : <a
+href="https://soundcloud.com/daniel-lin-32/girls-generation-oscar-adlibs" rel="nofollow ugc">https://soundcloud.com/daniel-lin-32/girls-generation-oscar-adlibs</a></p><p>And, &#8220;deultteun eneojaijeo geurae nan singkeuronaijeo jupasu naege majchwobwa Come on, boy&#8221; has to be one person, and it&#8217;s Yoona. That &#8220;Come on, boy&#8221; can&#8217;t be Tiffany, Tiffany has that husky voice and a better pronunciation.<br
+/>
+So is &#8220;deultteun eneojaijeo geurae nan singkeuronaijeo bollyum deo keuge ollyeobwa Come on, boy&#8221; before the 3rd chorus.</p><p>&#8220;(Hey Hey Hey)&#8221; in the 2nd chorus should be Sooyoung&#8217;s, can be heard in the audio, it sounds the same with her parts in the chorus.</p><p>&#8220;nuga nuga chanranhi bitnani? OSCAR&#8221; is Hyoyeon rapping/talking + Tiffany screaming. This one I&#8217;m certain.</p><p>The ones who do the adlibs in 3rd and 4th chorus are Taeyeon and Tiffany, also be heard in the audio.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-11981" class="comment byuser comment-author-daniel odd alt depth-2"><article
+id="div-comment-11981" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/4700aefc6f4c9d665ad7cf2cf31b3b5e?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4700aefc6f4c9d665ad7cf2cf31b3b5e?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">daniel</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-11981"><time
+datetime="2015-03-27T06:58:51-07:00">March 27, 2015 at 6:58 am</time></a></div></footer><div
+class="comment-content"><p>After hearing the song a couple times, I kind of agree with dunk3236, it&#8217;s Sooyoung, Yuri, Seohyun. But I doubt that the last one is Jessica&#8217;s or anyone&#8217;s, though it&#8217;s sounds like Hyoyeon, which is impossible if she had that line, I think it&#8217;s just the background vocal.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li></ol></li><li
+id="comment-10271" class="comment byuser comment-author-prettyangel92 even thread-even depth-1 parent"><article
+id="div-comment-10271" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/30162e26d9f98a306974c9f12baa1a3b?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/30162e26d9f98a306974c9f12baa1a3b?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">prettyangel92</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-10271"><time
+datetime="2014-06-09T04:01:47-07:00">June 9, 2014 at 4:01 am</time></a></div></footer><div
+class="comment-content"><p>Hi.</p><p>looks like many people are saying what i&#8217;m about to say</p><p>imi nae sone, oseuka are sung by different members</p><p>the first one is Sooyoung, after her &#8220;neon&#8221; adlib<br
+/>
+the second one is Yuri.<br
+/>
+the third one is Seohyun<br
+/>
+the fourth one is Jessica</p><p>jupasu naege majchwobwa  is still Yoona. not Yuri</p><p>as for the adlibs at the end&#8230;</p><p>[All/TY] It’s twinkle, twinkle, Up in the sky.<br
+/>
+this is actually All/Jessica</p><p>nega gidaryeo-on supeo seutom<br
+/>
+this is Taeyeon/All</p><p>neon nuni busyeo nal bomyeon<br
+/>
+ganjeolhi wonhae jukdorok<br
+/>
+while Tiffany is singing this, Sooyoung is doing the adlibs &#8220;nuni&#8221;, &#8220;bomyeon&#8221;, &#8220;ganjeolhi&#8221; and &#8220;jukdorok&#8221;</p><p>thank you for your time =)</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-10276" class="comment byuser comment-author-thedwexpress odd alt depth-2"><article
+id="div-comment-10276" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/935167b8e87ad3bdf0334c161ba84d92?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/935167b8e87ad3bdf0334c161ba84d92?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">thedwexpress</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-10276"><time
+datetime="2014-06-09T16:45:21-07:00">June 9, 2014 at 4:45 pm</time></a></div></footer><div
+class="comment-content"><p>I disagree with some things you said.</p><p>[All/TY] It’s twinkle, twinkle, Up in the sky.<br
+/>
+This is correct, Taeyeon voice is just high pitched.</p><p>About Sooyoung doing the adlibs. It&#8217;s Seohyun, her voice it&#8217;s autotuned. I&#8217;m a Seomate and I&#8217;m used to her voice.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li></ol></li><li
+id="comment-10277" class="comment byuser comment-author-thedwexpress even thread-odd thread-alt depth-1"><article
+id="div-comment-10277" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/935167b8e87ad3bdf0334c161ba84d92?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/935167b8e87ad3bdf0334c161ba84d92?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">thedwexpress</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-10277"><time
+datetime="2014-06-09T16:46:29-07:00">June 9, 2014 at 4:46 pm</time></a></div></footer><div
+class="comment-content"><p>Also this part &#8220;[Jessica] It’s twinkling in the sky, [Sunny] in the sky&#8221;</p><p>There&#8217;s no Sunny in it, it should be Jess.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li><li
+id="comment-13844" class="comment byuser comment-author-potatohyerin odd alt thread-even depth-1 parent"><article
+id="div-comment-13844" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/b5a61b9c10d32b96638fc1dab7cd3530?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b5a61b9c10d32b96638fc1dab7cd3530?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">potatohyerin</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-13844"><time
+datetime="2015-11-18T03:58:32-08:00">November 18, 2015 at 3:58 am</time></a></div></footer><div
+class="comment-content"><p>deultteun eneojaijeo geurae nan singkeuronaijeo<br
+/>
+jupasu naege majchwobwa<br
+/>
+This is all Yoona. The voice doesn&#8217;t change.</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-13845" class="comment byuser comment-author-potatohyerin even depth-2"><article
+id="div-comment-13845" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/b5a61b9c10d32b96638fc1dab7cd3530?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b5a61b9c10d32b96638fc1dab7cd3530?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">potatohyerin</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-13845"><time
+datetime="2015-11-18T04:00:37-08:00">November 18, 2015 at 4:00 am</time></a></div></footer><div
+class="comment-content"><p>&#8220;The voices of the lines are distributed clearly enough to be coded.&#8221;<br
+/>
+yet, it&#8217;s not coded correctly&#8230;</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li></ol></li><li
+id="comment-17397" class="comment byuser comment-author-somesatay odd alt thread-odd thread-alt depth-1 parent"><article
+id="div-comment-17397" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/f6f712bc5fe08bfb4aaf540332099ebc?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/f6f712bc5fe08bfb4aaf540332099ebc?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">somesatay</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-17397"><time
+datetime="2017-09-25T14:00:18-07:00">September 25, 2017 at 2:00 pm</time></a></div></footer><div
+class="comment-content"><p>[Hyo] banjjakbanjjak binnaneun geol weonhaesseo? Oscar<br
+/>
+[Hyo/Tiff] nuga nuga challanhi binnani? Oscar</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article><ol
+class="children"><li
+id="comment-17402" class="comment byuser comment-author-sooyoungboy bypostauthor even depth-2"><article
+id="div-comment-17402" class="comment-body"><footer
+class="comment-meta"><div
+class="comment-author vcard">
+<img
+alt='' src='https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=32&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=64&#038;d=mm&#038;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b
+class="fn">Hikaru</b> <span
+class="says">says:</span></div><div
+class="comment-metadata">
+<a
+href="https://colorcodedlyrics.com/2011/10/girls-generation-sonyeosidae-oscar#comment-17402"><time
+datetime="2017-09-25T17:34:39-07:00">September 25, 2017 at 5:34 pm</time></a></div></footer><div
+class="comment-content"><p>Tiffany is definitely doing both the high and low voice, Tiffany and Hyoyeon&#8217;s accents are so different it should be impossible to confuse them</p></div><div
+class="reply"><a
+rel="nofollow" class="comment-reply-login" href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">Log in to Reply</a></div></article></li></ol></li></ol><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/2011/10/girls-generation-sonyeosidae-oscar#respond" style="display:none;">Cancel reply</a></small></h3><p
+class="must-log-in">You must be <a
+href="https://colorcodedlyrics.com/wp-login.php?redirect_to=https%3A%2F%2Fcolorcodedlyrics.com%2F2011%2F10%2Fgirls-generation-sonyeosidae-oscar">logged in</a> to post a comment.</p></div><p
+class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a
+href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p></div></div></main></div></div></div></div><footer
+id="colophon" class="site-footer"><div
+class="container"><div
+class="row"><div
+class="col-md-12"><div
+class="site-info">
+WordPress Theme: 						<a
+href="https://wp-points.com/themes/bloggrid/">BlogGrid</a>
+by TwoPoints.</div></div></div></div><div
+id="bg-to-top" title="Go to Top">
+<svg
+width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-arrow-up-square-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 8.354a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 6.207V11a.5.5 0 0 1-1 0V6.207L5.354 8.354z"/>
+</svg></div></footer></div> <script id='wpo_min-footer-0-js-extra'>var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"7275"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-footer-801f1e37.min.js' id='wpo_min-footer-0-js'></script> </body></html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Thu, 06 May 2021 15:14:10 GMT -->
