@@ -2176,12 +2176,12 @@ class="row row-cols-1 row-cols-sm-2 bg-posts-row"><div
 class="col"><article
 class="archive-post-card">
 <a
-class="post-thumbnail" href="https://colorcodedlyrics.com/2018/10/ntic-do-you-know-who-i-am-naega-nugunji-ani" aria-hidden="true" tabindex="-1">
+class="post-thumbnail" href="https://colorcodedlyrics.com/2010/05/snsd-run-devil-run-color-coded-lyrics" aria-hidden="true" tabindex="-1">
 <img
-width="350" height="260" src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/10/N.tic-Do-You-Know-Who-I-Am.png?resize=350%2C260&amp;ssl=1" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image jetpack-lazy-image" alt="N.tic &#8211; Do You Know Who I Am? (내가 누군지 아니)" loading="lazy" data-lazy-srcset="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/10/N.tic-Do-You-Know-Who-I-Am.png?zoom=2&amp;resize=350%2C260&amp;ssl=1 700w, https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/10/N.tic-Do-You-Know-Who-I-Am.png?zoom=3&amp;resize=350%2C260&amp;ssl=1 1050w" data-lazy-sizes="(max-width: 350px) 100vw, 350px" data-lazy-src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/10/N.tic-Do-You-Know-Who-I-Am.png?resize=350%2C260&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />									</a><div
+width="300" height="260" src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2010/05/rdr.jpg?resize=300%2C260&amp;ssl=1" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image jetpack-lazy-image" alt="Girls&#8217; Generation (소녀시대) &#8211; Run Devil Run" loading="lazy" data-lazy-srcset="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2010/05/rdr.jpg?zoom=2&amp;resize=300%2C260&amp;ssl=1 600w, https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2010/05/rdr.jpg?zoom=3&amp;resize=300%2C260&amp;ssl=1 900w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2010/05/rdr.jpg?resize=300%2C260&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />									</a><div
 class="card-body"><header
 class="entry-header"><h3 class="entry-title"><a
-href="https://colorcodedlyrics.com/2018/10/ntic-do-you-know-who-i-am-naega-nugunji-ani" rel="bookmark">N.tic &#8211; Do You Know Who I Am? (내가 누군지 아니)</a></h3><div
+href="https://colorcodedlyrics.com/2010/05/snsd-run-devil-run-color-coded-lyrics" rel="bookmark">Girls&#8217; Generation (소녀시대) &#8211; Run Devil Run</a></h3><div
 class="entry-meta">
 <span
 class="posted-on flex-grow-1">
@@ -2193,9 +2193,9 @@ fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2
 fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
 </svg>
 <a
-href="https://colorcodedlyrics.com/2018/10/ntic-do-you-know-who-i-am-naega-nugunji-ani" rel="bookmark"><time
-class="entry-date published" datetime="2018-10-23T12:44:21-07:00">October 23, 2018</time><time
-class="updated" datetime="2018-10-23T12:45:10-07:00">October 23, 2018</time></a>
+href="https://colorcodedlyrics.com/2010/05/snsd-run-devil-run-color-coded-lyrics" rel="bookmark"><time
+class="entry-date published" datetime="2010-05-08T11:21:47-07:00">May 8, 2010</time><time
+class="updated" datetime="2019-11-27T02:40:41-08:00">November 27, 2019</time></a>
 </span>
 <span
 class="byline">
@@ -2210,17 +2210,17 @@ fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8
 </svg>
 <span
 class="author vcard"><a
-class="url fn n" href="https://colorcodedlyrics.com/author/max-schmidt">Max</a></span>
+class="url fn n" href="https://colorcodedlyrics.com/author/kat">Kat-Admin</a></span>
 </span></div></header></div></article></div><div
 class="col"><article
 class="archive-post-card">
 <a
-class="post-thumbnail" href="https://colorcodedlyrics.com/2019/07/kang-daniel-gangdaniel-i-hope" aria-hidden="true" tabindex="-1">
+class="post-thumbnail" href="https://colorcodedlyrics.com/2012/11/b-a-p-bieipi-happy-birthday" aria-hidden="true" tabindex="-1">
 <img
-width="400" height="260" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/07/Kang-Daniel-color-on-me.jpg?resize=400%2C260&amp;ssl=1" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image jetpack-lazy-image" alt="Kang Daniel (강다니엘) &#8211; I HOPE" loading="lazy" data-lazy-srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/07/Kang-Daniel-color-on-me.jpg?zoom=2&amp;resize=400%2C260&amp;ssl=1 800w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/07/Kang-Daniel-color-on-me.jpg?zoom=3&amp;resize=400%2C260&amp;ssl=1 1200w" data-lazy-sizes="(max-width: 400px) 100vw, 400px" data-lazy-src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/07/Kang-Daniel-color-on-me.jpg?resize=400%2C260&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />									</a><div
+width="272" height="260" src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2013/01/stop-it-bap.jpg?resize=272%2C260&amp;ssl=1" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image jetpack-lazy-image" alt="B.A.P (비에이피) &#8211; Happy Birthday" loading="lazy" data-lazy-src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2013/01/stop-it-bap.jpg?resize=272%2C260&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />									</a><div
 class="card-body"><header
 class="entry-header"><h3 class="entry-title"><a
-href="https://colorcodedlyrics.com/2019/07/kang-daniel-gangdaniel-i-hope" rel="bookmark">Kang Daniel (강다니엘) &#8211; I HOPE</a></h3><div
+href="https://colorcodedlyrics.com/2012/11/b-a-p-bieipi-happy-birthday" rel="bookmark">B.A.P (비에이피) &#8211; Happy Birthday</a></h3><div
 class="entry-meta">
 <span
 class="posted-on flex-grow-1">
@@ -2232,8 +2232,9 @@ fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2
 fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
 </svg>
 <a
-href="https://colorcodedlyrics.com/2019/07/kang-daniel-gangdaniel-i-hope" rel="bookmark"><time
-class="entry-date published updated" datetime="2019-07-25T02:33:45-07:00">July 25, 2019</time></a>
+href="https://colorcodedlyrics.com/2012/11/b-a-p-bieipi-happy-birthday" rel="bookmark"><time
+class="entry-date published" datetime="2012-11-01T23:38:06-07:00">November 1, 2012</time><time
+class="updated" datetime="2014-01-19T19:03:34-08:00">January 19, 2014</time></a>
 </span>
 <span
 class="byline">
@@ -2248,7 +2249,7 @@ fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8
 </svg>
 <span
 class="author vcard"><a
-class="url fn n" href="https://colorcodedlyrics.com/author/xmhhjx">Sandy</a></span>
+class="url fn n" href="https://colorcodedlyrics.com/author/jade2010">J</a></span>
 </span></div></header></div></article></div></div></div><div
 class="clearfix"></div></div></article><nav
 class="navigation post-navigation" role="navigation" aria-label="Posts"><h2 class="screen-reader-text">Post navigation</h2><div
@@ -2501,4 +2502,4 @@ class="grofile-hash-map-4700aefc6f4c9d665ad7cf2cf31b3b5e"></div><div
 class="grofile-hash-map-c8e77dddf8a55e91f8d1cc80266df26d"></div><div
 class="grofile-hash-map-fdaa13759ec7155e14e51de718ca7f10"></div><div
 class="grofile-hash-map-d74478b201161e71782ec21d9c10380a"></div></div> <script src='https://c0.wp.com/p/jetpack/9.7/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script> <script src='https://secure.gravatar.com/js/gprofiles.js' id='grofiles-cards-js'></script> <script id='wpgroho-js-extra'>var WPGroHo={"my_hash":""}</script> <script src='https://c0.wp.com/p/jetpack/9.7/modules/wpgroho.js' id='wpgroho-js'></script> <script id='wpo_min-footer-3-js-extra'>var jetpackLazyImagesL10n={"loading_warning":"Images are still loading. Please cancel your print and try again."};var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"12401"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620352414/assets/wpo-minify-footer-c2b83102.min.js' id='wpo_min-footer-3-js'></script> <script src='https://c0.wp.com/c/5.6.3/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script> <script src='https://c0.wp.com/p/jetpack/9.7/modules/theme-tools/responsive-videos/responsive-videos.min.js' id='jetpack-responsive-videos-min-script-js'></script> <script src='https://stats.wp.com/e-202119.js' defer></script> <script>_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:9.7',blog:'190135906',post:'12401',tz:'-7',srv:'colorcodedlyrics.com'}]);_stq.push(['clickTrackerInit','190135906','12401'])</script> </body></html>
-<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Tue, 11 May 2021 04:05:53 GMT -->
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Wed, 12 May 2021 04:07:30 GMT -->
