@@ -2,7 +2,8 @@
 lang="en-US"><head><meta
 charset="UTF-8"><meta
 name="viewport" content="width=device-width, initial-scale=1"><link
-rel="profile" href="https://gmpg.org/xfn/11"><title>Girls&#039; Generation (소녀시대) - Complete (OT8 Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL</title><meta
+rel="profile" href="https://gmpg.org/xfn/11"><meta
+name="google-site-verification" content="AotUsw-A6bVJM85c4DYhLJgYU2kGqiIQ_Zh1DxqNvOY" /><title>Girls&#039; Generation (소녀시대) - Complete (OT8 Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL</title><meta
 name="description" content="Girls&#039; Generation (소녀시대) - Complete (OT8 Ver.) Lyrics KOREAN Romanization, Korean, Translation. Color coded Lyrics" /><meta
 name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link
 rel="canonical" href="https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver" /><meta
@@ -24,26 +25,58 @@ name="twitter:site" content="@CodedLyrics" /><meta
 name="twitter:label1" content="Written by"><meta
 name="twitter:data1" content="Hikaru"><meta
 name="twitter:label2" content="Est. reading time"><meta
-name="twitter:data2" content="2 minutes"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","contentUrl":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#primaryimage","inLanguage":"en-US","url":"https://colorcodedlyrics.com/wp-content/uploads/2016/06/snsd-girls-generation.jpg","contentUrl":"https://colorcodedlyrics.com/wp-content/uploads/2016/06/snsd-girls-generation.jpg","width":300,"height":300},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#webpage","url":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Complete (OT8 Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#primaryimage"},"datePublished":"2016-06-29T11:07:21+00:00","dateModified":"2020-05-10T19:25:18+00:00","description":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Complete (OT8 Ver.) Lyrics KOREAN Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn","url":"https://colorcodedlyrics.com/category/krn","name":"KOREAN"}},{"@type":"ListItem","position":3,"item":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#webpage"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/6f1c158185e49391bd04dba66cbaae50"},"headline":"Girls&#8217; Generation (\uc18c\ub140\uc2dc\ub300) &#8211; Complete (OT8 Ver.)","datePublished":"2016-06-29T11:07:21+00:00","dateModified":"2020-05-10T19:25:18+00:00","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#webpage"},"commentCount":0,"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#primaryimage"},"keywords":["color. coded","complete","Girl's Generation","Hyoyeon","lyrics","Seohyun","SNSD","Sooyoung","Sunny","Taeyeon","Tiffany","Yoona","Yuri"],"articleSection":["Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)","KOREAN"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#respond"]}]},{"@type":"Person","@id":"https://colorcodedlyrics.com/#/schema/person/6f1c158185e49391bd04dba66cbaae50","name":"Hikaru","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=96&d=mm&r=pg","caption":"Hikaru"}}]}</script> <link
+name="twitter:data2" content="2 minutes"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","contentUrl":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#primaryimage","inLanguage":"en-US","url":"https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2016/06/snsd-girls-generation.jpg?fit=300%2C300&ssl=1","contentUrl":"https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2016/06/snsd-girls-generation.jpg?fit=300%2C300&ssl=1","width":300,"height":300},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#webpage","url":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver","name":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Complete (OT8 Ver.) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#primaryimage"},"datePublished":"2016-06-29T11:07:21+00:00","dateModified":"2020-05-10T19:25:18+00:00","description":"Girls' Generation (\uc18c\ub140\uc2dc\ub300) - Complete (OT8 Ver.) Lyrics KOREAN Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn","url":"https://colorcodedlyrics.com/category/krn","name":"KOREAN"}},{"@type":"ListItem","position":3,"item":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#webpage"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/6f1c158185e49391bd04dba66cbaae50"},"headline":"Girls&#8217; Generation (\uc18c\ub140\uc2dc\ub300) &#8211; Complete (OT8 Ver.)","datePublished":"2016-06-29T11:07:21+00:00","dateModified":"2020-05-10T19:25:18+00:00","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#webpage"},"commentCount":0,"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#primaryimage"},"keywords":["color. coded","complete","Girl's Generation","Hyoyeon","lyrics","Seohyun","SNSD","Sooyoung","Sunny","Taeyeon","Tiffany","Yoona","Yuri"],"articleSection":["Girls' Generation (\uc18c\ub140\uc2dc\ub300/\u5c11\u5973\u6642\u4ee3)","KOREAN"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver#respond"]}]},{"@type":"Person","@id":"https://colorcodedlyrics.com/#/schema/person/6f1c158185e49391bd04dba66cbaae50","name":"Hikaru","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/9ebe101ad2c21515b95458a9bdc65ebe?s=96&d=mm&r=pg","caption":"Hikaru"}}]}</script> <link
+rel='dns-prefetch' href='//secure.gravatar.com' /><link
 rel='dns-prefetch' href='//fonts.googleapis.com' /><link
 rel='dns-prefetch' href='//s.w.org' /><link
+rel='dns-prefetch' href='//v0.wordpress.com' /><link
+rel='dns-prefetch' href='//widgets.wp.com' /><link
+rel='dns-prefetch' href='//s0.wp.com' /><link
+rel='dns-prefetch' href='//0.gravatar.com' /><link
+rel='dns-prefetch' href='//1.gravatar.com' /><link
+rel='dns-prefetch' href='//2.gravatar.com' /><link
+rel='dns-prefetch' href='//i0.wp.com' /><link
+rel='dns-prefetch' href='//i1.wp.com' /><link
+rel='dns-prefetch' href='//i2.wp.com' /><link
+rel='dns-prefetch' href='//c0.wp.com' /><link
 rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Feed" href="https://colorcodedlyrics.com/feed" /><link
 rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Comments Feed" href="https://colorcodedlyrics.com/comments/feed" /><link
-rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Girls&#8217; Generation (소녀시대) &#8211; Complete (OT8 Ver.) Comments Feed" href="https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver/feed" /><link
-rel='stylesheet' id='wpo_min-header-0-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-20094ea2.min.css' media='all' /> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-header-84e60a2d.min.js' id='wpo_min-header-0-js'></script> <link
+rel="alternate" type="application/rss+xml" title="Color Coded Lyrics &raquo; Girls&#8217; Generation (소녀시대) &#8211; Complete (OT8 Ver.) Comments Feed" href="https://colorcodedlyrics.com/2016/06/girls-generation-sonyeosidae-complete-ot8-ver/feed" />
+ <script src="//www.googletagmanager.com/gtag/js?id=UA-29367300-1"  type="text/javascript" data-cfasync="false"></script> <script type="text/javascript" data-cfasync="false">var mi_version='7.17.0';var mi_track_user=!0;var mi_no_track_reason='';var disableStr='ga-disable-UA-29367300-1';function __gtagTrackerIsOptedOut(){return document.cookie.indexOf(disableStr+'=true')>-1}
+if(__gtagTrackerIsOptedOut()){window[disableStr]=!0}
+function __gtagTrackerOptout(){document.cookie=disableStr+'=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';window[disableStr]=!0}
+if('undefined'===typeof gaOptout){function gaOptout(){__gtagTrackerOptout()}}
+window.dataLayer=window.dataLayer||[];if(mi_track_user){function __gtagTracker(){dataLayer.push(arguments)}
+__gtagTracker('js',new Date());__gtagTracker('set',{'developer_id.dZGIzZG':!0,});__gtagTracker('config','UA-29367300-1',{forceSSL:!0,link_attribution:!0,});window.gtag=__gtagTracker;(function(){var noopfn=function(){return null};var newtracker=function(){return new Tracker()};var Tracker=function(){return null};var p=Tracker.prototype;p.get=noopfn;p.set=noopfn;p.send=function(){var args=Array.prototype.slice.call(arguments);args.unshift('send');__gaTracker.apply(null,args)};var __gaTracker=function(){var len=arguments.length;if(len===0){return}
+var f=arguments[len-1];if(typeof f!=='object'||f===null||typeof f.hitCallback!=='function'){if('send'===arguments[0]){var hitConverted,hitObject=!1,action;if('event'===arguments[1]){if('undefined'!==typeof arguments[3]){hitObject={'eventAction':arguments[3],'eventCategory':arguments[2],'eventLabel':arguments[4],'value':arguments[5]?arguments[5]:1,}}}
+if(typeof arguments[2]==='object'){hitObject=arguments[2]}
+if(typeof arguments[5]==='object'){Object.assign(hitObject,arguments[5])}
+if('undefined'!==typeof(arguments[1].hitType)){hitObject=arguments[1]}
+if(hitObject){action='timing'===arguments[1].hitType?'timing_complete':hitObject.eventAction;hitConverted=mapArgs(hitObject);__gtagTracker('event',action,hitConverted)}}
+return}
+function mapArgs(args){var gaKey,hit={};var gaMap={'eventCategory':'event_category','eventAction':'event_action','eventLabel':'event_label','eventValue':'event_value','nonInteraction':'non_interaction','timingCategory':'event_category','timingVar':'name','timingValue':'value','timingLabel':'event_label',};for(gaKey in gaMap){if('undefined'!==typeof args[gaKey]){hit[gaMap[gaKey]]=args[gaKey]}}
+return hit}
+try{f.hitCallback()}catch(ex){}};__gaTracker.create=newtracker;__gaTracker.getByName=newtracker;__gaTracker.getAll=function(){return[]};__gaTracker.remove=noopfn;__gaTracker.loaded=!0;window.__gaTracker=__gaTracker})()}else{console.log("");(function(){function __gtagTracker(){return null}
+window.__gtagTracker=__gtagTracker;window.gtag=__gtagTracker})()}</script> <link
+rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.6.3/wp-includes/css/dist/block-library/style.min.css' media='all' /><style id='wp-block-library-inline-css'>.has-text-align-justify{text-align:justify}</style><link
+rel='stylesheet' id='wpo_min-header-1-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620352414/assets/wpo-minify-header-a11d0f5f.min.css' media='all' /><link
+rel='stylesheet' id='dashicons-css'  href='https://c0.wp.com/c/5.6.3/wp-includes/css/dashicons.min.css' media='all' /><link
+rel='stylesheet' id='wpo_min-header-3-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620352414/assets/wpo-minify-header-7b842abb.min.css' media='all' /><link
+rel='stylesheet' id='wpo_min-header-5-css'  href='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620352414/assets/wpo-minify-header-d2211bd3.min.css' media='all' /><link
+rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/9.7/css/jetpack.css' media='all' /> <script src='https://c0.wp.com/c/5.6.3/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script> <script src='https://c0.wp.com/c/5.6.3/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script> <script id='wpo_min-header-0-js-extra'>var monsterinsights_frontend={"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/colorcodedlyrics.com","hash_tracking":"false","ua":"UA-29367300-1"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620352414/assets/wpo-minify-header-ceb60cc1.min.js' id='wpo_min-header-0-js'></script> <link
 rel="https://api.w.org/" href="https://colorcodedlyrics.com/wp-json/" /><link
 rel="alternate" type="application/json" href="https://colorcodedlyrics.com/wp-json/wp/v2/posts/88021" /><link
 rel="EditURI" type="application/rsd+xml" title="RSD" href="https://colorcodedlyrics.com/xmlrpc.php?rsd" /><link
 rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://colorcodedlyrics.com/wp-includes/wlwmanifest.xml" /><meta
 name="generator" content="WordPress 5.6.3" /><link
-rel='shortlink' href='https://colorcodedlyrics.com/?p=88021' /><link
+rel='shortlink' href='https://wp.me/pcRN2a-mTH' /><link
 rel="alternate" type="application/json+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2016%2F06%2Fgirls-generation-sonyeosidae-complete-ot8-ver" /><link
 rel="alternate" type="text/xml+oembed" href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2016%2F06%2Fgirls-generation-sonyeosidae-complete-ot8-ver&#038;format=xml" /> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-29367300-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
-gtag('js',new Date());gtag('config','UA-29367300-1')</script> <style type="text/css" id="custom-theme-css">.custom-logo{height:120px;width:auto}body.custom-background .bg-similar-posts{background-color:#EDF2F7}</style><style id="uagb-style-conditional-extension">@media (min-width:1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width:768px) and (max-width:1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width:767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><link
-rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-32x32.jpg" sizes="32x32" /><link
-rel="icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-192x192.jpg" sizes="192x192" /><link
-rel="apple-touch-icon" href="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-180x180.jpg" /><meta
-name="msapplication-TileImage" content="https://colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo-270x270.jpg" /><style id="wp-custom-css">@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);.single-post-card .card-body{padding:2rem 0rem;max-width:1140px;margin:auto;font-size:.8rem;font-family:'Lato',sans-serif}.entry-content{background-color:#000;padding:2rem;color:#828282}.entry-content h2{font-size:2em;font-family:"DM Serif Display",serif}.single-post-card .entry-header{padding:0rem 2rem}.single-post-card .cat-links{padding:0rem 2rem}.wp-block-group{color:#828282}.TrendingDiv h1,h4{font-family:"DM Serif Display",serif;font-weight:400}.site-title{font-family:"DM Serif Display",serif}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,thead,tbody,th,td,tr{display:block}thead tr{position:absolute;top:-9999px;left:-9999px}tr{border:0}td{margin-bottom:20px}@media only screen and (min-device-width :320px) and (max-device-width :480px){body{padding:0;margin:0;min-width:320px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){body{min-width:495px}}}</style> <script data-ad-client="ca-pub-9127294175918477" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head><body data-rsssl=1
+gtag('js',new Date());gtag('config','UA-29367300-1')</script> <style type="text/css" id="custom-theme-css">.custom-logo{height:120px;width:auto}body.custom-background .bg-similar-posts{background-color:#EDF2F7}</style><style type="text/css">html:not(.jetpack-lazy-images-js-enabled):not(.js) .jetpack-lazy-image{display:none}</style> <script>document.documentElement.classList.add('jetpack-lazy-images-js-enabled')</script> <style id="uagb-style-conditional-extension">@media (min-width:1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width:768px) and (max-width:1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width:767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><link
+rel="icon" href="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo.jpg?fit=32%2C32&#038;ssl=1" sizes="32x32" /><link
+rel="icon" href="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo.jpg?fit=180%2C180&#038;ssl=1" /><meta
+name="msapplication-TileImage" content="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/01/cropped-CCL-Logo.jpg?fit=270%2C270&#038;ssl=1" /><style type="text/css" id="wp-custom-css">@import url(https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap);@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);.single-post-card .card-body{padding:2rem 0rem;max-width:1140px;margin:auto;font-size:.8rem;font-family:'Lato',sans-serif}.entry-content{background-color:#000;padding:2rem;color:#828282}.entry-content h2{font-size:2em;font-family:"DM Serif Display",serif}.single-post-card .entry-header{padding:0rem 2rem}.single-post-card .cat-links{padding:0rem 2rem}.wp-block-group{color:#828282}.TrendingDiv h1,h4{font-family:"DM Serif Display",serif;font-weight:400}.site-title{font-family:"DM Serif Display",serif}@media only screen and (max-width:760px),(min-device-width:768px) and (max-device-width:1024px){table,thead,tbody,th,td,tr{display:block}thead tr{position:absolute;top:-9999px;left:-9999px}tr{border:0}td{margin-bottom:20px}@media only screen and (min-device-width :320px) and (max-device-width :480px){body{padding:0;margin:0;min-width:320px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){body{min-width:495px}}}</style> <script data-ad-client="ca-pub-9127294175918477" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> </head><body data-rsssl=1
 class="post-template-default single single-post postid-88021 single-format-standard wp-custom-logo wp-embed-responsive no-sidebar no-sidebar-single"><div
 id="page" class="site">
 <a
@@ -55,7 +88,7 @@ class=""><div
 class="site-branding">
 <a
 href="https://colorcodedlyrics.com/" class="custom-logo-link" rel="home"><img
-width="1499" height="1138" src="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png" class="custom-logo" alt="Color Coded Lyrics" srcset="https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png 1499w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-395x300.png 395w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-785x596.png 785w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-768x583.png 768w, https://colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021-800x607.png 800w" sizes="(max-width: 1499px) 100vw, 1499px" /></a><p
+width="1499" height="1138" src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png?fit=1499%2C1138&amp;ssl=1" class="custom-logo jetpack-lazy-image" alt="Color Coded Lyrics" data-lazy-srcset="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png?w=1499&amp;ssl=1 1499w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png?resize=395%2C300&amp;ssl=1 395w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png?resize=785%2C596&amp;ssl=1 785w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png?resize=768%2C583&amp;ssl=1 768w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png?resize=800%2C607&amp;ssl=1 800w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png?w=1280&amp;ssl=1 1280w" data-lazy-sizes="(max-width: 1499px) 100vw, 1499px" data-lazy-src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2021/03/CCL-vector-pink-small-2021.png?fit=1499%2C1138&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a><p
 class="site-title"><a
 href="https://colorcodedlyrics.com/" rel="home">Color Coded Lyrics</a></p></div></div><div
 class="flex-grow-1"><nav
@@ -144,7 +177,8 @@ style="text-decoration: underline">Girls’ Generation</span><br
 />
 2007.11.01</p></td><td
 style="text-align: right"><img
-loading="lazy" class="alignright" title="SNSD - Girls' Generation" src="https://colorcodedlyrics.com/wp-content/uploads/2016/06/snsd-girls-generation.jpg" alt="" width="200" height="200"></td></tr><tr><td
+loading="lazy" class="alignright jetpack-lazy-image" title="SNSD - Girls&#039; Generation" src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2016/06/snsd-girls-generation.jpg?resize=200%2C200&#038;ssl=1" alt width="200" height="200" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2016/06/snsd-girls-generation.jpg?resize=200%2C200&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+loading="lazy" class="alignright" title="SNSD - Girls' Generation" src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2016/06/snsd-girls-generation.jpg?resize=200%2C200&#038;ssl=1" alt="" width="200" height="200"  data-recalc-dims="1"></noscript></td></tr><tr><td
 style="text-align: center"><span
 style="color: #ff6600">Taeyeon</span>, <span
 style="color: #800080">Sunny</span>, <span
@@ -162,8 +196,10 @@ style="text-align: right"><strong>Lyrics/작사</strong>: JAN L<br
 <strong>Composer/작곡</strong>: JAN L<br
 />
 <strong>Arranger/편곡</strong>: ???</td></tr></tbody></table><p
-style="text-align: center"><a
-href="">[youtube https://www.youtube.com/watch?v=vaWImbHK8NQ&amp;w=560&amp;h=315]</a></p><p><span
+style="text-align: center"><div
+class="jetpack-video-wrapper"><span
+class="embed-youtube" style="text-align:center; display: block;"><iframe
+class='youtube-player' width='560' height='315' src='https://www.youtube.com/embed/vaWImbHK8NQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation'></iframe></span></div></p><p><span
 style="color: #ff00ff"><span
 id="more-88021"></span></span></p><table
 border="0"><tbody><tr><th>Romanization</th><th>Korean</th><th>Translation</th></tr><tr><td><span
@@ -401,12 +437,12 @@ class="row row-cols-1 row-cols-sm-2 bg-posts-row"><div
 class="col"><article
 class="archive-post-card">
 <a
-class="post-thumbnail" href="https://colorcodedlyrics.com/2015/06/2pm-red" aria-hidden="true" tabindex="-1">
+class="post-thumbnail" href="https://colorcodedlyrics.com/2018/04/rose-l-y" aria-hidden="true" tabindex="-1">
 <img
-width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2015/06/2PM-NO.5.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="2PM &#8211; RED" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2015/06/2PM-NO.5.jpg 800w, https://colorcodedlyrics.com/wp-content/uploads/2015/06/2PM-NO.5-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2015/06/2PM-NO.5-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2015/06/2PM-NO.5-785x785.jpg 785w, https://colorcodedlyrics.com/wp-content/uploads/2015/06/2PM-NO.5-32x32.jpg 32w, https://colorcodedlyrics.com/wp-content/uploads/2015/06/2PM-NO.5-64x64.jpg 64w, https://colorcodedlyrics.com/wp-content/uploads/2015/06/2PM-NO.5-96x96.jpg 96w, https://colorcodedlyrics.com/wp-content/uploads/2015/06/2PM-NO.5-128x128.jpg 128w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
+width="400" height="260" src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/04/The-Rose-Void.jpg?resize=400%2C260&amp;ssl=1" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image jetpack-lazy-image" alt="The Rose &#8211; I.L.Y." loading="lazy" data-lazy-srcset="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/04/The-Rose-Void.jpg?zoom=2&amp;resize=400%2C260&amp;ssl=1 800w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/04/The-Rose-Void.jpg?zoom=3&amp;resize=400%2C260&amp;ssl=1 1200w" data-lazy-sizes="(max-width: 400px) 100vw, 400px" data-lazy-src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/04/The-Rose-Void.jpg?resize=400%2C260&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />									</a><div
 class="card-body"><header
 class="entry-header"><h3 class="entry-title"><a
-href="https://colorcodedlyrics.com/2015/06/2pm-red" rel="bookmark">2PM &#8211; RED</a></h3><div
+href="https://colorcodedlyrics.com/2018/04/rose-l-y" rel="bookmark">The Rose &#8211; I.L.Y.</a></h3><div
 class="entry-meta">
 <span
 class="posted-on flex-grow-1">
@@ -418,48 +454,9 @@ fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2
 fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
 </svg>
 <a
-href="https://colorcodedlyrics.com/2015/06/2pm-red" rel="bookmark"><time
-class="entry-date published" datetime="2015-06-15T09:47:30-07:00">June 15, 2015</time><time
-class="updated" datetime="2015-06-25T12:18:39-07:00">June 25, 2015</time></a>
-</span>
-<span
-class="byline">
-<svg
-width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-<path
-d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
-<path
-fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
-<path
-fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
-</svg>
-<span
-class="author vcard"><a
-class="url fn n" href="https://colorcodedlyrics.com/author/dragonshine">dragonshine</a></span>
-</span></div></header></div></article></div><div
-class="col"><article
-class="archive-post-card">
-<a
-class="post-thumbnail" href="https://colorcodedlyrics.com/2019/06/sulli-seolli-goblin-gobeullin" aria-hidden="true" tabindex="-1">
-<img
-width="260" height="260" src="https://colorcodedlyrics.com/wp-content/uploads/2019/06/Sulli-고블린-Goblin.jpg" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image" alt="Sulli (설리) &#8211; Goblin (고블린)" loading="lazy" srcset="https://colorcodedlyrics.com/wp-content/uploads/2019/06/Sulli-고블린-Goblin.jpg 600w, https://colorcodedlyrics.com/wp-content/uploads/2019/06/Sulli-고블린-Goblin-250x250.jpg 250w, https://colorcodedlyrics.com/wp-content/uploads/2019/06/Sulli-고블린-Goblin-300x300.jpg 300w, https://colorcodedlyrics.com/wp-content/uploads/2019/06/Sulli-고블린-Goblin-24x24.jpg 24w, https://colorcodedlyrics.com/wp-content/uploads/2019/06/Sulli-고블린-Goblin-48x48.jpg 48w, https://colorcodedlyrics.com/wp-content/uploads/2019/06/Sulli-고블린-Goblin-96x96.jpg 96w" sizes="(max-width: 260px) 100vw, 260px" />									</a><div
-class="card-body"><header
-class="entry-header"><h3 class="entry-title"><a
-href="https://colorcodedlyrics.com/2019/06/sulli-seolli-goblin-gobeullin" rel="bookmark">Sulli (설리) &#8211; Goblin (고블린)</a></h3><div
-class="entry-meta">
-<span
-class="posted-on flex-grow-1">
-<svg
-width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-<path
-fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
-<path
-fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
-</svg>
-<a
-href="https://colorcodedlyrics.com/2019/06/sulli-seolli-goblin-gobeullin" rel="bookmark"><time
-class="entry-date published" datetime="2019-06-29T02:08:08-07:00">June 29, 2019</time><time
-class="updated" datetime="2019-08-14T15:20:32-07:00">August 14, 2019</time></a>
+href="https://colorcodedlyrics.com/2018/04/rose-l-y" rel="bookmark"><time
+class="entry-date published" datetime="2018-04-16T10:06:59-07:00">April 16, 2018</time><time
+class="updated" datetime="2018-07-30T15:51:34-07:00">July 30, 2018</time></a>
 </span>
 <span
 class="byline">
@@ -475,6 +472,45 @@ fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8
 <span
 class="author vcard"><a
 class="url fn n" href="https://colorcodedlyrics.com/author/wozumo">Silva</a></span>
+</span></div></header></div></article></div><div
+class="col"><article
+class="archive-post-card">
+<a
+class="post-thumbnail" href="https://colorcodedlyrics.com/2018/07/hongseok-amp-kino-pentagon-romance-nangman" aria-hidden="true" tabindex="-1">
+<img
+width="400" height="260" src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/02/Kino-of-PENTAGON.png?resize=400%2C260&amp;ssl=1" class="attachment-bloggrid-medium-image size-bloggrid-medium-image wp-post-image jetpack-lazy-image" alt="Hongseok &amp; Kino of PENTAGON &#8211; Romance (낭만)" loading="lazy" data-lazy-srcset="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/02/Kino-of-PENTAGON.png?zoom=2&amp;resize=400%2C260&amp;ssl=1 800w, https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/02/Kino-of-PENTAGON.png?zoom=3&amp;resize=400%2C260&amp;ssl=1 1200w" data-lazy-sizes="(max-width: 400px) 100vw, 400px" data-lazy-src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2018/02/Kino-of-PENTAGON.png?resize=400%2C260&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />									</a><div
+class="card-body"><header
+class="entry-header"><h3 class="entry-title"><a
+href="https://colorcodedlyrics.com/2018/07/hongseok-amp-kino-pentagon-romance-nangman" rel="bookmark">Hongseok &amp; Kino of PENTAGON &#8211; Romance (낭만)</a></h3><div
+class="entry-meta">
+<span
+class="posted-on flex-grow-1">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-calendar3" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"/>
+<path
+fill-rule="evenodd" d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+</svg>
+<a
+href="https://colorcodedlyrics.com/2018/07/hongseok-amp-kino-pentagon-romance-nangman" rel="bookmark"><time
+class="entry-date published" datetime="2018-07-08T12:05:44-07:00">July 8, 2018</time><time
+class="updated" datetime="2021-04-24T14:43:34-07:00">April 24, 2021</time></a>
+</span>
+<span
+class="byline">
+<svg
+width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-person-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M13.468 12.37C12.758 11.226 11.195 10 8 10s-4.757 1.225-5.468 2.37A6.987 6.987 0 0 0 8 15a6.987 6.987 0 0 0 5.468-2.63z"/>
+<path
+fill-rule="evenodd" d="M8 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+<path
+fill-rule="evenodd" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"/>
+</svg>
+<span
+class="author vcard"><a
+class="url fn n" href="https://colorcodedlyrics.com/author/xmhhjx">Sandy</a></span>
 </span></div></header></div></article></div></div></div><div
 class="clearfix"></div></div></article><nav
 class="navigation post-navigation" role="navigation" aria-label="Posts"><h2 class="screen-reader-text">Post navigation</h2><div
@@ -520,5 +556,5 @@ id="bg-to-top" title="Go to Top">
 width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-arrow-up-square-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
 <path
 fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 8.354a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 6.207V11a.5.5 0 0 1-1 0V6.207L5.354 8.354z"/>
-</svg></div></footer></div> <script id='wpo_min-footer-0-js-extra'>var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"88021"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620111725/assets/wpo-minify-footer-801f1e37.min.js' id='wpo_min-footer-0-js'></script> </body></html>
-<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Thu, 06 May 2021 08:50:11 GMT -->
+</svg></div></footer></div> <script src='https://c0.wp.com/p/jetpack/9.7/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620352414/assets/wpo-minify-footer-fce40e27.min.js' id='wpo_min-footer-1-js'></script> <script src='https://c0.wp.com/c/5.6.3/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script> <script id='wpo_min-footer-3-js-extra'>var jetpackLazyImagesL10n={"loading_warning":"Images are still loading. Please cancel your print and try again."};var Wtpsw={"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"88021"}</script> <script src='https://colorcodedlyrics.com/wp-content/cache/wpo-minify/1620352414/assets/wpo-minify-footer-f69022dc.min.js' id='wpo_min-footer-3-js'></script> <script src='https://c0.wp.com/c/5.6.3/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script> <script src='https://c0.wp.com/p/jetpack/9.7/modules/theme-tools/responsive-videos/responsive-videos.min.js' id='jetpack-responsive-videos-min-script-js'></script> <script src='https://stats.wp.com/e-202119.js' defer></script> <script>_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:9.7',blog:'190135906',post:'88021',tz:'-7',srv:'colorcodedlyrics.com'}]);_stq.push(['clickTrackerInit','190135906','88021'])</script> </body></html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Tue, 11 May 2021 08:45:48 GMT -->
